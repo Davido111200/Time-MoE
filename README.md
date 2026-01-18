@@ -249,18 +249,32 @@ python main.py --help
 }
 ```
 
-## Related Resources
-* TimeMixer++: A General Time Series Pattern Machine for Universal Predictive Analysis, in arXiv 2024. [\[paper\]](https://arxiv.org/abs/2410.16032) [\[GitHub Repo\]](https://github.com/kwuking/TimeMixer)
-* Towards Neural Scaling Laws for Time Series Foundation Models, arXiv 2024. [\[paper\]](https://arxiv.org/pdf/2410.12360)
-* Foundation Models for Time Series Analysis: A Tutorial and Survey, in *KDD*
-  2024. [\[paper\]](https://arxiv.org/abs/2403.14735) [\[Tutorial\]](https://wenhaomin.github.io/FM4TS.github.io/)
-* What Can Large Language Models Tell Us about Time Series Analysis, in *ICML*
-  2024. [\[paper\]](https://arxiv.org/abs/2402.02713)
-* Self-Supervised Learning for Time Series Analysis: Taxonomy, Progress, and Prospects, in *TPAMI*
-  2024. [\[paper\]](https://arxiv.org/abs/2306.10125) [\[Website\]](https://github.com/qingsongedu/Awesome-SSL4TS)
-* Transformers in Time Series: A Survey, in *IJCAI*
-  2023. [\[paper\]](https://arxiv.org/abs/2202.07125) [\[GitHub Repo\]](https://github.com/qingsongedu/time-series-transformers-review)
-* A Survey on Graph Neural Networks for Time Series: Forecasting, Classification, Imputation, and Anomaly Detection, in *TPAMI* 2024. [\[paper\]](https://arxiv.org/abs/2307.03759) [\[Website\]](https://github.com/KimMeen/Awesome-GNN4TS)
+
+
+# Train Model (Step 1)
+Prior to run inference, train Time-Moe and Timer-XL with these commands. Set approriate save_dir and data_dir before run these. 
+Time-Moe
+```bash
+bash ./bashfiles/timemoe/finetuned/etth1_zeroshot.sh
+```
+Timer-XL
+```bash
+bash ./bashfiles/timerxl/train_scripts/ETTh1.sh
+```
+
+# Inference (Step 2)
+Build the cache and run inference. The cache is built once and saved. Runs after that will load the built cache.
+Time-Moe
+```bash
+python run_eval_steering_finetuned_dtf_fullsteer_unified_interpolate.py -m {your_trained_model_dir} -d ./data/all_datasets/ETT-small/ETTh1.csv -p 96 --data ETTh1 --enc_in 7 --dec_in 7 --c_out 7 --lam 0.01 --retrieval euclidean --num_closest_samples 1 --collapse_weight 0.0 --batch_size 512
+```
+Timer-XL
+```bash
+python /home/s223540177/Time-MoE/run_timer_xl_unified_interpolate.py -m {your_trained_model_dir} -d ./data/all_datasets/ETT-small/ETTh1.csv -p 96 --data ETTh1 --enc_in 7 --dec_in 7 --c_out 7 --lam 0.01 --retrieval euclidean --num_closest_samples 1 --collapse_weight 0.0 --batch_size 1024 ```
+
+
+
+
 
 
 ## Acknowledgement
