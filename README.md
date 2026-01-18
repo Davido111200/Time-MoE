@@ -252,12 +252,20 @@ python main.py --help
 
 
 # Train Model (Step 1)
+Install packages
+```bash
+pip install -r requirements_org.txt
+```
+
 Prior to run inference, train Time-Moe and Timer-XL with these commands. Set approriate save_dir and data_dir before run these. 
 Time-Moe
+
 ```bash
-bash ./bashfiles/timemoe/finetuned/etth1_zeroshot.sh
+python torch_dist_run.py main.py -d /scratch/s223540177/Time-Series-Library/data/all_datasets/ETT-small/ETTh1.csv
 ```
+
 Timer-XL
+
 ```bash
 bash ./bashfiles/timerxl/train_scripts/ETTh1.sh
 ```
