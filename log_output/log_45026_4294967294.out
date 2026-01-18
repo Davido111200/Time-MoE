@@ -1,0 +1,693 @@
+=== Running lam=0.01, num_closest_samples=6 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+21053088
+0 - {'mse': tensor(0.1487, device='cuda:0'), 'mae': tensor(0.2007, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/weather/final_metrics/
+=== Running lam=0.01, num_closest_samples=6 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+21053088
+0 - {'mse': tensor(0.1482, device='cuda:0'), 'mae': tensor(0.1997, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/weather/final_metrics/
+=== Running lam=0.01, num_closest_samples=6 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+21053088
+0 - {'mse': tensor(0.1478, device='cuda:0'), 'mae': tensor(0.1988, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/weather/final_metrics/
+=== Running lam=0.01, num_closest_samples=6 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+21053088
+0 - {'mse': tensor(0.1475, device='cuda:0'), 'mae': tensor(0.1980, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/weather/final_metrics/
+=== Running lam=0.01, num_closest_samples=6 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+21053088
+0 - {'mse': tensor(0.1472, device='cuda:0'), 'mae': tensor(0.1975, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/weather/final_metrics/
+=== Running lam=0.01, num_closest_samples=6 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+21053088
+0 - {'mse': tensor(0.1470, device='cuda:0'), 'mae': tensor(0.1971, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/weather/final_metrics/
+=== Running lam=0.01, num_closest_samples=6 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+21053088
+0 - {'mse': tensor(0.1469, device='cuda:0'), 'mae': tensor(0.1968, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/weather/final_metrics/
+=== Running lam=0.01, num_closest_samples=6 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+21053088
+0 - {'mse': tensor(0.1468, device='cuda:0'), 'mae': tensor(0.1968, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/weather/final_metrics/
+=== Running lam=0.01, num_closest_samples=6 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+21053088
+0 - {'mse': tensor(0.1468, device='cuda:0'), 'mae': tensor(0.1969, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/weather/final_metrics/
+=== Running lam=0.01, num_closest_samples=6 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+21053088
+0 - {'mse': tensor(0.1468, device='cuda:0'), 'mae': tensor(0.1973, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/weather/final_metrics/
+=== Running lam=0.01, num_closest_samples=6 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+21053088
+0 - {'mse': tensor(0.1468, device='cuda:0'), 'mae': tensor(0.1977, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/weather/final_metrics/
+=== Running lam=0.01, num_closest_samples=7 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+21053088
+0 - {'mse': tensor(0.1487, device='cuda:0'), 'mae': tensor(0.2008, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/weather/final_metrics/
+=== Running lam=0.01, num_closest_samples=7 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+21053088
+0 - {'mse': tensor(0.1482, device='cuda:0'), 'mae': tensor(0.1997, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/weather/final_metrics/
+=== Running lam=0.01, num_closest_samples=7 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+21053088
+0 - {'mse': tensor(0.1479, device='cuda:0'), 'mae': tensor(0.1988, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/weather/final_metrics/
+=== Running lam=0.01, num_closest_samples=7 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+21053088
+0 - {'mse': tensor(0.1475, device='cuda:0'), 'mae': tensor(0.1981, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/weather/final_metrics/
+=== Running lam=0.01, num_closest_samples=7 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+21053088
+0 - {'mse': tensor(0.1473, device='cuda:0'), 'mae': tensor(0.1975, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/weather/final_metrics/
+=== Running lam=0.01, num_closest_samples=7 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+21053088
+0 - {'mse': tensor(0.1470, device='cuda:0'), 'mae': tensor(0.1971, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/weather/final_metrics/
+=== Running lam=0.01, num_closest_samples=7 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+21053088
+0 - {'mse': tensor(0.1469, device='cuda:0'), 'mae': tensor(0.1968, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/weather/final_metrics/
+=== Running lam=0.01, num_closest_samples=7 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+21053088
+0 - {'mse': tensor(0.1468, device='cuda:0'), 'mae': tensor(0.1968, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/weather/final_metrics/
+=== Running lam=0.01, num_closest_samples=7 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+21053088
+0 - {'mse': tensor(0.1468, device='cuda:0'), 'mae': tensor(0.1970, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/weather/final_metrics/
+=== Running lam=0.01, num_closest_samples=7 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+21053088
+0 - {'mse': tensor(0.1468, device='cuda:0'), 'mae': tensor(0.1973, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/weather/final_metrics/
+=== Running lam=0.01, num_closest_samples=7 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+21053088
+0 - {'mse': tensor(0.1468, device='cuda:0'), 'mae': tensor(0.1977, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/weather/final_metrics/
+=== Running lam=0.01, num_closest_samples=8 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+21053088
+0 - {'mse': tensor(0.1487, device='cuda:0'), 'mae': tensor(0.2009, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/weather/final_metrics/
+=== Running lam=0.01, num_closest_samples=8 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+21053088
+0 - {'mse': tensor(0.1482, device='cuda:0'), 'mae': tensor(0.1998, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/weather/final_metrics/
+=== Running lam=0.01, num_closest_samples=8 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+21053088
+0 - {'mse': tensor(0.1478, device='cuda:0'), 'mae': tensor(0.1989, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/weather/final_metrics/
+=== Running lam=0.01, num_closest_samples=8 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+21053088
+0 - {'mse': tensor(0.1475, device='cuda:0'), 'mae': tensor(0.1981, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/weather/final_metrics/
+=== Running lam=0.01, num_closest_samples=8 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+21053088
+0 - {'mse': tensor(0.1472, device='cuda:0'), 'mae': tensor(0.1975, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/weather/final_metrics/
+=== Running lam=0.01, num_closest_samples=8 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+21053088
+0 - {'mse': tensor(0.1470, device='cuda:0'), 'mae': tensor(0.1971, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/weather/final_metrics/
+=== Running lam=0.01, num_closest_samples=8 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+21053088
+0 - {'mse': tensor(0.1469, device='cuda:0'), 'mae': tensor(0.1968, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/weather/final_metrics/
+=== Running lam=0.01, num_closest_samples=8 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+21053088
+0 - {'mse': tensor(0.1468, device='cuda:0'), 'mae': tensor(0.1968, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/weather/final_metrics/
+=== Running lam=0.01, num_closest_samples=8 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+21053088
+0 - {'mse': tensor(0.1468, device='cuda:0'), 'mae': tensor(0.1969, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/weather/final_metrics/
+=== Running lam=0.01, num_closest_samples=8 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+21053088
+0 - {'mse': tensor(0.1468, device='cuda:0'), 'mae': tensor(0.1972, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/weather/final_metrics/
+=== Running lam=0.01, num_closest_samples=8 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+21053088
+0 - {'mse': tensor(0.1468, device='cuda:0'), 'mae': tensor(0.1977, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/weather/final_metrics/
+=== Running lam=0.01, num_closest_samples=9 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+21053088
+0 - {'mse': tensor(0.1487, device='cuda:0'), 'mae': tensor(0.2010, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/weather/final_metrics/
+=== Running lam=0.01, num_closest_samples=9 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+21053088
+0 - {'mse': tensor(0.1483, device='cuda:0'), 'mae': tensor(0.1999, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/weather/final_metrics/
+=== Running lam=0.01, num_closest_samples=9 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+21053088
+0 - {'mse': tensor(0.1479, device='cuda:0'), 'mae': tensor(0.1990, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/weather/final_metrics/
+=== Running lam=0.01, num_closest_samples=9 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+21053088
+0 - {'mse': tensor(0.1475, device='cuda:0'), 'mae': tensor(0.1982, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/weather/final_metrics/
+=== Running lam=0.01, num_closest_samples=9 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+21053088
+0 - {'mse': tensor(0.1473, device='cuda:0'), 'mae': tensor(0.1976, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/weather/final_metrics/
+=== Running lam=0.01, num_closest_samples=9 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+21053088
+0 - {'mse': tensor(0.1470, device='cuda:0'), 'mae': tensor(0.1971, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/weather/final_metrics/
+=== Running lam=0.01, num_closest_samples=9 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+21053088
+0 - {'mse': tensor(0.1469, device='cuda:0'), 'mae': tensor(0.1969, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/weather/final_metrics/
+=== Running lam=0.01, num_closest_samples=9 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+21053088
+0 - {'mse': tensor(0.1468, device='cuda:0'), 'mae': tensor(0.1968, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/weather/final_metrics/
+=== Running lam=0.01, num_closest_samples=9 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+21053088
+0 - {'mse': tensor(0.1468, device='cuda:0'), 'mae': tensor(0.1969, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/weather/final_metrics/
+=== Running lam=0.01, num_closest_samples=9 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+21053088
+0 - {'mse': tensor(0.1468, device='cuda:0'), 'mae': tensor(0.1972, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/weather/final_metrics/
+=== Running lam=0.01, num_closest_samples=9 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+21053088
+0 - {'mse': tensor(0.1468, device='cuda:0'), 'mae': tensor(0.1977, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/weather/final_metrics/
+=== Running lam=0.01, num_closest_samples=10 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+21053088
+0 - {'mse': tensor(0.1487, device='cuda:0'), 'mae': tensor(0.2010, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/weather/final_metrics/
+=== Running lam=0.01, num_closest_samples=10 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+21053088
+0 - {'mse': tensor(0.1482, device='cuda:0'), 'mae': tensor(0.1999, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/weather/final_metrics/
+=== Running lam=0.01, num_closest_samples=10 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+21053088
+0 - {'mse': tensor(0.1478, device='cuda:0'), 'mae': tensor(0.1989, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/weather/final_metrics/
+=== Running lam=0.01, num_closest_samples=10 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+21053088
+0 - {'mse': tensor(0.1475, device='cuda:0'), 'mae': tensor(0.1982, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/weather/final_metrics/
+=== Running lam=0.01, num_closest_samples=10 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+21053088
+0 - {'mse': tensor(0.1472, device='cuda:0'), 'mae': tensor(0.1975, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/weather/final_metrics/
+=== Running lam=0.01, num_closest_samples=10 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+21053088
+0 - {'mse': tensor(0.1470, device='cuda:0'), 'mae': tensor(0.1971, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/weather/final_metrics/
+=== Running lam=0.01, num_closest_samples=10 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+21053088
+0 - {'mse': tensor(0.1469, device='cuda:0'), 'mae': tensor(0.1968, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/weather/final_metrics/
+=== Running lam=0.01, num_closest_samples=10 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+21053088
+0 - {'mse': tensor(0.1468, device='cuda:0'), 'mae': tensor(0.1968, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/weather/final_metrics/
+=== Running lam=0.01, num_closest_samples=10 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+21053088
+0 - {'mse': tensor(0.1467, device='cuda:0'), 'mae': tensor(0.1969, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/weather/final_metrics/
+=== Running lam=0.01, num_closest_samples=10 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+21053088
+0 - {'mse': tensor(0.1468, device='cuda:0'), 'mae': tensor(0.1972, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/weather/final_metrics/
+=== Running lam=0.01, num_closest_samples=10 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+21053088
+0 - {'mse': tensor(0.1468, device='cuda:0'), 'mae': tensor(0.1977, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/weather/final_metrics/
+=== Running lam=0.01, num_closest_samples=11 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+21053088
+0 - {'mse': tensor(0.1487, device='cuda:0'), 'mae': tensor(0.2010, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/weather/final_metrics/
+=== Running lam=0.01, num_closest_samples=11 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+21053088
+0 - {'mse': tensor(0.1482, device='cuda:0'), 'mae': tensor(0.1999, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/weather/final_metrics/
+=== Running lam=0.01, num_closest_samples=11 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE

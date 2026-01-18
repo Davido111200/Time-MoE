@@ -1,0 +1,38 @@
+>>> Model dtype: torch.float32; Attention:eager
+N points: 1000
+Window length: 608
+N points: 1000
+Window length: 608
+N points: 1000
+Window length: 608
+N points: 1000
+Window length: 608
+N points: 1000
+Window length: 608
+N points: 1000
+Window length: 608
+N points: 1000
+Window length: 608
+Saved Pred to /scratch/s223540177/Time-Moe/cache_data_1000/ETTh2/pred_cache.pt
+N points: 1000
+Window length: 608
+N points: 1000
+Window length: 608
+N points: 1000
+Window length: 608
+N points: 1000
+Window length: 608
+N points: 1000
+Window length: 608
+N points: 1000
+Window length: 608
+N points: 1000
+Window length: 608
+Saved gt to /scratch/s223540177/Time-Moe/cache_data_1000/ETTh2/gt_cache.pt
+SORTED DONE
+2025-10-28 22:56:42,422 - log_util.py[pid:3060928;line:52:log_in_local_rank_0] - INFO: >>> Split test data from 2017-10-02 16:00:00 to 2018-02-20 23:00:00, and evaluation start date is: 2017-10-24 00:00:00
+1870848
+0 - {'mse': tensor(0.3659, device='cuda:0'), 'mae': tensor(0.4078, device='cuda:0')}
+[1;34mwandb[0m: 
+[1;34mwandb[0m: 🚀 View run [33mtwilight-firefly-551[0m at: [34m[0m
+[1;34mwandb[0m: Find logs at: [1;35mwandb/run-20251028_224910-8wcfnuat/logs[0m

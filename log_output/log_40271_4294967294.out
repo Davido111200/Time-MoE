@@ -1,0 +1,8 @@
+DATA: weather
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+2025-10-24 01:07:06,078 - log_util.py[pid:3005516;line:52:log_in_local_rank_0] - INFO: >>> Split test data from 2020-10-16 06:20:00 to 2021-01-01 00:00:00, and evaluation start date is: 2020-10-19 19:40:00
+Test dl: <torch.utils.data.dataloader.DataLoader object at 0x7fbd88623d00>
+Len test dl: 219303

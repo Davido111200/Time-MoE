@@ -1,0 +1,336 @@
+=== Running lam=0.01, num_closest_samples=1, weight=0.0 ===
+Loaded pred cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/exchange_rate/timerxl/pred_cache.pt
+Loaded gt cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/exchange_rate/timerxl/gt_cache.pt
+Caches ready.
+1091328
+0 - {'mse': tensor(0.1666, device='cuda:0'), 'mae': tensor(0.2837, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results_timer_xl/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=2, weight=0.0 ===
+Loaded pred cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/exchange_rate/timerxl/pred_cache.pt
+Loaded gt cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/exchange_rate/timerxl/gt_cache.pt
+Caches ready.
+1091328
+0 - {'mse': tensor(0.1666, device='cuda:0'), 'mae': tensor(0.2837, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results_timer_xl/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=3, weight=0.0 ===
+Loaded pred cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/exchange_rate/timerxl/pred_cache.pt
+Loaded gt cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/exchange_rate/timerxl/gt_cache.pt
+Caches ready.
+1091328
+0 - {'mse': tensor(0.1667, device='cuda:0'), 'mae': tensor(0.2838, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results_timer_xl/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=4, weight=0.0 ===
+Loaded pred cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/exchange_rate/timerxl/pred_cache.pt
+Loaded gt cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/exchange_rate/timerxl/gt_cache.pt
+Caches ready.
+1091328
+0 - {'mse': tensor(0.1668, device='cuda:0'), 'mae': tensor(0.2839, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results_timer_xl/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=5, weight=0.0 ===
+Loaded pred cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/exchange_rate/timerxl/pred_cache.pt
+Loaded gt cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/exchange_rate/timerxl/gt_cache.pt
+Caches ready.
+1091328
+0 - {'mse': tensor(0.1668, device='cuda:0'), 'mae': tensor(0.2839, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results_timer_xl/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=6, weight=0.0 ===
+Loaded pred cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/exchange_rate/timerxl/pred_cache.pt
+Loaded gt cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/exchange_rate/timerxl/gt_cache.pt
+Caches ready.
+1091328
+0 - {'mse': tensor(0.1667, device='cuda:0'), 'mae': tensor(0.2839, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results_timer_xl/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=7, weight=0.0 ===
+Loaded pred cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/exchange_rate/timerxl/pred_cache.pt
+Loaded gt cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/exchange_rate/timerxl/gt_cache.pt
+Caches ready.
+1091328
+0 - {'mse': tensor(0.1667, device='cuda:0'), 'mae': tensor(0.2839, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results_timer_xl/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=8, weight=0.0 ===
+Loaded pred cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/exchange_rate/timerxl/pred_cache.pt
+Loaded gt cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/exchange_rate/timerxl/gt_cache.pt
+Caches ready.
+1091328
+0 - {'mse': tensor(0.1667, device='cuda:0'), 'mae': tensor(0.2839, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results_timer_xl/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=9, weight=0.0 ===
+Loaded pred cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/exchange_rate/timerxl/pred_cache.pt
+Loaded gt cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/exchange_rate/timerxl/gt_cache.pt
+Caches ready.
+1091328
+0 - {'mse': tensor(0.1667, device='cuda:0'), 'mae': tensor(0.2839, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results_timer_xl/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=10, weight=0.0 ===
+Loaded pred cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/exchange_rate/timerxl/pred_cache.pt
+Loaded gt cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/exchange_rate/timerxl/gt_cache.pt
+Caches ready.
+1091328
+0 - {'mse': tensor(0.1667, device='cuda:0'), 'mae': tensor(0.2839, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results_timer_xl/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=11, weight=0.0 ===
+Loaded pred cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/exchange_rate/timerxl/pred_cache.pt
+Loaded gt cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/exchange_rate/timerxl/gt_cache.pt
+Caches ready.
+1091328
+0 - {'mse': tensor(0.1667, device='cuda:0'), 'mae': tensor(0.2838, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results_timer_xl/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=12, weight=0.0 ===
+Loaded pred cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/exchange_rate/timerxl/pred_cache.pt
+Loaded gt cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/exchange_rate/timerxl/gt_cache.pt
+Caches ready.
+1091328
+0 - {'mse': tensor(0.1666, device='cuda:0'), 'mae': tensor(0.2838, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results_timer_xl/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=13, weight=0.0 ===
+Loaded pred cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/exchange_rate/timerxl/pred_cache.pt
+Loaded gt cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/exchange_rate/timerxl/gt_cache.pt
+Caches ready.
+1091328
+0 - {'mse': tensor(0.1667, device='cuda:0'), 'mae': tensor(0.2838, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results_timer_xl/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=14, weight=0.0 ===
+Loaded pred cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/exchange_rate/timerxl/pred_cache.pt
+Loaded gt cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/exchange_rate/timerxl/gt_cache.pt
+Caches ready.
+1091328
+0 - {'mse': tensor(0.1666, device='cuda:0'), 'mae': tensor(0.2838, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results_timer_xl/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=15, weight=0.0 ===
+Loaded pred cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/exchange_rate/timerxl/pred_cache.pt
+Loaded gt cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/exchange_rate/timerxl/gt_cache.pt
+Caches ready.
+1091328
+0 - {'mse': tensor(0.1666, device='cuda:0'), 'mae': tensor(0.2838, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results_timer_xl/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=16, weight=0.0 ===
+Loaded pred cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/exchange_rate/timerxl/pred_cache.pt
+Loaded gt cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/exchange_rate/timerxl/gt_cache.pt
+Caches ready.
+1091328
+0 - {'mse': tensor(0.1666, device='cuda:0'), 'mae': tensor(0.2838, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results_timer_xl/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=1, weight=0.0 ===
+Loaded pred cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/exchange_rate/timerxl/pred_cache.pt
+Loaded gt cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/exchange_rate/timerxl/gt_cache.pt
+Caches ready.
+1091328
+0 - {'mse': tensor(0.1741, device='cuda:0'), 'mae': tensor(0.2948, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results_timer_xl/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=2, weight=0.0 ===
+Loaded pred cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/exchange_rate/timerxl/pred_cache.pt
+Loaded gt cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/exchange_rate/timerxl/gt_cache.pt
+Caches ready.
+1091328
+0 - {'mse': tensor(0.1743, device='cuda:0'), 'mae': tensor(0.2951, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results_timer_xl/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=3, weight=0.0 ===
+Loaded pred cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/exchange_rate/timerxl/pred_cache.pt
+Loaded gt cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/exchange_rate/timerxl/gt_cache.pt
+Caches ready.
+1091328
+0 - {'mse': tensor(0.1743, device='cuda:0'), 'mae': tensor(0.2951, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results_timer_xl/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=4, weight=0.0 ===
+Loaded pred cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/exchange_rate/timerxl/pred_cache.pt
+Loaded gt cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/exchange_rate/timerxl/gt_cache.pt
+Caches ready.
+1091328
+0 - {'mse': tensor(0.1743, device='cuda:0'), 'mae': tensor(0.2956, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results_timer_xl/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=5, weight=0.0 ===
+Loaded pred cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/exchange_rate/timerxl/pred_cache.pt
+Loaded gt cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/exchange_rate/timerxl/gt_cache.pt
+Caches ready.
+1091328
+0 - {'mse': tensor(0.1743, device='cuda:0'), 'mae': tensor(0.2956, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results_timer_xl/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=6, weight=0.0 ===
+Loaded pred cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/exchange_rate/timerxl/pred_cache.pt
+Loaded gt cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/exchange_rate/timerxl/gt_cache.pt
+Caches ready.
+1091328
+0 - {'mse': tensor(0.1668, device='cuda:0'), 'mae': tensor(0.2891, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results_timer_xl/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=7, weight=0.0 ===
+Loaded pred cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/exchange_rate/timerxl/pred_cache.pt
+Loaded gt cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/exchange_rate/timerxl/gt_cache.pt
+Caches ready.
+1091328
+0 - {'mse': tensor(0.1745, device='cuda:0'), 'mae': tensor(0.2959, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results_timer_xl/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=8, weight=0.0 ===
+Loaded pred cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/exchange_rate/timerxl/pred_cache.pt
+Loaded gt cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/exchange_rate/timerxl/gt_cache.pt
+Caches ready.
+1091328
+0 - {'mse': tensor(0.1583, device='cuda:0'), 'mae': tensor(0.2824, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results_timer_xl/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=9, weight=0.0 ===
+Loaded pred cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/exchange_rate/timerxl/pred_cache.pt
+Loaded gt cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/exchange_rate/timerxl/gt_cache.pt
+Caches ready.
+1091328
+0 - {'mse': tensor(0.1580, device='cuda:0'), 'mae': tensor(0.2824, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results_timer_xl/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=10, weight=0.0 ===
+Loaded pred cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/exchange_rate/timerxl/pred_cache.pt
+Loaded gt cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/exchange_rate/timerxl/gt_cache.pt
+Caches ready.
+1091328
+0 - {'mse': tensor(0.1579, device='cuda:0'), 'mae': tensor(0.2822, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results_timer_xl/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=11, weight=0.0 ===
+Loaded pred cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/exchange_rate/timerxl/pred_cache.pt
+Loaded gt cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/exchange_rate/timerxl/gt_cache.pt
+Caches ready.
+1091328
+0 - {'mse': tensor(0.1579, device='cuda:0'), 'mae': tensor(0.2824, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results_timer_xl/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=12, weight=0.0 ===
+Loaded pred cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/exchange_rate/timerxl/pred_cache.pt
+Loaded gt cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/exchange_rate/timerxl/gt_cache.pt
+Caches ready.
+1091328
+0 - {'mse': tensor(0.1579, device='cuda:0'), 'mae': tensor(0.2824, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results_timer_xl/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=13, weight=0.0 ===
+Loaded pred cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/exchange_rate/timerxl/pred_cache.pt
+Loaded gt cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/exchange_rate/timerxl/gt_cache.pt
+Caches ready.
+1091328
+0 - {'mse': tensor(0.1634, device='cuda:0'), 'mae': tensor(0.2865, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results_timer_xl/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=14, weight=0.0 ===
+Loaded pred cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/exchange_rate/timerxl/pred_cache.pt
+Loaded gt cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/exchange_rate/timerxl/gt_cache.pt
+Caches ready.
+1091328
+0 - {'mse': tensor(0.1696, device='cuda:0'), 'mae': tensor(0.2917, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results_timer_xl/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=15, weight=0.0 ===
+Loaded pred cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/exchange_rate/timerxl/pred_cache.pt
+Loaded gt cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/exchange_rate/timerxl/gt_cache.pt
+Caches ready.
+1091328
+0 - {'mse': tensor(0.1582, device='cuda:0'), 'mae': tensor(0.2827, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results_timer_xl/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=16, weight=0.0 ===
+Loaded pred cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/exchange_rate/timerxl/pred_cache.pt
+Loaded gt cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/exchange_rate/timerxl/gt_cache.pt
+Caches ready.
+1091328
+0 - {'mse': tensor(0.1581, device='cuda:0'), 'mae': tensor(0.2826, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results_timer_xl/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=1, weight=0.0 ===
+Loaded pred cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/exchange_rate/timerxl/pred_cache.pt
+Loaded gt cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/exchange_rate/timerxl/gt_cache.pt
+Caches ready.
+1091328
+0 - {'mse': tensor(0.1626, device='cuda:0'), 'mae': tensor(0.2926, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results_timer_xl/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=2, weight=0.0 ===
+Loaded pred cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/exchange_rate/timerxl/pred_cache.pt
+Loaded gt cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/exchange_rate/timerxl/gt_cache.pt
+Caches ready.
+1091328
+0 - {'mse': tensor(0.1917, device='cuda:0'), 'mae': tensor(0.3180, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results_timer_xl/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=3, weight=0.0 ===
+Loaded pred cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/exchange_rate/timerxl/pred_cache.pt
+Loaded gt cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/exchange_rate/timerxl/gt_cache.pt
+Caches ready.
+1091328
+0 - {'mse': tensor(0.1730, device='cuda:0'), 'mae': tensor(0.3038, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results_timer_xl/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=4, weight=0.0 ===
+Loaded pred cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/exchange_rate/timerxl/pred_cache.pt
+Loaded gt cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/exchange_rate/timerxl/gt_cache.pt
+Caches ready.
+1091328
+0 - {'mse': tensor(0.1754, device='cuda:0'), 'mae': tensor(0.3058, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results_timer_xl/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=5, weight=0.0 ===
+Loaded pred cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/exchange_rate/timerxl/pred_cache.pt
+Loaded gt cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/exchange_rate/timerxl/gt_cache.pt
+Caches ready.
+1091328
+0 - {'mse': tensor(0.1895, device='cuda:0'), 'mae': tensor(0.3197, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results_timer_xl/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=6, weight=0.0 ===
+Loaded pred cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/exchange_rate/timerxl/pred_cache.pt
+Loaded gt cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/exchange_rate/timerxl/gt_cache.pt
+Caches ready.
+1091328
+0 - {'mse': tensor(0.1940, device='cuda:0'), 'mae': tensor(0.3269, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results_timer_xl/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=7, weight=0.0 ===
+Loaded pred cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/exchange_rate/timerxl/pred_cache.pt
+Loaded gt cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/exchange_rate/timerxl/gt_cache.pt
+Caches ready.
+1091328
+0 - {'mse': tensor(0.1934, device='cuda:0'), 'mae': tensor(0.3269, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results_timer_xl/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=8, weight=0.0 ===
+Loaded pred cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/exchange_rate/timerxl/pred_cache.pt
+Loaded gt cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/exchange_rate/timerxl/gt_cache.pt
+Caches ready.
+1091328
+0 - {'mse': tensor(0.1932, device='cuda:0'), 'mae': tensor(0.3259, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results_timer_xl/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=9, weight=0.0 ===
+Loaded pred cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/exchange_rate/timerxl/pred_cache.pt
+Loaded gt cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/exchange_rate/timerxl/gt_cache.pt
+Caches ready.
+1091328
+0 - {'mse': tensor(0.1993, device='cuda:0'), 'mae': tensor(0.3321, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results_timer_xl/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=10, weight=0.0 ===
+Loaded pred cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/exchange_rate/timerxl/pred_cache.pt
+Loaded gt cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/exchange_rate/timerxl/gt_cache.pt
+Caches ready.
+1091328
+0 - {'mse': tensor(0.1938, device='cuda:0'), 'mae': tensor(0.3284, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results_timer_xl/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=11, weight=0.0 ===
+Loaded pred cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/exchange_rate/timerxl/pred_cache.pt
+Loaded gt cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/exchange_rate/timerxl/gt_cache.pt
+Caches ready.
+1091328
+0 - {'mse': tensor(0.1905, device='cuda:0'), 'mae': tensor(0.3256, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results_timer_xl/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=12, weight=0.0 ===
+Loaded pred cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/exchange_rate/timerxl/pred_cache.pt
+Loaded gt cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/exchange_rate/timerxl/gt_cache.pt
+Caches ready.
+1091328
+0 - {'mse': tensor(0.1984, device='cuda:0'), 'mae': tensor(0.3309, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results_timer_xl/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=13, weight=0.0 ===
+Loaded pred cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/exchange_rate/timerxl/pred_cache.pt
+Loaded gt cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/exchange_rate/timerxl/gt_cache.pt
+Caches ready.
+1091328
+0 - {'mse': tensor(0.1992, device='cuda:0'), 'mae': tensor(0.3310, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results_timer_xl/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=14, weight=0.0 ===
+Loaded pred cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/exchange_rate/timerxl/pred_cache.pt
+Loaded gt cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/exchange_rate/timerxl/gt_cache.pt
+Caches ready.
+1091328
+0 - {'mse': tensor(0.1998, device='cuda:0'), 'mae': tensor(0.3308, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results_timer_xl/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=15, weight=0.0 ===
+Loaded pred cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/exchange_rate/timerxl/pred_cache.pt
+Loaded gt cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/exchange_rate/timerxl/gt_cache.pt
+Caches ready.
+1091328
+0 - {'mse': tensor(0.2012, device='cuda:0'), 'mae': tensor(0.3319, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results_timer_xl/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=16, weight=0.0 ===
+Loaded pred cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/exchange_rate/timerxl/pred_cache.pt
+Loaded gt cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/exchange_rate/timerxl/gt_cache.pt
+Caches ready.
+1091328
+0 - {'mse': tensor(0.2000, device='cuda:0'), 'mae': tensor(0.3315, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results_timer_xl/512_96/exchange_rate/final_metrics/

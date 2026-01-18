@@ -1,0 +1,4486 @@
+=== Running lam=0.01, num_closest_samples=1 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+N points: 5311
+Window length: 608
+N points: 5311
+Window length: 608
+N points: 5311
+Window length: 608
+N points: 5311
+Window length: 608
+N points: 5311
+Window length: 608
+N points: 5311
+Window length: 608
+N points: 5311
+Window length: 608
+N points: 5311
+Window length: 608
+len dataset train: 37624
+dec_in: 8
+Saved Pred to /scratch/s223540177/Time-Moe/cache_data_finetuned_fixed_4096/exchange_rate/pred_cache.pt
+N points: 5311
+Window length: 608
+N points: 5311
+Window length: 608
+N points: 5311
+Window length: 608
+N points: 5311
+Window length: 608
+N points: 5311
+Window length: 608
+N points: 5311
+Window length: 608
+N points: 5311
+Window length: 608
+N points: 5311
+Window length: 608
+Saved gt to /scratch/s223540177/Time-Moe/cache_data_finetuned_fixed_4096/exchange_rate/gt_cache.pt
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1119, device='cuda:0'), 'mae': tensor(0.2420, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=1 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1111, device='cuda:0'), 'mae': tensor(0.2411, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=1 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1101, device='cuda:0'), 'mae': tensor(0.2403, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=1 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1094, device='cuda:0'), 'mae': tensor(0.2396, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=1 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1095, device='cuda:0'), 'mae': tensor(0.2395, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=1 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1091, device='cuda:0'), 'mae': tensor(0.2392, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=1 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1081, device='cuda:0'), 'mae': tensor(0.2387, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=1 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1083, device='cuda:0'), 'mae': tensor(0.2389, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=1 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1077, device='cuda:0'), 'mae': tensor(0.2387, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=1 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1081, device='cuda:0'), 'mae': tensor(0.2391, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=1 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1084, device='cuda:0'), 'mae': tensor(0.2398, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=2 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1111, device='cuda:0'), 'mae': tensor(0.2407, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=2 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1105, device='cuda:0'), 'mae': tensor(0.2402, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=2 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1083, device='cuda:0'), 'mae': tensor(0.2392, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=2 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1082, device='cuda:0'), 'mae': tensor(0.2391, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=2 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1091, device='cuda:0'), 'mae': tensor(0.2398, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=2 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1084, device='cuda:0'), 'mae': tensor(0.2393, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=2 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1081, device='cuda:0'), 'mae': tensor(0.2391, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=2 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1089, device='cuda:0'), 'mae': tensor(0.2400, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=2 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1082, device='cuda:0'), 'mae': tensor(0.2393, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=2 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1084, device='cuda:0'), 'mae': tensor(0.2394, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=2 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1086, device='cuda:0'), 'mae': tensor(0.2399, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=3 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1113, device='cuda:0'), 'mae': tensor(0.2413, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=3 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1112, device='cuda:0'), 'mae': tensor(0.2413, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=3 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1109, device='cuda:0'), 'mae': tensor(0.2412, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=3 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1095, device='cuda:0'), 'mae': tensor(0.2403, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=3 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1098, device='cuda:0'), 'mae': tensor(0.2407, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=3 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1091, device='cuda:0'), 'mae': tensor(0.2401, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=3 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1088, device='cuda:0'), 'mae': tensor(0.2395, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=3 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1084, device='cuda:0'), 'mae': tensor(0.2395, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=3 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1084, device='cuda:0'), 'mae': tensor(0.2398, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=3 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1088, device='cuda:0'), 'mae': tensor(0.2397, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=3 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1086, device='cuda:0'), 'mae': tensor(0.2399, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=4 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1123, device='cuda:0'), 'mae': tensor(0.2413, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=4 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1117, device='cuda:0'), 'mae': tensor(0.2412, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=4 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1109, device='cuda:0'), 'mae': tensor(0.2405, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=4 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1103, device='cuda:0'), 'mae': tensor(0.2403, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=4 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1106, device='cuda:0'), 'mae': tensor(0.2405, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=4 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1094, device='cuda:0'), 'mae': tensor(0.2395, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=4 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1084, device='cuda:0'), 'mae': tensor(0.2390, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=4 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1084, device='cuda:0'), 'mae': tensor(0.2393, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=4 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1087, device='cuda:0'), 'mae': tensor(0.2396, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=4 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1093, device='cuda:0'), 'mae': tensor(0.2399, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=4 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1088, device='cuda:0'), 'mae': tensor(0.2400, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=5 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1133, device='cuda:0'), 'mae': tensor(0.2423, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=5 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1126, device='cuda:0'), 'mae': tensor(0.2420, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=5 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1116, device='cuda:0'), 'mae': tensor(0.2412, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=5 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1108, device='cuda:0'), 'mae': tensor(0.2407, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=5 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1115, device='cuda:0'), 'mae': tensor(0.2412, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=5 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1101, device='cuda:0'), 'mae': tensor(0.2401, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=5 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1089, device='cuda:0'), 'mae': tensor(0.2397, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=5 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1078, device='cuda:0'), 'mae': tensor(0.2387, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=5 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1091, device='cuda:0'), 'mae': tensor(0.2398, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=5 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1094, device='cuda:0'), 'mae': tensor(0.2401, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=5 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1088, device='cuda:0'), 'mae': tensor(0.2399, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=6 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1123, device='cuda:0'), 'mae': tensor(0.2420, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=6 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1121, device='cuda:0'), 'mae': tensor(0.2421, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=6 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1110, device='cuda:0'), 'mae': tensor(0.2412, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=6 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1104, device='cuda:0'), 'mae': tensor(0.2410, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=6 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1110, device='cuda:0'), 'mae': tensor(0.2411, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=6 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1097, device='cuda:0'), 'mae': tensor(0.2402, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=6 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1086, device='cuda:0'), 'mae': tensor(0.2395, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=6 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1083, device='cuda:0'), 'mae': tensor(0.2393, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=6 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1088, device='cuda:0'), 'mae': tensor(0.2397, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=6 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1088, device='cuda:0'), 'mae': tensor(0.2399, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=6 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1088, device='cuda:0'), 'mae': tensor(0.2400, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=7 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1120, device='cuda:0'), 'mae': tensor(0.2419, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=7 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1114, device='cuda:0'), 'mae': tensor(0.2414, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=7 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1107, device='cuda:0'), 'mae': tensor(0.2410, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=7 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1103, device='cuda:0'), 'mae': tensor(0.2408, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=7 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1114, device='cuda:0'), 'mae': tensor(0.2415, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=7 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1094, device='cuda:0'), 'mae': tensor(0.2400, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=7 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1086, device='cuda:0'), 'mae': tensor(0.2396, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=7 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1081, device='cuda:0'), 'mae': tensor(0.2392, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=7 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1085, device='cuda:0'), 'mae': tensor(0.2397, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=7 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1084, device='cuda:0'), 'mae': tensor(0.2394, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=7 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1088, device='cuda:0'), 'mae': tensor(0.2401, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=8 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1118, device='cuda:0'), 'mae': tensor(0.2416, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=8 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1111, device='cuda:0'), 'mae': tensor(0.2412, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=8 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1107, device='cuda:0'), 'mae': tensor(0.2410, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=8 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1104, device='cuda:0'), 'mae': tensor(0.2409, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=8 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1116, device='cuda:0'), 'mae': tensor(0.2416, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=8 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1094, device='cuda:0'), 'mae': tensor(0.2399, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=8 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1084, device='cuda:0'), 'mae': tensor(0.2394, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=8 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1083, device='cuda:0'), 'mae': tensor(0.2394, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=8 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1088, device='cuda:0'), 'mae': tensor(0.2398, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=8 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1087, device='cuda:0'), 'mae': tensor(0.2398, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=8 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1085, device='cuda:0'), 'mae': tensor(0.2398, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=9 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1120, device='cuda:0'), 'mae': tensor(0.2418, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=9 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1109, device='cuda:0'), 'mae': tensor(0.2411, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=9 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1103, device='cuda:0'), 'mae': tensor(0.2405, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=9 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1106, device='cuda:0'), 'mae': tensor(0.2410, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=9 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1108, device='cuda:0'), 'mae': tensor(0.2410, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=9 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1089, device='cuda:0'), 'mae': tensor(0.2396, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=9 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1089, device='cuda:0'), 'mae': tensor(0.2397, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=9 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1083, device='cuda:0'), 'mae': tensor(0.2394, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=9 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1088, device='cuda:0'), 'mae': tensor(0.2398, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=9 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1087, device='cuda:0'), 'mae': tensor(0.2397, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=9 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1085, device='cuda:0'), 'mae': tensor(0.2399, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=10 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1120, device='cuda:0'), 'mae': tensor(0.2418, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=10 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1108, device='cuda:0'), 'mae': tensor(0.2410, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=10 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1103, device='cuda:0'), 'mae': tensor(0.2407, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=10 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1103, device='cuda:0'), 'mae': tensor(0.2410, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=10 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1110, device='cuda:0'), 'mae': tensor(0.2411, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=10 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1090, device='cuda:0'), 'mae': tensor(0.2397, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=10 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1081, device='cuda:0'), 'mae': tensor(0.2390, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=10 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1083, device='cuda:0'), 'mae': tensor(0.2393, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=10 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1089, device='cuda:0'), 'mae': tensor(0.2399, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=10 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1084, device='cuda:0'), 'mae': tensor(0.2394, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=10 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1088, device='cuda:0'), 'mae': tensor(0.2399, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=11 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1129, device='cuda:0'), 'mae': tensor(0.2422, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=11 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1113, device='cuda:0'), 'mae': tensor(0.2412, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=11 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1112, device='cuda:0'), 'mae': tensor(0.2411, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=11 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1110, device='cuda:0'), 'mae': tensor(0.2409, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=11 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1113, device='cuda:0'), 'mae': tensor(0.2410, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=11 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1097, device='cuda:0'), 'mae': tensor(0.2401, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=11 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1087, device='cuda:0'), 'mae': tensor(0.2395, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=11 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1090, device='cuda:0'), 'mae': tensor(0.2398, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=11 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1091, device='cuda:0'), 'mae': tensor(0.2403, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=11 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1091, device='cuda:0'), 'mae': tensor(0.2399, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=11 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1084, device='cuda:0'), 'mae': tensor(0.2396, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=12 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1128, device='cuda:0'), 'mae': tensor(0.2422, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=12 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1118, device='cuda:0'), 'mae': tensor(0.2415, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=12 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1115, device='cuda:0'), 'mae': tensor(0.2412, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=12 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1108, device='cuda:0'), 'mae': tensor(0.2411, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=12 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1116, device='cuda:0'), 'mae': tensor(0.2412, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=12 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1099, device='cuda:0'), 'mae': tensor(0.2402, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=12 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1087, device='cuda:0'), 'mae': tensor(0.2394, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=12 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1091, device='cuda:0'), 'mae': tensor(0.2398, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=12 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1088, device='cuda:0'), 'mae': tensor(0.2399, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=12 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1090, device='cuda:0'), 'mae': tensor(0.2399, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=12 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1085, device='cuda:0'), 'mae': tensor(0.2398, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=13 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1123, device='cuda:0'), 'mae': tensor(0.2418, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=13 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1115, device='cuda:0'), 'mae': tensor(0.2413, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=13 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1104, device='cuda:0'), 'mae': tensor(0.2404, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=13 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1105, device='cuda:0'), 'mae': tensor(0.2406, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=13 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1114, device='cuda:0'), 'mae': tensor(0.2412, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=13 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1095, device='cuda:0'), 'mae': tensor(0.2399, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=13 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1089, device='cuda:0'), 'mae': tensor(0.2397, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=13 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1090, device='cuda:0'), 'mae': tensor(0.2398, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=13 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1091, device='cuda:0'), 'mae': tensor(0.2401, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=13 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1093, device='cuda:0'), 'mae': tensor(0.2401, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=13 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1088, device='cuda:0'), 'mae': tensor(0.2402, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=14 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1123, device='cuda:0'), 'mae': tensor(0.2416, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=14 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1117, device='cuda:0'), 'mae': tensor(0.2411, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=14 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1103, device='cuda:0'), 'mae': tensor(0.2403, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=14 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1101, device='cuda:0'), 'mae': tensor(0.2403, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=14 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1110, device='cuda:0'), 'mae': tensor(0.2406, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=14 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1097, device='cuda:0'), 'mae': tensor(0.2399, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=14 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1084, device='cuda:0'), 'mae': tensor(0.2392, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=14 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1089, device='cuda:0'), 'mae': tensor(0.2396, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=14 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1090, device='cuda:0'), 'mae': tensor(0.2399, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=14 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1088, device='cuda:0'), 'mae': tensor(0.2396, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=14 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1088, device='cuda:0'), 'mae': tensor(0.2399, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=15 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1116, device='cuda:0'), 'mae': tensor(0.2412, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=15 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1110, device='cuda:0'), 'mae': tensor(0.2411, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=15 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1102, device='cuda:0'), 'mae': tensor(0.2405, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=15 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1100, device='cuda:0'), 'mae': tensor(0.2404, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=15 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1109, device='cuda:0'), 'mae': tensor(0.2408, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=15 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1086, device='cuda:0'), 'mae': tensor(0.2392, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=15 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1081, device='cuda:0'), 'mae': tensor(0.2389, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=15 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1084, device='cuda:0'), 'mae': tensor(0.2392, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=15 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1091, device='cuda:0'), 'mae': tensor(0.2400, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=15 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1088, device='cuda:0'), 'mae': tensor(0.2396, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=15 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1086, device='cuda:0'), 'mae': tensor(0.2397, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=16 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1117, device='cuda:0'), 'mae': tensor(0.2412, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=16 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1110, device='cuda:0'), 'mae': tensor(0.2409, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=16 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1103, device='cuda:0'), 'mae': tensor(0.2404, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=16 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1098, device='cuda:0'), 'mae': tensor(0.2401, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=16 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1107, device='cuda:0'), 'mae': tensor(0.2405, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=16 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1090, device='cuda:0'), 'mae': tensor(0.2396, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=16 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1083, device='cuda:0'), 'mae': tensor(0.2390, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=16 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1084, device='cuda:0'), 'mae': tensor(0.2392, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=16 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1089, device='cuda:0'), 'mae': tensor(0.2399, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=16 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1085, device='cuda:0'), 'mae': tensor(0.2395, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.01, num_closest_samples=16 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1088, device='cuda:0'), 'mae': tensor(0.2399, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=1 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.2764, device='cuda:0'), 'mae': tensor(0.3915, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=1 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.2404, device='cuda:0'), 'mae': tensor(0.3654, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=1 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.2118, device='cuda:0'), 'mae': tensor(0.3433, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=1 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1850, device='cuda:0'), 'mae': tensor(0.3203, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=1 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1625, device='cuda:0'), 'mae': tensor(0.2993, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=1 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1437, device='cuda:0'), 'mae': tensor(0.2804, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=1 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1296, device='cuda:0'), 'mae': tensor(0.2647, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=1 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1195, device='cuda:0'), 'mae': tensor(0.2523, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=1 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1128, device='cuda:0'), 'mae': tensor(0.2437, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=1 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1097, device='cuda:0'), 'mae': tensor(0.2400, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=1 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1083, device='cuda:0'), 'mae': tensor(0.2398, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=2 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1221, device='cuda:0'), 'mae': tensor(0.2531, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=2 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1209, device='cuda:0'), 'mae': tensor(0.2510, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=2 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1184, device='cuda:0'), 'mae': tensor(0.2482, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=2 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1170, device='cuda:0'), 'mae': tensor(0.2463, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=2 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1155, device='cuda:0'), 'mae': tensor(0.2445, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=2 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1144, device='cuda:0'), 'mae': tensor(0.2431, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=2 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1119, device='cuda:0'), 'mae': tensor(0.2412, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=2 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1104, device='cuda:0'), 'mae': tensor(0.2401, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=2 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1096, device='cuda:0'), 'mae': tensor(0.2397, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=2 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1090, device='cuda:0'), 'mae': tensor(0.2395, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=2 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1088, device='cuda:0'), 'mae': tensor(0.2401, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=3 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1301, device='cuda:0'), 'mae': tensor(0.2626, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=3 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1272, device='cuda:0'), 'mae': tensor(0.2589, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=3 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1235, device='cuda:0'), 'mae': tensor(0.2543, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=3 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1199, device='cuda:0'), 'mae': tensor(0.2501, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=3 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1182, device='cuda:0'), 'mae': tensor(0.2482, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=3 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1148, device='cuda:0'), 'mae': tensor(0.2447, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=3 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1133, device='cuda:0'), 'mae': tensor(0.2431, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=3 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1113, device='cuda:0'), 'mae': tensor(0.2415, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=3 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1096, device='cuda:0'), 'mae': tensor(0.2403, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=3 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1085, device='cuda:0'), 'mae': tensor(0.2392, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=3 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1088, device='cuda:0'), 'mae': tensor(0.2400, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=4 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1402, device='cuda:0'), 'mae': tensor(0.2747, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=4 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1351, device='cuda:0'), 'mae': tensor(0.2685, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=4 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1293, device='cuda:0'), 'mae': tensor(0.2621, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=4 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1252, device='cuda:0'), 'mae': tensor(0.2568, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=4 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1220, device='cuda:0'), 'mae': tensor(0.2524, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=4 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1184, device='cuda:0'), 'mae': tensor(0.2480, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=4 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1149, device='cuda:0'), 'mae': tensor(0.2442, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=4 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1126, device='cuda:0'), 'mae': tensor(0.2418, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=4 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1102, device='cuda:0'), 'mae': tensor(0.2400, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=4 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1096, device='cuda:0'), 'mae': tensor(0.2397, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=4 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1087, device='cuda:0'), 'mae': tensor(0.2400, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=5 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1480, device='cuda:0'), 'mae': tensor(0.2828, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=5 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1410, device='cuda:0'), 'mae': tensor(0.2749, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=5 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1346, device='cuda:0'), 'mae': tensor(0.2679, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=5 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1296, device='cuda:0'), 'mae': tensor(0.2618, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=5 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1251, device='cuda:0'), 'mae': tensor(0.2561, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=5 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1211, device='cuda:0'), 'mae': tensor(0.2511, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=5 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1170, device='cuda:0'), 'mae': tensor(0.2465, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=5 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1132, device='cuda:0'), 'mae': tensor(0.2426, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=5 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1109, device='cuda:0'), 'mae': tensor(0.2407, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=5 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1099, device='cuda:0'), 'mae': tensor(0.2400, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=5 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1088, device='cuda:0'), 'mae': tensor(0.2398, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=6 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1480, device='cuda:0'), 'mae': tensor(0.2827, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=6 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1415, device='cuda:0'), 'mae': tensor(0.2752, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=6 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1350, device='cuda:0'), 'mae': tensor(0.2683, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=6 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1291, device='cuda:0'), 'mae': tensor(0.2614, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=6 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1249, device='cuda:0'), 'mae': tensor(0.2559, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=6 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1216, device='cuda:0'), 'mae': tensor(0.2514, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=6 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1177, device='cuda:0'), 'mae': tensor(0.2474, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=6 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1135, device='cuda:0'), 'mae': tensor(0.2432, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=6 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1112, device='cuda:0'), 'mae': tensor(0.2412, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=6 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1102, device='cuda:0'), 'mae': tensor(0.2406, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=6 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1091, device='cuda:0'), 'mae': tensor(0.2401, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=7 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1476, device='cuda:0'), 'mae': tensor(0.2830, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=7 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1406, device='cuda:0'), 'mae': tensor(0.2753, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=7 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1346, device='cuda:0'), 'mae': tensor(0.2684, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=7 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1287, device='cuda:0'), 'mae': tensor(0.2612, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=7 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1238, device='cuda:0'), 'mae': tensor(0.2558, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=7 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1199, device='cuda:0'), 'mae': tensor(0.2503, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=7 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1164, device='cuda:0'), 'mae': tensor(0.2464, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=7 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1131, device='cuda:0'), 'mae': tensor(0.2433, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=7 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1112, device='cuda:0'), 'mae': tensor(0.2413, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=7 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1097, device='cuda:0'), 'mae': tensor(0.2403, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=7 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1090, device='cuda:0'), 'mae': tensor(0.2402, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=8 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1498, device='cuda:0'), 'mae': tensor(0.2843, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=8 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1421, device='cuda:0'), 'mae': tensor(0.2760, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=8 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1356, device='cuda:0'), 'mae': tensor(0.2687, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=8 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1294, device='cuda:0'), 'mae': tensor(0.2615, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=8 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1239, device='cuda:0'), 'mae': tensor(0.2552, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=8 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1201, device='cuda:0'), 'mae': tensor(0.2503, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=8 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1165, device='cuda:0'), 'mae': tensor(0.2465, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=8 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1132, device='cuda:0'), 'mae': tensor(0.2432, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=8 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1109, device='cuda:0'), 'mae': tensor(0.2412, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=8 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1101, device='cuda:0'), 'mae': tensor(0.2407, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=8 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1089, device='cuda:0'), 'mae': tensor(0.2401, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=9 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1516, device='cuda:0'), 'mae': tensor(0.2864, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=9 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1438, device='cuda:0'), 'mae': tensor(0.2783, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=9 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1370, device='cuda:0'), 'mae': tensor(0.2707, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=9 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1303, device='cuda:0'), 'mae': tensor(0.2628, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=9 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1250, device='cuda:0'), 'mae': tensor(0.2565, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=9 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1200, device='cuda:0'), 'mae': tensor(0.2507, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=9 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1167, device='cuda:0'), 'mae': tensor(0.2469, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=9 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1136, device='cuda:0'), 'mae': tensor(0.2437, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=9 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1113, device='cuda:0'), 'mae': tensor(0.2414, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=9 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1095, device='cuda:0'), 'mae': tensor(0.2402, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=9 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1092, device='cuda:0'), 'mae': tensor(0.2402, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=10 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1520, device='cuda:0'), 'mae': tensor(0.2869, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=10 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1440, device='cuda:0'), 'mae': tensor(0.2783, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=10 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1371, device='cuda:0'), 'mae': tensor(0.2708, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=10 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1302, device='cuda:0'), 'mae': tensor(0.2629, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=10 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1253, device='cuda:0'), 'mae': tensor(0.2567, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=10 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1199, device='cuda:0'), 'mae': tensor(0.2508, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=10 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1164, device='cuda:0'), 'mae': tensor(0.2467, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=10 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1135, device='cuda:0'), 'mae': tensor(0.2436, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=10 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1111, device='cuda:0'), 'mae': tensor(0.2413, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=10 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1098, device='cuda:0'), 'mae': tensor(0.2405, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=10 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1090, device='cuda:0'), 'mae': tensor(0.2401, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=11 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1653, device='cuda:0'), 'mae': tensor(0.3018, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=11 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1547, device='cuda:0'), 'mae': tensor(0.2910, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=11 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1455, device='cuda:0'), 'mae': tensor(0.2813, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=11 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1365, device='cuda:0'), 'mae': tensor(0.2710, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=11 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1304, device='cuda:0'), 'mae': tensor(0.2636, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=11 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1235, device='cuda:0'), 'mae': tensor(0.2553, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=11 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1188, device='cuda:0'), 'mae': tensor(0.2495, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=11 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1144, device='cuda:0'), 'mae': tensor(0.2447, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=11 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1119, device='cuda:0'), 'mae': tensor(0.2420, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=11 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1098, device='cuda:0'), 'mae': tensor(0.2404, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=11 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1087, device='cuda:0'), 'mae': tensor(0.2400, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=12 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1675, device='cuda:0'), 'mae': tensor(0.3042, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=12 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1567, device='cuda:0'), 'mae': tensor(0.2934, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=12 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1471, device='cuda:0'), 'mae': tensor(0.2829, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=12 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1384, device='cuda:0'), 'mae': tensor(0.2732, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=12 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1316, device='cuda:0'), 'mae': tensor(0.2651, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=12 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1240, device='cuda:0'), 'mae': tensor(0.2564, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=12 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1194, device='cuda:0'), 'mae': tensor(0.2502, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=12 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1147, device='cuda:0'), 'mae': tensor(0.2448, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=12 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1120, device='cuda:0'), 'mae': tensor(0.2420, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=12 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1101, device='cuda:0'), 'mae': tensor(0.2403, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=12 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1092, device='cuda:0'), 'mae': tensor(0.2403, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=13 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1687, device='cuda:0'), 'mae': tensor(0.3050, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=13 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1571, device='cuda:0'), 'mae': tensor(0.2931, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=13 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1469, device='cuda:0'), 'mae': tensor(0.2825, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=13 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1389, device='cuda:0'), 'mae': tensor(0.2737, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=13 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1308, device='cuda:0'), 'mae': tensor(0.2643, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=13 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1243, device='cuda:0'), 'mae': tensor(0.2564, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=13 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1188, device='cuda:0'), 'mae': tensor(0.2496, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=13 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1145, device='cuda:0'), 'mae': tensor(0.2447, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=13 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1118, device='cuda:0'), 'mae': tensor(0.2417, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=13 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1099, device='cuda:0'), 'mae': tensor(0.2405, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=13 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1094, device='cuda:0'), 'mae': tensor(0.2403, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=14 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1687, device='cuda:0'), 'mae': tensor(0.3052, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=14 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1578, device='cuda:0'), 'mae': tensor(0.2942, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=14 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1469, device='cuda:0'), 'mae': tensor(0.2831, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=14 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1381, device='cuda:0'), 'mae': tensor(0.2732, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=14 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1311, device='cuda:0'), 'mae': tensor(0.2647, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=14 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1236, device='cuda:0'), 'mae': tensor(0.2556, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=14 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1189, device='cuda:0'), 'mae': tensor(0.2495, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=14 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1143, device='cuda:0'), 'mae': tensor(0.2443, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=14 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1118, device='cuda:0'), 'mae': tensor(0.2417, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=14 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1103, device='cuda:0'), 'mae': tensor(0.2407, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=14 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1091, device='cuda:0'), 'mae': tensor(0.2400, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=15 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1623, device='cuda:0'), 'mae': tensor(0.2975, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=15 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1523, device='cuda:0'), 'mae': tensor(0.2872, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=15 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1426, device='cuda:0'), 'mae': tensor(0.2769, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=15 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1352, device='cuda:0'), 'mae': tensor(0.2689, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=15 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1285, device='cuda:0'), 'mae': tensor(0.2609, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=15 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1225, device='cuda:0'), 'mae': tensor(0.2538, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=15 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1185, device='cuda:0'), 'mae': tensor(0.2487, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=15 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1134, device='cuda:0'), 'mae': tensor(0.2436, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=15 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1122, device='cuda:0'), 'mae': tensor(0.2421, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=15 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1098, device='cuda:0'), 'mae': tensor(0.2403, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=15 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1089, device='cuda:0'), 'mae': tensor(0.2399, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=16 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1624, device='cuda:0'), 'mae': tensor(0.2973, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=16 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1523, device='cuda:0'), 'mae': tensor(0.2870, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=16 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1433, device='cuda:0'), 'mae': tensor(0.2775, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=16 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1354, device='cuda:0'), 'mae': tensor(0.2690, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=16 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1290, device='cuda:0'), 'mae': tensor(0.2612, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=16 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1220, device='cuda:0'), 'mae': tensor(0.2533, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=16 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1185, device='cuda:0'), 'mae': tensor(0.2485, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=16 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1132, device='cuda:0'), 'mae': tensor(0.2434, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=16 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1120, device='cuda:0'), 'mae': tensor(0.2419, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=16 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1098, device='cuda:0'), 'mae': tensor(0.2403, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.05, num_closest_samples=16 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1087, device='cuda:0'), 'mae': tensor(0.2399, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=1 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.9730, device='cuda:0'), 'mae': tensor(0.7064, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=1 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.7526, device='cuda:0'), 'mae': tensor(0.6314, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=1 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.5945, device='cuda:0'), 'mae': tensor(0.5656, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=1 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.4699, device='cuda:0'), 'mae': tensor(0.5055, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=1 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.3660, device='cuda:0'), 'mae': tensor(0.4483, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=1 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.2833, device='cuda:0'), 'mae': tensor(0.3961, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=1 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.2147, device='cuda:0'), 'mae': tensor(0.3455, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=1 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1659, device='cuda:0'), 'mae': tensor(0.3025, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=1 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1310, device='cuda:0'), 'mae': tensor(0.2665, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=1 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1136, device='cuda:0'), 'mae': tensor(0.2445, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=1 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1080, device='cuda:0'), 'mae': tensor(0.2393, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=2 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1640, device='cuda:0'), 'mae': tensor(0.3023, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=2 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1526, device='cuda:0'), 'mae': tensor(0.2904, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=2 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1413, device='cuda:0'), 'mae': tensor(0.2779, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=2 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1342, device='cuda:0'), 'mae': tensor(0.2686, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=2 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1287, device='cuda:0'), 'mae': tensor(0.2608, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=2 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1243, device='cuda:0'), 'mae': tensor(0.2544, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=2 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1197, device='cuda:0'), 'mae': tensor(0.2488, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=2 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1154, device='cuda:0'), 'mae': tensor(0.2441, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=2 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1121, device='cuda:0'), 'mae': tensor(0.2413, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=2 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1103, device='cuda:0'), 'mae': tensor(0.2401, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=2 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1085, device='cuda:0'), 'mae': tensor(0.2398, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=3 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1807, device='cuda:0'), 'mae': tensor(0.3207, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=3 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1679, device='cuda:0'), 'mae': tensor(0.3072, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=3 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1568, device='cuda:0'), 'mae': tensor(0.2946, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=3 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1470, device='cuda:0'), 'mae': tensor(0.2833, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=3 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1379, device='cuda:0'), 'mae': tensor(0.2724, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=3 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1299, device='cuda:0'), 'mae': tensor(0.2626, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=3 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1232, device='cuda:0'), 'mae': tensor(0.2543, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=3 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1174, device='cuda:0'), 'mae': tensor(0.2474, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=3 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1127, device='cuda:0'), 'mae': tensor(0.2426, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=3 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1106, device='cuda:0'), 'mae': tensor(0.2406, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=3 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1089, device='cuda:0'), 'mae': tensor(0.2400, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=4 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.2289, device='cuda:0'), 'mae': tensor(0.3629, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=4 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.2046, device='cuda:0'), 'mae': tensor(0.3413, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=4 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1847, device='cuda:0'), 'mae': tensor(0.3220, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=4 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1664, device='cuda:0'), 'mae': tensor(0.3037, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=4 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1521, device='cuda:0'), 'mae': tensor(0.2884, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=4 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1400, device='cuda:0'), 'mae': tensor(0.2748, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=4 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1294, device='cuda:0'), 'mae': tensor(0.2622, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=4 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1209, device='cuda:0'), 'mae': tensor(0.2518, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=4 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1146, device='cuda:0'), 'mae': tensor(0.2442, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=4 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1118, device='cuda:0'), 'mae': tensor(0.2408, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=4 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1087, device='cuda:0'), 'mae': tensor(0.2400, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=5 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.2602, device='cuda:0'), 'mae': tensor(0.3873, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=5 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.2296, device='cuda:0'), 'mae': tensor(0.3619, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=5 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.2017, device='cuda:0'), 'mae': tensor(0.3373, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=5 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1803, device='cuda:0'), 'mae': tensor(0.3166, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=5 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1625, device='cuda:0'), 'mae': tensor(0.2989, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=5 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1477, device='cuda:0'), 'mae': tensor(0.2826, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=5 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1346, device='cuda:0'), 'mae': tensor(0.2679, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=5 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1239, device='cuda:0'), 'mae': tensor(0.2553, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=5 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1175, device='cuda:0'), 'mae': tensor(0.2472, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=5 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1125, device='cuda:0'), 'mae': tensor(0.2418, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=5 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1092, device='cuda:0'), 'mae': tensor(0.2399, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=6 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.2649, device='cuda:0'), 'mae': tensor(0.3904, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=6 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.2308, device='cuda:0'), 'mae': tensor(0.3625, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=6 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.2030, device='cuda:0'), 'mae': tensor(0.3378, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=6 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1808, device='cuda:0'), 'mae': tensor(0.3165, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=6 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1620, device='cuda:0'), 'mae': tensor(0.2978, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=6 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1472, device='cuda:0'), 'mae': tensor(0.2820, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=6 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1350, device='cuda:0'), 'mae': tensor(0.2681, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=6 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1254, device='cuda:0'), 'mae': tensor(0.2565, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=6 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1171, device='cuda:0'), 'mae': tensor(0.2471, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=6 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1132, device='cuda:0'), 'mae': tensor(0.2425, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=6 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1093, device='cuda:0'), 'mae': tensor(0.2402, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=7 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.2797, device='cuda:0'), 'mae': tensor(0.4026, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=7 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.2399, device='cuda:0'), 'mae': tensor(0.3716, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=7 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.2088, device='cuda:0'), 'mae': tensor(0.3445, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=7 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1842, device='cuda:0'), 'mae': tensor(0.3208, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=7 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1632, device='cuda:0'), 'mae': tensor(0.2998, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=7 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1469, device='cuda:0'), 'mae': tensor(0.2825, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=7 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1338, device='cuda:0'), 'mae': tensor(0.2679, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=7 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+N points: 5311
+Window length: 608
+N points: 5311
+Window length: 608
+N points: 5311
+Window length: 608
+N points: 5311
+Window length: 608
+N points: 5311
+Window length: 608
+N points: 5311
+Window length: 608
+N points: 5311
+Window length: 608
+N points: 5311
+Window length: 608
+len dataset train: 37624
+dec_in: 8
+Saved Pred to /scratch/s223540177/Time-Moe/cache_data_finetuned_fixed_4096/exchange_rate/512_96/pred_cache.pt
+N points: 5311
+Window length: 608
+N points: 5311
+Window length: 608
+N points: 5311
+Window length: 608
+N points: 5311
+Window length: 608
+N points: 5311
+Window length: 608
+N points: 5311
+Window length: 608
+N points: 5311
+Window length: 608
+N points: 5311
+Window length: 608
+Saved gt to /scratch/s223540177/Time-Moe/cache_data_finetuned_fixed_4096/exchange_rate/512_96/gt_cache.pt
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1234, device='cuda:0'), 'mae': tensor(0.2553, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=7 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1159, device='cuda:0'), 'mae': tensor(0.2463, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=7 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1123, device='cuda:0'), 'mae': tensor(0.2421, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=7 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1092, device='cuda:0'), 'mae': tensor(0.2402, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=8 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.2914, device='cuda:0'), 'mae': tensor(0.4094, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=8 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.2484, device='cuda:0'), 'mae': tensor(0.3770, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=8 ===
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.2151, device='cuda:0'), 'mae': tensor(0.3483, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=8 ===
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1887, device='cuda:0'), 'mae': tensor(0.3236, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=8 ===
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1668, device='cuda:0'), 'mae': tensor(0.3019, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=8 ===
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1496, device='cuda:0'), 'mae': tensor(0.2843, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=8 ===
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1352, device='cuda:0'), 'mae': tensor(0.2684, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=8 ===
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1242, device='cuda:0'), 'mae': tensor(0.2557, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=8 ===
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1160, device='cuda:0'), 'mae': tensor(0.2463, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=8 ===
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1118, device='cuda:0'), 'mae': tensor(0.2417, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=8 ===
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1093, device='cuda:0'), 'mae': tensor(0.2402, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=9 ===
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.2986, device='cuda:0'), 'mae': tensor(0.4163, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=9 ===
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.2545, device='cuda:0'), 'mae': tensor(0.3829, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=9 ===
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.2201, device='cuda:0'), 'mae': tensor(0.3529, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=9 ===
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1923, device='cuda:0'), 'mae': tensor(0.3275, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=9 ===
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1695, device='cuda:0'), 'mae': tensor(0.3053, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=9 ===
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1513, device='cuda:0'), 'mae': tensor(0.2865, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=9 ===
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1362, device='cuda:0'), 'mae': tensor(0.2699, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=9 ===
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1240, device='cuda:0'), 'mae': tensor(0.2559, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=9 ===
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1169, device='cuda:0'), 'mae': tensor(0.2472, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=9 ===
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1117, device='cuda:0'), 'mae': tensor(0.2418, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=9 ===
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1092, device='cuda:0'), 'mae': tensor(0.2402, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=10 ===
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.3047, device='cuda:0'), 'mae': tensor(0.4188, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=10 ===
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.2595, device='cuda:0'), 'mae': tensor(0.3852, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=10 ===
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.2231, device='cuda:0'), 'mae': tensor(0.3549, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=10 ===
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1944, device='cuda:0'), 'mae': tensor(0.3291, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=10 ===
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1716, device='cuda:0'), 'mae': tensor(0.3069, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=10 ===
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1519, device='cuda:0'), 'mae': tensor(0.2870, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=10 ===
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1369, device='cuda:0'), 'mae': tensor(0.2705, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=10 ===
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1242, device='cuda:0'), 'mae': tensor(0.2564, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=10 ===
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1168, device='cuda:0'), 'mae': tensor(0.2471, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=10 ===
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1121, device='cuda:0'), 'mae': tensor(0.2421, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=10 ===
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1091, device='cuda:0'), 'mae': tensor(0.2401, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=11 ===
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.3617, device='cuda:0'), 'mae': tensor(0.4561, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=11 ===
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.3051, device='cuda:0'), 'mae': tensor(0.4182, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=11 ===
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.2593, device='cuda:0'), 'mae': tensor(0.3843, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=11 ===
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.2214, device='cuda:0'), 'mae': tensor(0.3532, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=11 ===
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1914, device='cuda:0'), 'mae': tensor(0.3266, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=11 ===
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1654, device='cuda:0'), 'mae': tensor(0.3024, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=11 ===
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1456, device='cuda:0'), 'mae': tensor(0.2814, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=11 ===
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1296, device='cuda:0'), 'mae': tensor(0.2633, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=11 ===
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1192, device='cuda:0'), 'mae': tensor(0.2500, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=11 ===
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1119, device='cuda:0'), 'mae': tensor(0.2420, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=11 ===
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1092, device='cuda:0'), 'mae': tensor(0.2402, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=12 ===
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.3500, device='cuda:0'), 'mae': tensor(0.4506, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=12 ===
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.3011, device='cuda:0'), 'mae': tensor(0.4164, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=12 ===
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.2593, device='cuda:0'), 'mae': tensor(0.3844, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=12 ===
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.2237, device='cuda:0'), 'mae': tensor(0.3555, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=12 ===
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1925, device='cuda:0'), 'mae': tensor(0.3281, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=12 ===
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1684, device='cuda:0'), 'mae': tensor(0.3052, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=12 ===
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1478, device='cuda:0'), 'mae': tensor(0.2837, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=12 ===
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1308, device='cuda:0'), 'mae': tensor(0.2648, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=12 ===
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1194, device='cuda:0'), 'mae': tensor(0.2505, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=12 ===
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1119, device='cuda:0'), 'mae': tensor(0.2420, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=12 ===
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1091, device='cuda:0'), 'mae': tensor(0.2401, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=13 ===
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.3544, device='cuda:0'), 'mae': tensor(0.4532, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=13 ===
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.3032, device='cuda:0'), 'mae': tensor(0.4178, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=13 ===
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.2606, device='cuda:0'), 'mae': tensor(0.3851, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=13 ===
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.2244, device='cuda:0'), 'mae': tensor(0.3558, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=13 ===
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1935, device='cuda:0'), 'mae': tensor(0.3287, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=13 ===
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1681, device='cuda:0'), 'mae': tensor(0.3045, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=13 ===
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1477, device='cuda:0'), 'mae': tensor(0.2834, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=13 ===
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1307, device='cuda:0'), 'mae': tensor(0.2645, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=13 ===
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1196, device='cuda:0'), 'mae': tensor(0.2505, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=13 ===
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1121, device='cuda:0'), 'mae': tensor(0.2421, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=13 ===
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1091, device='cuda:0'), 'mae': tensor(0.2401, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=14 ===
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.3600, device='cuda:0'), 'mae': tensor(0.4562, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=14 ===
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.3093, device='cuda:0'), 'mae': tensor(0.4217, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=14 ===
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.2652, device='cuda:0'), 'mae': tensor(0.3886, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=14 ===
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.2279, device='cuda:0'), 'mae': tensor(0.3586, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=14 ===
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1959, device='cuda:0'), 'mae': tensor(0.3308, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=14 ===
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1699, device='cuda:0'), 'mae': tensor(0.3062, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=14 ===
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1479, device='cuda:0'), 'mae': tensor(0.2840, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=14 ===
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1297, device='cuda:0'), 'mae': tensor(0.2636, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=14 ===
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1199, device='cuda:0'), 'mae': tensor(0.2506, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=14 ===
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1127, device='cuda:0'), 'mae': tensor(0.2423, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=14 ===
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1091, device='cuda:0'), 'mae': tensor(0.2400, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=15 ===
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.3337, device='cuda:0'), 'mae': tensor(0.4421, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=15 ===
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.2864, device='cuda:0'), 'mae': tensor(0.4073, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=15 ===
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.2468, device='cuda:0'), 'mae': tensor(0.3752, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=15 ===
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.2135, device='cuda:0'), 'mae': tensor(0.3467, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=15 ===
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1857, device='cuda:0'), 'mae': tensor(0.3206, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=15 ===
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1621, device='cuda:0'), 'mae': tensor(0.2975, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=15 ===
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1436, device='cuda:0'), 'mae': tensor(0.2780, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=15 ===
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1275, device='cuda:0'), 'mae': tensor(0.2604, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=15 ===
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1185, device='cuda:0'), 'mae': tensor(0.2487, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=15 ===
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1122, device='cuda:0'), 'mae': tensor(0.2421, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=15 ===
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1087, device='cuda:0'), 'mae': tensor(0.2398, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=16 ===
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.3349, device='cuda:0'), 'mae': tensor(0.4404, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=16 ===
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.2878, device='cuda:0'), 'mae': tensor(0.4065, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=16 ===
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.2485, device='cuda:0'), 'mae': tensor(0.3755, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=16 ===
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.2144, device='cuda:0'), 'mae': tensor(0.3463, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=16 ===
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1863, device='cuda:0'), 'mae': tensor(0.3209, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=16 ===
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1626, device='cuda:0'), 'mae': tensor(0.2975, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=16 ===
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1442, device='cuda:0'), 'mae': tensor(0.2785, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=16 ===
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1278, device='cuda:0'), 'mae': tensor(0.2606, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=16 ===
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1188, device='cuda:0'), 'mae': tensor(0.2489, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=16 ===
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1125, device='cuda:0'), 'mae': tensor(0.2423, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/
+=== Running lam=0.1, num_closest_samples=16 ===
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+1091328
+0 - {'mse': tensor(0.1088, device='cuda:0'), 'mae': tensor(0.2399, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/exchange_rate/final_metrics/

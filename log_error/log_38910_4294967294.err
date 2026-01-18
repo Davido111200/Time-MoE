@@ -1,0 +1,11 @@
+  0%|          | 0/19488 [00:00<?, ?it/s]  0%|          | 0/19488 [00:01<?, ?it/s]
+Traceback (most recent call last):
+  File "/home/s223540177/Time-MoE/run_eval_steering_finetuned_dtf.py", line 597, in <module>
+    evaluate(args)
+  File "/home/s223540177/Time-MoE/run_eval_steering_finetuned_dtf.py", line 471, in evaluate
+    icv = obtain_icv_dtf(gt_list, pred_list, hidden_size=384)
+  File "/scratch/s223540177/.conda/envs/timemoe/lib/python3.10/site-packages/torch/utils/_contextlib.py", line 120, in decorate_context
+    return func(*args, **kwargs)
+  File "/home/s223540177/Time-MoE/util.py", line 692, in obtain_icv_dtf
+    V = V.view(L, hidden_size)
+RuntimeError: shape '[1, 384]' is invalid for input of size 4992

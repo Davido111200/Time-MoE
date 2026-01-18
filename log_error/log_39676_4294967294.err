@@ -1,0 +1,15 @@
+usage: TimeMoE Evaluate [-h] [--model MODEL] [--data_path DATA_PATH] --data
+                        DATA [--batch_size BATCH_SIZE] [--seq_len SEQ_LEN]
+                        [--pred_len PRED_LEN] [--label_len LABEL_LEN]
+                        [--embed EMBED] [--freq FREQ] [--task_name TASK_NAME]
+                        [--root_path ROOT_PATH] [--features FEATURES]
+                        [--target TARGET]
+                        [--seasonal_patterns SEASONAL_PATTERNS]
+                        [--augmentation_ratio AUGMENTATION_RATIO]
+                        [--num_workers NUM_WORKERS] --enc_in ENC_IN --dec_in
+                        DEC_IN --c_out C_OUT
+                        [--num_closest_samples NUM_CLOSEST_SAMPLES]
+                        [--lam LAM] [--threshold THRESHOLD]
+                        [--pool_number POOL_NUMBER] [--retrieval RETRIEVAL]
+                        [--tail_n TAIL_N]
+TimeMoE Evaluate: error: unrecognized arguments: --collapse_weight 0.9

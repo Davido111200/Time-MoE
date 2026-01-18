@@ -1,0 +1,9 @@
+DATA: exchange_rate
+>>> Model dtype: torch.float32; Attention:eager
+Saved Pred to /scratch/s223540177/Time-Moe/cache_data_finetuned/exchange_rate/pred_cache.pt
+DATA: exchange_rate
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+Saved gt to /scratch/s223540177/Time-Moe/cache_data_finetuned/exchange_rate/gt_cache.pt
+SORTED DONE
+2025-10-15 03:38:53,384 - log_util.py[pid:2646669;line:52:log_in_local_rank_0] - INFO: >>> Split test data from 2005/3/22 0:00 to 2010/10/10 0:00, and evaluation start date is: 2006/8/16 0:00

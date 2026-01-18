@@ -1,0 +1,21 @@
+wandb: Currently logged in as: daidv to https://api.wandb.ai. Use `wandb login --relogin` to force relogin
+wandb: creating run
+wandb: Tracking run with wandb version 0.21.4
+wandb: Run data is saved locally in /home/s223540177/Time-MoE/wandb/run-20251028_201355-dro2c055
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run zany-water-513
+wandb: ⭐️ View project at https://wandb.ai/daidv/Time-MoE-Eval
+wandb: 🚀 View run at https://wandb.ai/daidv/Time-MoE-Eval/runs/dro2c055
+Gathering pred: 0it [00:00, ?it/s]
+0it [00:00, ?it/s][A0it [00:00, ?it/s]
+Gathering pred: 0it [00:00, ?it/s]
+Gathering gt: 0it [00:00, ?it/s]
+0it [00:00, ?it/s][A0it [00:00, ?it/s]
+Gathering gt: 0it [00:00, ?it/s]
+  0%|          | 0/19488 [00:00<?, ?it/s]  0%|          | 0/19488 [00:01<?, ?it/s]
+Traceback (most recent call last):
+  File "/home/s223540177/Time-MoE/run_eval_steering_finetuned_dtf_fullsteer_unified_interpolate.py", line 574, in <module>
+    evaluate(args)
+  File "/home/s223540177/Time-MoE/run_eval_steering_finetuned_dtf_fullsteer_unified_interpolate.py", line 463, in evaluate
+    f.write(json.dumps({'step': idx, 'mse': mse_base_step, "dists": selected_dists.tolist()}) + '\n')
+UnboundLocalError: local variable 'mse_base_step' referenced before assignment

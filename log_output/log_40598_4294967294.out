@@ -1,0 +1,3 @@
+DATA: exchange_rate
+>>> Model dtype: torch.float32; Attention:eager
+Saved Pred to /scratch/s223540177/Time-Moe/cache_data_finetuned_fixed/exchange_rate/pred_cache.pt

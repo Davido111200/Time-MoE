@@ -1,0 +1,1659 @@
+=== Running lam=0.01, num_closest_samples=1 ===
+>>> Model dtype: torch.float32; Attention:eager
+N points: 10000
+Window length: 608
+N points: 10000
+Window length: 608
+N points: 10000
+Window length: 608
+N points: 10000
+Window length: 608
+N points: 10000
+Window length: 608
+N points: 10000
+Window length: 608
+N points: 10000
+Window length: 608
+len dataset train: 65744
+dec_in: 7
+Saved Pred to /scratch/s223540177/Time-Moe/cache_data_finetuned_fixed/ETTm1/pred_cache.pt
+N points: 10000
+Window length: 608
+N points: 10000
+Window length: 608
+N points: 10000
+Window length: 608
+N points: 10000
+Window length: 608
+N points: 10000
+Window length: 608
+N points: 10000
+Window length: 608
+N points: 10000
+Window length: 608
+Saved gt to /scratch/s223540177/Time-Moe/cache_data_finetuned_fixed/ETTm1/gt_cache.pt
+SORTED DONE
+2025-11-22 03:27:52,581 - log_util.py[pid:4024309;line:52:log_in_local_rank_0] - INFO: >>> Split valid data (last 10%) from 2017-10-06 03:00:00 to 2017-10-23 23:45:00, and evaluation start date is: 2017-10-11 11:00:00
+HF dataset shape (C, T): (7, 1716)
+7676928
+0 - {'mse': tensor(0.2562, device='cuda:0'), 'mae': tensor(0.3195, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/ETTm1/final_metrics/
+[1;34mwandb[0m: 
+[1;34mwandb[0m: 🚀 View run [33mquiet-capybara-1397[0m at: [34m[0m
+[1;34mwandb[0m: Find logs at: [1;35mwandb/run-20251122_031508-g15829cy/logs[0m
+=== Running lam=0.01, num_closest_samples=1 ===
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+2025-11-22 03:37:45,857 - log_util.py[pid:4025029;line:52:log_in_local_rank_0] - INFO: >>> Split valid data (last 10%) from 2017-10-06 03:00:00 to 2017-10-23 23:45:00, and evaluation start date is: 2017-10-11 11:00:00
+HF dataset shape (C, T): (7, 1716)
+7676928
+0 - {'mse': tensor(0.2556, device='cuda:0'), 'mae': tensor(0.3185, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/ETTm1/final_metrics/
+[1;34mwandb[0m: 
+[1;34mwandb[0m: 🚀 View run [33mcrisp-monkey-1548[0m at: [34m[0m
+[1;34mwandb[0m: Find logs at: [1;35mwandb/run-20251122_033719-h2ecqzvb/logs[0m
+=== Running lam=0.01, num_closest_samples=1 ===
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+2025-11-22 03:47:46,545 - log_util.py[pid:4025389;line:52:log_in_local_rank_0] - INFO: >>> Split valid data (last 10%) from 2017-10-06 03:00:00 to 2017-10-23 23:45:00, and evaluation start date is: 2017-10-11 11:00:00
+HF dataset shape (C, T): (7, 1716)
+7676928
+0 - {'mse': tensor(0.2551, device='cuda:0'), 'mae': tensor(0.3176, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/ETTm1/final_metrics/
+[1;34mwandb[0m: 
+[1;34mwandb[0m: 🚀 View run [33mwobbly-pyramid-1617[0m at: [34m[0m
+[1;34mwandb[0m: Find logs at: [1;35mwandb/run-20251122_034720-v2hrjac5/logs[0m
+=== Running lam=0.01, num_closest_samples=1 ===
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+2025-11-22 03:57:34,336 - log_util.py[pid:4025729;line:52:log_in_local_rank_0] - INFO: >>> Split valid data (last 10%) from 2017-10-06 03:00:00 to 2017-10-23 23:45:00, and evaluation start date is: 2017-10-11 11:00:00
+HF dataset shape (C, T): (7, 1716)
+7676928
+0 - {'mse': tensor(0.2547, device='cuda:0'), 'mae': tensor(0.3167, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/ETTm1/final_metrics/
+[1;34mwandb[0m: 
+[1;34mwandb[0m: 🚀 View run [33msmooth-rain-1686[0m at: [34m[0m
+[1;34mwandb[0m: Find logs at: [1;35mwandb/run-20251122_035708-grqjsacq/logs[0m
+=== Running lam=0.01, num_closest_samples=1 ===
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+2025-11-22 04:07:33,054 - log_util.py[pid:4026096;line:52:log_in_local_rank_0] - INFO: >>> Split valid data (last 10%) from 2017-10-06 03:00:00 to 2017-10-23 23:45:00, and evaluation start date is: 2017-10-11 11:00:00
+HF dataset shape (C, T): (7, 1716)
+7676928
+0 - {'mse': tensor(0.2543, device='cuda:0'), 'mae': tensor(0.3160, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/ETTm1/final_metrics/
+[1;34mwandb[0m: 
+[1;34mwandb[0m: 🚀 View run [33mconfused-fog-1755[0m at: [34m[0m
+[1;34mwandb[0m: Find logs at: [1;35mwandb/run-20251122_040706-mjdqj8kq/logs[0m
+=== Running lam=0.01, num_closest_samples=1 ===
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+2025-11-22 04:17:23,492 - log_util.py[pid:4026443;line:52:log_in_local_rank_0] - INFO: >>> Split valid data (last 10%) from 2017-10-06 03:00:00 to 2017-10-23 23:45:00, and evaluation start date is: 2017-10-11 11:00:00
+HF dataset shape (C, T): (7, 1716)
+7676928
+0 - {'mse': tensor(0.2540, device='cuda:0'), 'mae': tensor(0.3154, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/ETTm1/final_metrics/
+[1;34mwandb[0m: 
+[1;34mwandb[0m: 🚀 View run [33methereal-snow-1825[0m at: [34m[0m
+[1;34mwandb[0m: Find logs at: [1;35mwandb/run-20251122_041657-9phnqlvm/logs[0m
+=== Running lam=0.01, num_closest_samples=1 ===
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+2025-11-22 04:27:22,369 - log_util.py[pid:4026819;line:52:log_in_local_rank_0] - INFO: >>> Split valid data (last 10%) from 2017-10-06 03:00:00 to 2017-10-23 23:45:00, and evaluation start date is: 2017-10-11 11:00:00
+HF dataset shape (C, T): (7, 1716)
+7676928
+0 - {'mse': tensor(0.2539, device='cuda:0'), 'mae': tensor(0.3150, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/ETTm1/final_metrics/
+[1;34mwandb[0m: 
+[1;34mwandb[0m: 🚀 View run [33mscarlet-wind-1895[0m at: [34m[0m
+[1;34mwandb[0m: Find logs at: [1;35mwandb/run-20251122_042657-5tx58ind/logs[0m
+=== Running lam=0.01, num_closest_samples=1 ===
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+2025-11-22 04:37:12,832 - log_util.py[pid:4027161;line:52:log_in_local_rank_0] - INFO: >>> Split valid data (last 10%) from 2017-10-06 03:00:00 to 2017-10-23 23:45:00, and evaluation start date is: 2017-10-11 11:00:00
+HF dataset shape (C, T): (7, 1716)
+7676928
+0 - {'mse': tensor(0.2537, device='cuda:0'), 'mae': tensor(0.3146, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/ETTm1/final_metrics/
+[1;34mwandb[0m: 
+[1;34mwandb[0m: 🚀 View run [33mazure-dream-1964[0m at: [34m[0m
+[1;34mwandb[0m: Find logs at: [1;35mwandb/run-20251122_043646-w68r87q8/logs[0m
+=== Running lam=0.01, num_closest_samples=1 ===
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+2025-11-22 04:47:11,790 - log_util.py[pid:4027522;line:52:log_in_local_rank_0] - INFO: >>> Split valid data (last 10%) from 2017-10-06 03:00:00 to 2017-10-23 23:45:00, and evaluation start date is: 2017-10-11 11:00:00
+HF dataset shape (C, T): (7, 1716)
+7676928
+0 - {'mse': tensor(0.2537, device='cuda:0'), 'mae': tensor(0.3145, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/ETTm1/final_metrics/
+[1;34mwandb[0m: 
+[1;34mwandb[0m: 🚀 View run [33mtwilight-thunder-2036[0m at: [34m[0m
+[1;34mwandb[0m: Find logs at: [1;35mwandb/run-20251122_044645-5gglwv0r/logs[0m
+=== Running lam=0.01, num_closest_samples=1 ===
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+2025-11-22 04:56:36,108 - log_util.py[pid:4027850;line:52:log_in_local_rank_0] - INFO: >>> Split valid data (last 10%) from 2017-10-06 03:00:00 to 2017-10-23 23:45:00, and evaluation start date is: 2017-10-11 11:00:00
+HF dataset shape (C, T): (7, 1716)
+7676928
+0 - {'mse': tensor(0.2538, device='cuda:0'), 'mae': tensor(0.3144, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/ETTm1/final_metrics/
+[1;34mwandb[0m: 
+[1;34mwandb[0m: 🚀 View run [33meffortless-dawn-2102[0m at: [34m[0m
+[1;34mwandb[0m: Find logs at: [1;35mwandb/run-20251122_045610-qg3ze4be/logs[0m
+=== Running lam=0.01, num_closest_samples=1 ===
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+2025-11-22 05:06:35,987 - log_util.py[pid:4028197;line:52:log_in_local_rank_0] - INFO: >>> Split valid data (last 10%) from 2017-10-06 03:00:00 to 2017-10-23 23:45:00, and evaluation start date is: 2017-10-11 11:00:00
+HF dataset shape (C, T): (7, 1716)
+7676928
+0 - {'mse': tensor(0.2540, device='cuda:0'), 'mae': tensor(0.3145, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/ETTm1/final_metrics/
+[1;34mwandb[0m: 
+[1;34mwandb[0m: 🚀 View run [33mupbeat-brook-2170[0m at: [34m[0m
+[1;34mwandb[0m: Find logs at: [1;35mwandb/run-20251122_050609-3tlpnku7/logs[0m
+=== Running lam=0.01, num_closest_samples=2 ===
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+2025-11-22 05:16:31,623 - log_util.py[pid:4028538;line:52:log_in_local_rank_0] - INFO: >>> Split valid data (last 10%) from 2017-10-06 03:00:00 to 2017-10-23 23:45:00, and evaluation start date is: 2017-10-11 11:00:00
+HF dataset shape (C, T): (7, 1716)
+7676928
+0 - {'mse': tensor(0.2518, device='cuda:0'), 'mae': tensor(0.3140, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/ETTm1/final_metrics/
+[1;34mwandb[0m: 
+[1;34mwandb[0m: 🚀 View run [33mdevout-forest-2241[0m at: [34m[0m
+[1;34mwandb[0m: Find logs at: [1;35mwandb/run-20251122_051605-npkcg6su/logs[0m
+=== Running lam=0.01, num_closest_samples=2 ===
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+2025-11-22 05:26:28,094 - log_util.py[pid:4028884;line:52:log_in_local_rank_0] - INFO: >>> Split valid data (last 10%) from 2017-10-06 03:00:00 to 2017-10-23 23:45:00, and evaluation start date is: 2017-10-11 11:00:00
+HF dataset shape (C, T): (7, 1716)
+7676928
+0 - {'mse': tensor(0.2520, device='cuda:0'), 'mae': tensor(0.3139, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/ETTm1/final_metrics/
+[1;34mwandb[0m: 
+[1;34mwandb[0m: 🚀 View run [33mdivine-spaceship-2310[0m at: [34m[0m
+[1;34mwandb[0m: Find logs at: [1;35mwandb/run-20251122_052601-655qzwjs/logs[0m
+=== Running lam=0.01, num_closest_samples=2 ===
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+2025-11-22 05:36:14,018 - log_util.py[pid:4029232;line:52:log_in_local_rank_0] - INFO: >>> Split valid data (last 10%) from 2017-10-06 03:00:00 to 2017-10-23 23:45:00, and evaluation start date is: 2017-10-11 11:00:00
+HF dataset shape (C, T): (7, 1716)
+7676928
+0 - {'mse': tensor(0.2521, device='cuda:0'), 'mae': tensor(0.3138, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/ETTm1/final_metrics/
+[1;34mwandb[0m: 
+[1;34mwandb[0m: 🚀 View run [33mdeep-meadow-2344[0m at: [34m[0m
+[1;34mwandb[0m: Find logs at: [1;35mwandb/run-20251122_053548-576o4mam/logs[0m
+=== Running lam=0.01, num_closest_samples=2 ===
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+2025-11-22 05:45:51,569 - log_util.py[pid:4029578;line:52:log_in_local_rank_0] - INFO: >>> Split valid data (last 10%) from 2017-10-06 03:00:00 to 2017-10-23 23:45:00, and evaluation start date is: 2017-10-11 11:00:00
+HF dataset shape (C, T): (7, 1716)
+7676928
+0 - {'mse': tensor(0.2523, device='cuda:0'), 'mae': tensor(0.3138, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/ETTm1/final_metrics/
+[1;34mwandb[0m: 
+[1;34mwandb[0m: 🚀 View run [33mwise-violet-2374[0m at: [34m[0m
+[1;34mwandb[0m: Find logs at: [1;35mwandb/run-20251122_054525-s2lb32wh/logs[0m
+=== Running lam=0.01, num_closest_samples=2 ===
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+2025-11-22 05:55:32,195 - log_util.py[pid:4029935;line:52:log_in_local_rank_0] - INFO: >>> Split valid data (last 10%) from 2017-10-06 03:00:00 to 2017-10-23 23:45:00, and evaluation start date is: 2017-10-11 11:00:00
+HF dataset shape (C, T): (7, 1716)
+7676928
+0 - {'mse': tensor(0.2525, device='cuda:0'), 'mae': tensor(0.3138, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/ETTm1/final_metrics/
+[1;34mwandb[0m: 
+[1;34mwandb[0m: 🚀 View run [33mgenerous-glade-2406[0m at: [34m[0m
+[1;34mwandb[0m: Find logs at: [1;35mwandb/run-20251122_055505-f5466q3v/logs[0m
+=== Running lam=0.01, num_closest_samples=2 ===
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+2025-11-22 06:05:24,577 - log_util.py[pid:4030288;line:52:log_in_local_rank_0] - INFO: >>> Split valid data (last 10%) from 2017-10-06 03:00:00 to 2017-10-23 23:45:00, and evaluation start date is: 2017-10-11 11:00:00
+HF dataset shape (C, T): (7, 1716)
+7676928
+0 - {'mse': tensor(0.2527, device='cuda:0'), 'mae': tensor(0.3138, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/ETTm1/final_metrics/
+[1;34mwandb[0m: 
+[1;34mwandb[0m: 🚀 View run [33mfloral-plant-2437[0m at: [34m[0m
+[1;34mwandb[0m: Find logs at: [1;35mwandb/run-20251122_060458-zvmcuqhj/logs[0m
+=== Running lam=0.01, num_closest_samples=2 ===
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+2025-11-22 06:15:12,288 - log_util.py[pid:4030626;line:52:log_in_local_rank_0] - INFO: >>> Split valid data (last 10%) from 2017-10-06 03:00:00 to 2017-10-23 23:45:00, and evaluation start date is: 2017-10-11 11:00:00
+HF dataset shape (C, T): (7, 1716)
+7676928
+0 - {'mse': tensor(0.2528, device='cuda:0'), 'mae': tensor(0.3139, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/ETTm1/final_metrics/
+[1;34mwandb[0m: 
+[1;34mwandb[0m: 🚀 View run [33mrosy-pine-2469[0m at: [34m[0m
+[1;34mwandb[0m: Find logs at: [1;35mwandb/run-20251122_061446-bcyhafj5/logs[0m
+=== Running lam=0.01, num_closest_samples=2 ===
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+2025-11-22 06:25:09,415 - log_util.py[pid:4031047;line:52:log_in_local_rank_0] - INFO: >>> Split valid data (last 10%) from 2017-10-06 03:00:00 to 2017-10-23 23:45:00, and evaluation start date is: 2017-10-11 11:00:00
+HF dataset shape (C, T): (7, 1716)
+7676928
+0 - {'mse': tensor(0.2530, device='cuda:0'), 'mae': tensor(0.3140, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/ETTm1/final_metrics/
+[1;34mwandb[0m: 
+[1;34mwandb[0m: 🚀 View run [33msweet-glitter-2501[0m at: [34m[0m
+[1;34mwandb[0m: Find logs at: [1;35mwandb/run-20251122_062443-qiu47lo9/logs[0m
+=== Running lam=0.01, num_closest_samples=2 ===
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+2025-11-22 06:35:08,210 - log_util.py[pid:4031443;line:52:log_in_local_rank_0] - INFO: >>> Split valid data (last 10%) from 2017-10-06 03:00:00 to 2017-10-23 23:45:00, and evaluation start date is: 2017-10-11 11:00:00
+HF dataset shape (C, T): (7, 1716)
+7676928
+0 - {'mse': tensor(0.2533, device='cuda:0'), 'mae': tensor(0.3141, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/ETTm1/final_metrics/
+[1;34mwandb[0m: 
+[1;34mwandb[0m: 🚀 View run [33mgood-gorge-2533[0m at: [34m[0m
+[1;34mwandb[0m: Find logs at: [1;35mwandb/run-20251122_063442-7mhssj1o/logs[0m
+=== Running lam=0.01, num_closest_samples=2 ===
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+2025-11-22 06:44:47,576 - log_util.py[pid:4031839;line:52:log_in_local_rank_0] - INFO: >>> Split valid data (last 10%) from 2017-10-06 03:00:00 to 2017-10-23 23:45:00, and evaluation start date is: 2017-10-11 11:00:00
+HF dataset shape (C, T): (7, 1716)
+7676928
+0 - {'mse': tensor(0.2535, device='cuda:0'), 'mae': tensor(0.3142, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/ETTm1/final_metrics/
+[1;34mwandb[0m: 
+[1;34mwandb[0m: 🚀 View run [33mfast-bee-2564[0m at: [34m[0m
+[1;34mwandb[0m: Find logs at: [1;35mwandb/run-20251122_064422-dp6ozmge/logs[0m
+=== Running lam=0.01, num_closest_samples=2 ===
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+2025-11-22 06:54:28,933 - log_util.py[pid:4032170;line:52:log_in_local_rank_0] - INFO: >>> Split valid data (last 10%) from 2017-10-06 03:00:00 to 2017-10-23 23:45:00, and evaluation start date is: 2017-10-11 11:00:00
+HF dataset shape (C, T): (7, 1716)
+7676928
+0 - {'mse': tensor(0.2537, device='cuda:0'), 'mae': tensor(0.3144, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/ETTm1/final_metrics/
+[1;34mwandb[0m: 
+[1;34mwandb[0m: 🚀 View run [33mstellar-forest-2595[0m at: [34m[0m
+[1;34mwandb[0m: Find logs at: [1;35mwandb/run-20251122_065402-ddk1wh2u/logs[0m
+=== Running lam=0.01, num_closest_samples=3 ===
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+2025-11-22 07:04:26,207 - log_util.py[pid:4032512;line:52:log_in_local_rank_0] - INFO: >>> Split valid data (last 10%) from 2017-10-06 03:00:00 to 2017-10-23 23:45:00, and evaluation start date is: 2017-10-11 11:00:00
+HF dataset shape (C, T): (7, 1716)
+7676928
+0 - {'mse': tensor(0.2526, device='cuda:0'), 'mae': tensor(0.3149, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/ETTm1/final_metrics/
+[1;34mwandb[0m: 
+[1;34mwandb[0m: 🚀 View run [33mnoble-fire-2627[0m at: [34m[0m
+[1;34mwandb[0m: Find logs at: [1;35mwandb/run-20251122_070400-emi3uxlx/logs[0m
+=== Running lam=0.01, num_closest_samples=3 ===
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+2025-11-22 07:14:03,631 - log_util.py[pid:4032854;line:52:log_in_local_rank_0] - INFO: >>> Split valid data (last 10%) from 2017-10-06 03:00:00 to 2017-10-23 23:45:00, and evaluation start date is: 2017-10-11 11:00:00
+HF dataset shape (C, T): (7, 1716)
+7676928
+0 - {'mse': tensor(0.2526, device='cuda:0'), 'mae': tensor(0.3146, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/ETTm1/final_metrics/
+[1;34mwandb[0m: 
+[1;34mwandb[0m: 🚀 View run [33mchocolate-tree-2657[0m at: [34m[0m
+[1;34mwandb[0m: Find logs at: [1;35mwandb/run-20251122_071337-s3il1wfb/logs[0m
+=== Running lam=0.01, num_closest_samples=3 ===
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+2025-11-22 07:24:07,066 - log_util.py[pid:4033203;line:52:log_in_local_rank_0] - INFO: >>> Split valid data (last 10%) from 2017-10-06 03:00:00 to 2017-10-23 23:45:00, and evaluation start date is: 2017-10-11 11:00:00
+HF dataset shape (C, T): (7, 1716)
+7676928
+0 - {'mse': tensor(0.2526, device='cuda:0'), 'mae': tensor(0.3144, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/ETTm1/final_metrics/
+[1;34mwandb[0m: 
+[1;34mwandb[0m: 🚀 View run [33mfanciful-dawn-2691[0m at: [34m[0m
+[1;34mwandb[0m: Find logs at: [1;35mwandb/run-20251122_072341-0eakl9gm/logs[0m
+=== Running lam=0.01, num_closest_samples=3 ===
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+2025-11-22 07:34:06,733 - log_util.py[pid:4033548;line:52:log_in_local_rank_0] - INFO: >>> Split valid data (last 10%) from 2017-10-06 03:00:00 to 2017-10-23 23:45:00, and evaluation start date is: 2017-10-11 11:00:00
+HF dataset shape (C, T): (7, 1716)
+7676928
+0 - {'mse': tensor(0.2526, device='cuda:0'), 'mae': tensor(0.3142, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/ETTm1/final_metrics/
+[1;34mwandb[0m: 
+[1;34mwandb[0m: 🚀 View run [33mearnest-thunder-2722[0m at: [34m[0m
+[1;34mwandb[0m: Find logs at: [1;35mwandb/run-20251122_073340-bnsp6coi/logs[0m
+=== Running lam=0.01, num_closest_samples=3 ===
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+2025-11-22 07:43:47,386 - log_util.py[pid:4033893;line:52:log_in_local_rank_0] - INFO: >>> Split valid data (last 10%) from 2017-10-06 03:00:00 to 2017-10-23 23:45:00, and evaluation start date is: 2017-10-11 11:00:00
+HF dataset shape (C, T): (7, 1716)
+7676928
+0 - {'mse': tensor(0.2527, device='cuda:0'), 'mae': tensor(0.3141, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/ETTm1/final_metrics/
+[1;34mwandb[0m: 
+[1;34mwandb[0m: 🚀 View run [33mhopeful-lion-2753[0m at: [34m[0m
+[1;34mwandb[0m: Find logs at: [1;35mwandb/run-20251122_074320-m619jv9l/logs[0m
+=== Running lam=0.01, num_closest_samples=3 ===
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+2025-11-22 07:53:45,038 - log_util.py[pid:4034244;line:52:log_in_local_rank_0] - INFO: >>> Split valid data (last 10%) from 2017-10-06 03:00:00 to 2017-10-23 23:45:00, and evaluation start date is: 2017-10-11 11:00:00
+HF dataset shape (C, T): (7, 1716)
+7676928
+0 - {'mse': tensor(0.2528, device='cuda:0'), 'mae': tensor(0.3140, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/ETTm1/final_metrics/
+[1;34mwandb[0m: 
+[1;34mwandb[0m: 🚀 View run [33msage-serenity-2785[0m at: [34m[0m
+[1;34mwandb[0m: Find logs at: [1;35mwandb/run-20251122_075319-bnzq8oz7/logs[0m
+=== Running lam=0.01, num_closest_samples=3 ===
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+2025-11-22 08:03:21,738 - log_util.py[pid:4034577;line:52:log_in_local_rank_0] - INFO: >>> Split valid data (last 10%) from 2017-10-06 03:00:00 to 2017-10-23 23:45:00, and evaluation start date is: 2017-10-11 11:00:00
+HF dataset shape (C, T): (7, 1716)
+7676928
+0 - {'mse': tensor(0.2530, device='cuda:0'), 'mae': tensor(0.3140, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/ETTm1/final_metrics/
+[1;34mwandb[0m: 
+[1;34mwandb[0m: 🚀 View run [33mdenim-valley-2816[0m at: [34m[0m
+[1;34mwandb[0m: Find logs at: [1;35mwandb/run-20251122_080255-2jn1mw5m/logs[0m
+=== Running lam=0.01, num_closest_samples=3 ===
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+2025-11-22 08:12:55,177 - log_util.py[pid:4034910;line:52:log_in_local_rank_0] - INFO: >>> Split valid data (last 10%) from 2017-10-06 03:00:00 to 2017-10-23 23:45:00, and evaluation start date is: 2017-10-11 11:00:00
+HF dataset shape (C, T): (7, 1716)
+7676928
+0 - {'mse': tensor(0.2531, device='cuda:0'), 'mae': tensor(0.3141, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/ETTm1/final_metrics/
+[1;34mwandb[0m: 
+[1;34mwandb[0m: 🚀 View run [33meffortless-disco-2846[0m at: [34m[0m
+[1;34mwandb[0m: Find logs at: [1;35mwandb/run-20251122_081229-hgh0lqsg/logs[0m
+=== Running lam=0.01, num_closest_samples=3 ===
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+2025-11-22 08:22:41,937 - log_util.py[pid:4035261;line:52:log_in_local_rank_0] - INFO: >>> Split valid data (last 10%) from 2017-10-06 03:00:00 to 2017-10-23 23:45:00, and evaluation start date is: 2017-10-11 11:00:00
+HF dataset shape (C, T): (7, 1716)
+7676928
+0 - {'mse': tensor(0.2533, device='cuda:0'), 'mae': tensor(0.3141, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/ETTm1/final_metrics/
+[1;34mwandb[0m: 
+[1;34mwandb[0m: 🚀 View run [33mdecent-rain-2878[0m at: [34m[0m
+[1;34mwandb[0m: Find logs at: [1;35mwandb/run-20251122_082216-8xd26gk0/logs[0m
+=== Running lam=0.01, num_closest_samples=3 ===
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+2025-11-22 08:32:17,401 - log_util.py[pid:4035591;line:52:log_in_local_rank_0] - INFO: >>> Split valid data (last 10%) from 2017-10-06 03:00:00 to 2017-10-23 23:45:00, and evaluation start date is: 2017-10-11 11:00:00
+HF dataset shape (C, T): (7, 1716)
+7676928
+0 - {'mse': tensor(0.2535, device='cuda:0'), 'mae': tensor(0.3143, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/ETTm1/final_metrics/
+[1;34mwandb[0m: 
+[1;34mwandb[0m: 🚀 View run [33mdistinctive-leaf-2909[0m at: [34m[0m
+[1;34mwandb[0m: Find logs at: [1;35mwandb/run-20251122_083152-ux58o1fq/logs[0m
+=== Running lam=0.01, num_closest_samples=3 ===
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+2025-11-22 08:42:17,845 - log_util.py[pid:4035939;line:52:log_in_local_rank_0] - INFO: >>> Split valid data (last 10%) from 2017-10-06 03:00:00 to 2017-10-23 23:45:00, and evaluation start date is: 2017-10-11 11:00:00
+HF dataset shape (C, T): (7, 1716)
+7676928
+0 - {'mse': tensor(0.2537, device='cuda:0'), 'mae': tensor(0.3145, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/ETTm1/final_metrics/
+[1;34mwandb[0m: 
+[1;34mwandb[0m: 🚀 View run [33myouthful-cloud-2941[0m at: [34m[0m
+[1;34mwandb[0m: Find logs at: [1;35mwandb/run-20251122_084152-sxsdpscm/logs[0m
+=== Running lam=0.01, num_closest_samples=4 ===
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+2025-11-22 08:52:05,031 - log_util.py[pid:4036289;line:52:log_in_local_rank_0] - INFO: >>> Split valid data (last 10%) from 2017-10-06 03:00:00 to 2017-10-23 23:45:00, and evaluation start date is: 2017-10-11 11:00:00
+HF dataset shape (C, T): (7, 1716)
+7676928
+0 - {'mse': tensor(0.2532, device='cuda:0'), 'mae': tensor(0.3156, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/ETTm1/final_metrics/
+[1;34mwandb[0m: 
+[1;34mwandb[0m: 🚀 View run [33micy-frost-2972[0m at: [34m[0m
+[1;34mwandb[0m: Find logs at: [1;35mwandb/run-20251122_085139-spxs5m8k/logs[0m
+=== Running lam=0.01, num_closest_samples=4 ===
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+2025-11-22 09:01:34,749 - log_util.py[pid:4036614;line:52:log_in_local_rank_0] - INFO: >>> Split valid data (last 10%) from 2017-10-06 03:00:00 to 2017-10-23 23:45:00, and evaluation start date is: 2017-10-11 11:00:00
+HF dataset shape (C, T): (7, 1716)
+7676928
+0 - {'mse': tensor(0.2530, device='cuda:0'), 'mae': tensor(0.3152, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/ETTm1/final_metrics/
+[1;34mwandb[0m: 
+[1;34mwandb[0m: 🚀 View run [33mworldly-rain-3004[0m at: [34m[0m
+[1;34mwandb[0m: Find logs at: [1;35mwandb/run-20251122_090109-ekrecjg3/logs[0m
+=== Running lam=0.01, num_closest_samples=4 ===
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+2025-11-22 09:11:20,650 - log_util.py[pid:4036959;line:52:log_in_local_rank_0] - INFO: >>> Split valid data (last 10%) from 2017-10-06 03:00:00 to 2017-10-23 23:45:00, and evaluation start date is: 2017-10-11 11:00:00
+HF dataset shape (C, T): (7, 1716)
+7676928
+0 - {'mse': tensor(0.2529, device='cuda:0'), 'mae': tensor(0.3149, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/ETTm1/final_metrics/
+[1;34mwandb[0m: 
+[1;34mwandb[0m: 🚀 View run [33mstellar-lake-3033[0m at: [34m[0m
+[1;34mwandb[0m: Find logs at: [1;35mwandb/run-20251122_091055-8p6rfevs/logs[0m
+=== Running lam=0.01, num_closest_samples=4 ===
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+2025-11-22 09:21:09,710 - log_util.py[pid:4037305;line:52:log_in_local_rank_0] - INFO: >>> Split valid data (last 10%) from 2017-10-06 03:00:00 to 2017-10-23 23:45:00, and evaluation start date is: 2017-10-11 11:00:00
+HF dataset shape (C, T): (7, 1716)
+7676928
+0 - {'mse': tensor(0.2529, device='cuda:0'), 'mae': tensor(0.3146, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/ETTm1/final_metrics/
+[1;34mwandb[0m: 
+[1;34mwandb[0m: 🚀 View run [33mneat-salad-3066[0m at: [34m[0m
+[1;34mwandb[0m: Find logs at: [1;35mwandb/run-20251122_092043-w572cuub/logs[0m
+=== Running lam=0.01, num_closest_samples=4 ===
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+2025-11-22 09:31:08,089 - log_util.py[pid:4037653;line:52:log_in_local_rank_0] - INFO: >>> Split valid data (last 10%) from 2017-10-06 03:00:00 to 2017-10-23 23:45:00, and evaluation start date is: 2017-10-11 11:00:00
+HF dataset shape (C, T): (7, 1716)
+7676928
+0 - {'mse': tensor(0.2529, device='cuda:0'), 'mae': tensor(0.3144, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/ETTm1/final_metrics/
+[1;34mwandb[0m: 
+[1;34mwandb[0m: 🚀 View run [33mswift-salad-3097[0m at: [34m[0m
+[1;34mwandb[0m: Find logs at: [1;35mwandb/run-20251122_093042-zdgrfktj/logs[0m
+=== Running lam=0.01, num_closest_samples=4 ===
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+2025-11-22 09:41:08,194 - log_util.py[pid:4037999;line:52:log_in_local_rank_0] - INFO: >>> Split valid data (last 10%) from 2017-10-06 03:00:00 to 2017-10-23 23:45:00, and evaluation start date is: 2017-10-11 11:00:00
+HF dataset shape (C, T): (7, 1716)
+7676928
+0 - {'mse': tensor(0.2530, device='cuda:0'), 'mae': tensor(0.3142, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/ETTm1/final_metrics/
+[1;34mwandb[0m: 
+[1;34mwandb[0m: 🚀 View run [33mdandy-firebrand-3130[0m at: [34m[0m
+[1;34mwandb[0m: Find logs at: [1;35mwandb/run-20251122_094041-zbiehlgk/logs[0m
+=== Running lam=0.01, num_closest_samples=4 ===
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+2025-11-22 09:50:59,650 - log_util.py[pid:4038347;line:52:log_in_local_rank_0] - INFO: >>> Split valid data (last 10%) from 2017-10-06 03:00:00 to 2017-10-23 23:45:00, and evaluation start date is: 2017-10-11 11:00:00
+HF dataset shape (C, T): (7, 1716)
+7676928
+0 - {'mse': tensor(0.2531, device='cuda:0'), 'mae': tensor(0.3142, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/ETTm1/final_metrics/
+[1;34mwandb[0m: 
+[1;34mwandb[0m: 🚀 View run [33mfancy-cloud-3161[0m at: [34m[0m
+[1;34mwandb[0m: Find logs at: [1;35mwandb/run-20251122_095034-bkxugdrx/logs[0m
+=== Running lam=0.01, num_closest_samples=4 ===
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+2025-11-22 10:01:03,746 - log_util.py[pid:4038696;line:52:log_in_local_rank_0] - INFO: >>> Split valid data (last 10%) from 2017-10-06 03:00:00 to 2017-10-23 23:45:00, and evaluation start date is: 2017-10-11 11:00:00
+HF dataset shape (C, T): (7, 1716)
+7676928
+0 - {'mse': tensor(0.2532, device='cuda:0'), 'mae': tensor(0.3142, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/ETTm1/final_metrics/
+[1;34mwandb[0m: 
+[1;34mwandb[0m: 🚀 View run [33mproud-glade-3194[0m at: [34m[0m
+[1;34mwandb[0m: Find logs at: [1;35mwandb/run-20251122_100037-gxezyw17/logs[0m
+=== Running lam=0.01, num_closest_samples=4 ===
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+2025-11-22 10:10:58,372 - log_util.py[pid:4039037;line:52:log_in_local_rank_0] - INFO: >>> Split valid data (last 10%) from 2017-10-06 03:00:00 to 2017-10-23 23:45:00, and evaluation start date is: 2017-10-11 11:00:00
+HF dataset shape (C, T): (7, 1716)
+7676928
+0 - {'mse': tensor(0.2534, device='cuda:0'), 'mae': tensor(0.3142, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/ETTm1/final_metrics/
+[1;34mwandb[0m: 
+[1;34mwandb[0m: 🚀 View run [33mrosy-shadow-3225[0m at: [34m[0m
+[1;34mwandb[0m: Find logs at: [1;35mwandb/run-20251122_101032-623v9jao/logs[0m
+=== Running lam=0.01, num_closest_samples=4 ===
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+2025-11-22 10:20:52,409 - log_util.py[pid:4039384;line:52:log_in_local_rank_0] - INFO: >>> Split valid data (last 10%) from 2017-10-06 03:00:00 to 2017-10-23 23:45:00, and evaluation start date is: 2017-10-11 11:00:00
+HF dataset shape (C, T): (7, 1716)
+7676928
+0 - {'mse': tensor(0.2535, device='cuda:0'), 'mae': tensor(0.3143, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/ETTm1/final_metrics/
+[1;34mwandb[0m: 
+[1;34mwandb[0m: 🚀 View run [33mleafy-haze-3256[0m at: [34m[0m
+[1;34mwandb[0m: Find logs at: [1;35mwandb/run-20251122_102026-u77v2j38/logs[0m
+=== Running lam=0.01, num_closest_samples=4 ===
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+2025-11-22 10:30:46,765 - log_util.py[pid:4039735;line:52:log_in_local_rank_0] - INFO: >>> Split valid data (last 10%) from 2017-10-06 03:00:00 to 2017-10-23 23:45:00, and evaluation start date is: 2017-10-11 11:00:00
+HF dataset shape (C, T): (7, 1716)
+7676928
+0 - {'mse': tensor(0.2538, device='cuda:0'), 'mae': tensor(0.3145, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/ETTm1/final_metrics/
+[1;34mwandb[0m: 
+[1;34mwandb[0m: 🚀 View run [33mglorious-forest-3289[0m at: [34m[0m
+[1;34mwandb[0m: Find logs at: [1;35mwandb/run-20251122_103021-1pq8tfuz/logs[0m
+=== Running lam=0.01, num_closest_samples=5 ===
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+2025-11-22 10:40:20,511 - log_util.py[pid:4040060;line:52:log_in_local_rank_0] - INFO: >>> Split valid data (last 10%) from 2017-10-06 03:00:00 to 2017-10-23 23:45:00, and evaluation start date is: 2017-10-11 11:00:00
+HF dataset shape (C, T): (7, 1716)
+7676928
+0 - {'mse': tensor(0.2533, device='cuda:0'), 'mae': tensor(0.3159, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/ETTm1/final_metrics/
+[1;34mwandb[0m: 
+[1;34mwandb[0m: 🚀 View run [33mdaily-frog-3319[0m at: [34m[0m
+[1;34mwandb[0m: Find logs at: [1;35mwandb/run-20251122_103954-qzrvpn4t/logs[0m
+=== Running lam=0.01, num_closest_samples=5 ===
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+2025-11-22 10:49:39,456 - log_util.py[pid:4040452;line:52:log_in_local_rank_0] - INFO: >>> Split valid data (last 10%) from 2017-10-06 03:00:00 to 2017-10-23 23:45:00, and evaluation start date is: 2017-10-11 11:00:00
+HF dataset shape (C, T): (7, 1716)
+7676928
+0 - {'mse': tensor(0.2531, device='cuda:0'), 'mae': tensor(0.3154, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/ETTm1/final_metrics/
+[1;34mwandb[0m: 
+[1;34mwandb[0m: 🚀 View run [33mwobbly-sound-3349[0m at: [34m[0m
+[1;34mwandb[0m: Find logs at: [1;35mwandb/run-20251122_104913-v25ie8mo/logs[0m
+=== Running lam=0.01, num_closest_samples=5 ===
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+2025-11-22 10:59:27,127 - log_util.py[pid:4040899;line:52:log_in_local_rank_0] - INFO: >>> Split valid data (last 10%) from 2017-10-06 03:00:00 to 2017-10-23 23:45:00, and evaluation start date is: 2017-10-11 11:00:00
+HF dataset shape (C, T): (7, 1716)
+7676928
+0 - {'mse': tensor(0.2530, device='cuda:0'), 'mae': tensor(0.3150, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/ETTm1/final_metrics/
+[1;34mwandb[0m: 
+[1;34mwandb[0m: 🚀 View run [33mpeach-violet-3381[0m at: [34m[0m
+[1;34mwandb[0m: Find logs at: [1;35mwandb/run-20251122_105901-vbm1wlix/logs[0m
+=== Running lam=0.01, num_closest_samples=5 ===
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+2025-11-22 11:09:16,762 - log_util.py[pid:4041270;line:52:log_in_local_rank_0] - INFO: >>> Split valid data (last 10%) from 2017-10-06 03:00:00 to 2017-10-23 23:45:00, and evaluation start date is: 2017-10-11 11:00:00
+HF dataset shape (C, T): (7, 1716)
+7676928
+0 - {'mse': tensor(0.2530, device='cuda:0'), 'mae': tensor(0.3147, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/ETTm1/final_metrics/
+[1;34mwandb[0m: 
+[1;34mwandb[0m: 🚀 View run [33mgallant-glitter-3412[0m at: [34m[0m
+[1;34mwandb[0m: Find logs at: [1;35mwandb/run-20251122_110851-jabs7c5c/logs[0m
+=== Running lam=0.01, num_closest_samples=5 ===
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+2025-11-22 11:19:16,364 - log_util.py[pid:4041618;line:52:log_in_local_rank_0] - INFO: >>> Split valid data (last 10%) from 2017-10-06 03:00:00 to 2017-10-23 23:45:00, and evaluation start date is: 2017-10-11 11:00:00
+HF dataset shape (C, T): (7, 1716)
+7676928
+0 - {'mse': tensor(0.2530, device='cuda:0'), 'mae': tensor(0.3145, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/ETTm1/final_metrics/
+[1;34mwandb[0m: 
+[1;34mwandb[0m: 🚀 View run [33mgiddy-glitter-3444[0m at: [34m[0m
+[1;34mwandb[0m: Find logs at: [1;35mwandb/run-20251122_111850-tkm4bu3c/logs[0m
+=== Running lam=0.01, num_closest_samples=5 ===
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+2025-11-22 11:29:13,858 - log_util.py[pid:4041961;line:52:log_in_local_rank_0] - INFO: >>> Split valid data (last 10%) from 2017-10-06 03:00:00 to 2017-10-23 23:45:00, and evaluation start date is: 2017-10-11 11:00:00
+HF dataset shape (C, T): (7, 1716)
+7676928
+0 - {'mse': tensor(0.2530, device='cuda:0'), 'mae': tensor(0.3143, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/ETTm1/final_metrics/
+[1;34mwandb[0m: 
+[1;34mwandb[0m: 🚀 View run [33mgraceful-fog-3477[0m at: [34m[0m
+[1;34mwandb[0m: Find logs at: [1;35mwandb/run-20251122_112848-upmrd6z2/logs[0m
+=== Running lam=0.01, num_closest_samples=5 ===
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+2025-11-22 11:39:22,941 - log_util.py[pid:4042311;line:52:log_in_local_rank_0] - INFO: >>> Split valid data (last 10%) from 2017-10-06 03:00:00 to 2017-10-23 23:45:00, and evaluation start date is: 2017-10-11 11:00:00
+HF dataset shape (C, T): (7, 1716)
+7676928
+0 - {'mse': tensor(0.2531, device='cuda:0'), 'mae': tensor(0.3142, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/ETTm1/final_metrics/
+[1;34mwandb[0m: 
+[1;34mwandb[0m: 🚀 View run [33mearthy-dust-3509[0m at: [34m[0m
+[1;34mwandb[0m: Find logs at: [1;35mwandb/run-20251122_113856-4a8rvbxj/logs[0m
+=== Running lam=0.01, num_closest_samples=5 ===
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+2025-11-22 11:49:16,608 - log_util.py[pid:4042668;line:52:log_in_local_rank_0] - INFO: >>> Split valid data (last 10%) from 2017-10-06 03:00:00 to 2017-10-23 23:45:00, and evaluation start date is: 2017-10-11 11:00:00
+HF dataset shape (C, T): (7, 1716)
+7676928
+0 - {'mse': tensor(0.2532, device='cuda:0'), 'mae': tensor(0.3142, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/ETTm1/final_metrics/
+[1;34mwandb[0m: 
+[1;34mwandb[0m: 🚀 View run [33mglad-violet-3540[0m at: [34m[0m
+[1;34mwandb[0m: Find logs at: [1;35mwandb/run-20251122_114850-bkjn8t61/logs[0m
+=== Running lam=0.01, num_closest_samples=5 ===
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+2025-11-22 11:59:00,589 - log_util.py[pid:4043000;line:52:log_in_local_rank_0] - INFO: >>> Split valid data (last 10%) from 2017-10-06 03:00:00 to 2017-10-23 23:45:00, and evaluation start date is: 2017-10-11 11:00:00
+HF dataset shape (C, T): (7, 1716)
+7676928
+0 - {'mse': tensor(0.2534, device='cuda:0'), 'mae': tensor(0.3142, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/ETTm1/final_metrics/
+[1;34mwandb[0m: 
+[1;34mwandb[0m: 🚀 View run [33msparkling-moon-3573[0m at: [34m[0m
+[1;34mwandb[0m: Find logs at: [1;35mwandb/run-20251122_115834-juflqq2h/logs[0m
+=== Running lam=0.01, num_closest_samples=5 ===
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+2025-11-22 12:08:43,604 - log_util.py[pid:4043347;line:52:log_in_local_rank_0] - INFO: >>> Split valid data (last 10%) from 2017-10-06 03:00:00 to 2017-10-23 23:45:00, and evaluation start date is: 2017-10-11 11:00:00
+HF dataset shape (C, T): (7, 1716)
+7676928
+0 - {'mse': tensor(0.2536, device='cuda:0'), 'mae': tensor(0.3144, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/ETTm1/final_metrics/
+[1;34mwandb[0m: 
+[1;34mwandb[0m: 🚀 View run [33mcosmic-frog-3603[0m at: [34m[0m
+[1;34mwandb[0m: Find logs at: [1;35mwandb/run-20251122_120817-mo8r3ctl/logs[0m
+=== Running lam=0.01, num_closest_samples=5 ===
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+2025-11-22 12:18:36,210 - log_util.py[pid:4043701;line:52:log_in_local_rank_0] - INFO: >>> Split valid data (last 10%) from 2017-10-06 03:00:00 to 2017-10-23 23:45:00, and evaluation start date is: 2017-10-11 11:00:00
+HF dataset shape (C, T): (7, 1716)
+7676928
+0 - {'mse': tensor(0.2539, device='cuda:0'), 'mae': tensor(0.3146, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/ETTm1/final_metrics/
+[1;34mwandb[0m: 
+[1;34mwandb[0m: 🚀 View run [33mblooming-bush-3637[0m at: [34m[0m
+[1;34mwandb[0m: Find logs at: [1;35mwandb/run-20251122_121810-1rh8bb0m/logs[0m
+=== Running lam=0.01, num_closest_samples=6 ===
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+2025-11-22 12:28:00,950 - log_util.py[pid:4044026;line:52:log_in_local_rank_0] - INFO: >>> Split valid data (last 10%) from 2017-10-06 03:00:00 to 2017-10-23 23:45:00, and evaluation start date is: 2017-10-11 11:00:00
+HF dataset shape (C, T): (7, 1716)
+7676928
+0 - {'mse': tensor(0.2534, device='cuda:0'), 'mae': tensor(0.3161, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/ETTm1/final_metrics/
+[1;34mwandb[0m: 
+[1;34mwandb[0m: 🚀 View run [33msunny-durian-3670[0m at: [34m[0m
+[1;34mwandb[0m: Find logs at: [1;35mwandb/run-20251122_122735-xpasse3s/logs[0m
+=== Running lam=0.01, num_closest_samples=6 ===
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+2025-11-22 12:37:54,333 - log_util.py[pid:4044351;line:52:log_in_local_rank_0] - INFO: >>> Split valid data (last 10%) from 2017-10-06 03:00:00 to 2017-10-23 23:45:00, and evaluation start date is: 2017-10-11 11:00:00
+HF dataset shape (C, T): (7, 1716)
+7676928
+0 - {'mse': tensor(0.2533, device='cuda:0'), 'mae': tensor(0.3157, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/ETTm1/final_metrics/
+=== Running lam=0.01, num_closest_samples=6 ===
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+2025-11-22 12:47:50,136 - log_util.py[pid:4044660;line:52:log_in_local_rank_0] - INFO: >>> Split valid data (last 10%) from 2017-10-06 03:00:00 to 2017-10-23 23:45:00, and evaluation start date is: 2017-10-11 11:00:00
+HF dataset shape (C, T): (7, 1716)
+7676928
+0 - {'mse': tensor(0.2531, device='cuda:0'), 'mae': tensor(0.3152, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/ETTm1/final_metrics/
+=== Running lam=0.01, num_closest_samples=6 ===
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+2025-11-22 12:57:43,533 - log_util.py[pid:4044963;line:52:log_in_local_rank_0] - INFO: >>> Split valid data (last 10%) from 2017-10-06 03:00:00 to 2017-10-23 23:45:00, and evaluation start date is: 2017-10-11 11:00:00
+HF dataset shape (C, T): (7, 1716)
+7676928
+0 - {'mse': tensor(0.2530, device='cuda:0'), 'mae': tensor(0.3149, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/ETTm1/final_metrics/
+=== Running lam=0.01, num_closest_samples=6 ===
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+2025-11-22 13:07:31,572 - log_util.py[pid:4045249;line:52:log_in_local_rank_0] - INFO: >>> Split valid data (last 10%) from 2017-10-06 03:00:00 to 2017-10-23 23:45:00, and evaluation start date is: 2017-10-11 11:00:00
+HF dataset shape (C, T): (7, 1716)
+7676928
+0 - {'mse': tensor(0.2530, device='cuda:0'), 'mae': tensor(0.3146, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/ETTm1/final_metrics/
+=== Running lam=0.01, num_closest_samples=6 ===
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+2025-11-22 13:17:09,735 - log_util.py[pid:4045549;line:52:log_in_local_rank_0] - INFO: >>> Split valid data (last 10%) from 2017-10-06 03:00:00 to 2017-10-23 23:45:00, and evaluation start date is: 2017-10-11 11:00:00
+HF dataset shape (C, T): (7, 1716)
+7676928
+0 - {'mse': tensor(0.2531, device='cuda:0'), 'mae': tensor(0.3144, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/ETTm1/final_metrics/
+=== Running lam=0.01, num_closest_samples=6 ===
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+2025-11-22 13:26:54,145 - log_util.py[pid:4045851;line:52:log_in_local_rank_0] - INFO: >>> Split valid data (last 10%) from 2017-10-06 03:00:00 to 2017-10-23 23:45:00, and evaluation start date is: 2017-10-11 11:00:00
+HF dataset shape (C, T): (7, 1716)
+7676928
+0 - {'mse': tensor(0.2532, device='cuda:0'), 'mae': tensor(0.3143, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/ETTm1/final_metrics/
+=== Running lam=0.01, num_closest_samples=6 ===
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+2025-11-22 13:36:46,656 - log_util.py[pid:4046152;line:52:log_in_local_rank_0] - INFO: >>> Split valid data (last 10%) from 2017-10-06 03:00:00 to 2017-10-23 23:45:00, and evaluation start date is: 2017-10-11 11:00:00
+HF dataset shape (C, T): (7, 1716)
+7676928
+0 - {'mse': tensor(0.2533, device='cuda:0'), 'mae': tensor(0.3142, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/ETTm1/final_metrics/
+=== Running lam=0.01, num_closest_samples=6 ===
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+2025-11-22 13:46:41,409 - log_util.py[pid:4046459;line:52:log_in_local_rank_0] - INFO: >>> Split valid data (last 10%) from 2017-10-06 03:00:00 to 2017-10-23 23:45:00, and evaluation start date is: 2017-10-11 11:00:00
+HF dataset shape (C, T): (7, 1716)
+7676928
+0 - {'mse': tensor(0.2534, device='cuda:0'), 'mae': tensor(0.3143, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/ETTm1/final_metrics/
+=== Running lam=0.01, num_closest_samples=6 ===
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+2025-11-22 13:56:23,604 - log_util.py[pid:4046756;line:52:log_in_local_rank_0] - INFO: >>> Split valid data (last 10%) from 2017-10-06 03:00:00 to 2017-10-23 23:45:00, and evaluation start date is: 2017-10-11 11:00:00
+HF dataset shape (C, T): (7, 1716)
+7676928
+0 - {'mse': tensor(0.2536, device='cuda:0'), 'mae': tensor(0.3144, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/ETTm1/final_metrics/
+=== Running lam=0.01, num_closest_samples=6 ===
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+2025-11-22 14:06:21,116 - log_util.py[pid:4047056;line:52:log_in_local_rank_0] - INFO: >>> Split valid data (last 10%) from 2017-10-06 03:00:00 to 2017-10-23 23:45:00, and evaluation start date is: 2017-10-11 11:00:00
+HF dataset shape (C, T): (7, 1716)
+7676928
+0 - {'mse': tensor(0.2539, device='cuda:0'), 'mae': tensor(0.3146, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/ETTm1/final_metrics/
+=== Running lam=0.01, num_closest_samples=7 ===
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+2025-11-22 14:15:49,964 - log_util.py[pid:4047345;line:52:log_in_local_rank_0] - INFO: >>> Split valid data (last 10%) from 2017-10-06 03:00:00 to 2017-10-23 23:45:00, and evaluation start date is: 2017-10-11 11:00:00
+HF dataset shape (C, T): (7, 1716)
+7676928
+0 - {'mse': tensor(0.2534, device='cuda:0'), 'mae': tensor(0.3161, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/ETTm1/final_metrics/
+=== Running lam=0.01, num_closest_samples=7 ===
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+2025-11-22 14:25:41,335 - log_util.py[pid:4047649;line:52:log_in_local_rank_0] - INFO: >>> Split valid data (last 10%) from 2017-10-06 03:00:00 to 2017-10-23 23:45:00, and evaluation start date is: 2017-10-11 11:00:00
+HF dataset shape (C, T): (7, 1716)
+7676928
+0 - {'mse': tensor(0.2533, device='cuda:0'), 'mae': tensor(0.3156, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/ETTm1/final_metrics/
+=== Running lam=0.01, num_closest_samples=7 ===
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+2025-11-22 14:35:38,675 - log_util.py[pid:4047947;line:52:log_in_local_rank_0] - INFO: >>> Split valid data (last 10%) from 2017-10-06 03:00:00 to 2017-10-23 23:45:00, and evaluation start date is: 2017-10-11 11:00:00
+HF dataset shape (C, T): (7, 1716)
+7676928
+0 - {'mse': tensor(0.2531, device='cuda:0'), 'mae': tensor(0.3152, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/ETTm1/final_metrics/
+=== Running lam=0.01, num_closest_samples=7 ===
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+2025-11-22 14:45:23,802 - log_util.py[pid:4048235;line:52:log_in_local_rank_0] - INFO: >>> Split valid data (last 10%) from 2017-10-06 03:00:00 to 2017-10-23 23:45:00, and evaluation start date is: 2017-10-11 11:00:00
+HF dataset shape (C, T): (7, 1716)
+7676928
+0 - {'mse': tensor(0.2531, device='cuda:0'), 'mae': tensor(0.3148, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/ETTm1/final_metrics/
+=== Running lam=0.01, num_closest_samples=7 ===
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+2025-11-22 14:54:46,846 - log_util.py[pid:4048575;line:52:log_in_local_rank_0] - INFO: >>> Split valid data (last 10%) from 2017-10-06 03:00:00 to 2017-10-23 23:45:00, and evaluation start date is: 2017-10-11 11:00:00
+HF dataset shape (C, T): (7, 1716)
+7676928
+0 - {'mse': tensor(0.2531, device='cuda:0'), 'mae': tensor(0.3146, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/ETTm1/final_metrics/
+=== Running lam=0.01, num_closest_samples=7 ===
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+2025-11-22 15:04:43,681 - log_util.py[pid:4048881;line:52:log_in_local_rank_0] - INFO: >>> Split valid data (last 10%) from 2017-10-06 03:00:00 to 2017-10-23 23:45:00, and evaluation start date is: 2017-10-11 11:00:00
+HF dataset shape (C, T): (7, 1716)
+7676928
+0 - {'mse': tensor(0.2531, device='cuda:0'), 'mae': tensor(0.3144, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/ETTm1/final_metrics/
+=== Running lam=0.01, num_closest_samples=7 ===
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+2025-11-22 15:14:20,044 - log_util.py[pid:4049168;line:52:log_in_local_rank_0] - INFO: >>> Split valid data (last 10%) from 2017-10-06 03:00:00 to 2017-10-23 23:45:00, and evaluation start date is: 2017-10-11 11:00:00
+HF dataset shape (C, T): (7, 1716)
+7676928
+0 - {'mse': tensor(0.2532, device='cuda:0'), 'mae': tensor(0.3143, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/ETTm1/final_metrics/
+=== Running lam=0.01, num_closest_samples=7 ===
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+2025-11-22 15:24:08,454 - log_util.py[pid:4049471;line:52:log_in_local_rank_0] - INFO: >>> Split valid data (last 10%) from 2017-10-06 03:00:00 to 2017-10-23 23:45:00, and evaluation start date is: 2017-10-11 11:00:00
+HF dataset shape (C, T): (7, 1716)
+7676928
+0 - {'mse': tensor(0.2533, device='cuda:0'), 'mae': tensor(0.3142, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/ETTm1/final_metrics/
+=== Running lam=0.01, num_closest_samples=7 ===
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+2025-11-22 15:33:44,947 - log_util.py[pid:4049870;line:52:log_in_local_rank_0] - INFO: >>> Split valid data (last 10%) from 2017-10-06 03:00:00 to 2017-10-23 23:45:00, and evaluation start date is: 2017-10-11 11:00:00
+HF dataset shape (C, T): (7, 1716)
+7676928
+0 - {'mse': tensor(0.2535, device='cuda:0'), 'mae': tensor(0.3143, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/ETTm1/final_metrics/
+=== Running lam=0.01, num_closest_samples=7 ===
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+2025-11-22 15:43:26,904 - log_util.py[pid:4050161;line:52:log_in_local_rank_0] - INFO: >>> Split valid data (last 10%) from 2017-10-06 03:00:00 to 2017-10-23 23:45:00, and evaluation start date is: 2017-10-11 11:00:00
+HF dataset shape (C, T): (7, 1716)
+7676928
+0 - {'mse': tensor(0.2537, device='cuda:0'), 'mae': tensor(0.3144, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/ETTm1/final_metrics/
+=== Running lam=0.01, num_closest_samples=7 ===
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+2025-11-22 15:53:03,651 - log_util.py[pid:4050465;line:52:log_in_local_rank_0] - INFO: >>> Split valid data (last 10%) from 2017-10-06 03:00:00 to 2017-10-23 23:45:00, and evaluation start date is: 2017-10-11 11:00:00
+HF dataset shape (C, T): (7, 1716)
+7676928
+0 - {'mse': tensor(0.2539, device='cuda:0'), 'mae': tensor(0.3146, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/ETTm1/final_metrics/
+=== Running lam=0.01, num_closest_samples=8 ===
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+2025-11-22 16:02:55,434 - log_util.py[pid:4050759;line:52:log_in_local_rank_0] - INFO: >>> Split valid data (last 10%) from 2017-10-06 03:00:00 to 2017-10-23 23:45:00, and evaluation start date is: 2017-10-11 11:00:00
+HF dataset shape (C, T): (7, 1716)
+7676928
+0 - {'mse': tensor(0.2534, device='cuda:0'), 'mae': tensor(0.3161, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/ETTm1/final_metrics/
+=== Running lam=0.01, num_closest_samples=8 ===
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+2025-11-22 16:12:38,270 - log_util.py[pid:4051063;line:52:log_in_local_rank_0] - INFO: >>> Split valid data (last 10%) from 2017-10-06 03:00:00 to 2017-10-23 23:45:00, and evaluation start date is: 2017-10-11 11:00:00
+HF dataset shape (C, T): (7, 1716)
+7676928
+0 - {'mse': tensor(0.2533, device='cuda:0'), 'mae': tensor(0.3156, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/ETTm1/final_metrics/
+=== Running lam=0.01, num_closest_samples=8 ===
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+2025-11-22 16:22:34,472 - log_util.py[pid:4051369;line:52:log_in_local_rank_0] - INFO: >>> Split valid data (last 10%) from 2017-10-06 03:00:00 to 2017-10-23 23:45:00, and evaluation start date is: 2017-10-11 11:00:00
+HF dataset shape (C, T): (7, 1716)
+7676928
+0 - {'mse': tensor(0.2532, device='cuda:0'), 'mae': tensor(0.3152, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/ETTm1/final_metrics/
+=== Running lam=0.01, num_closest_samples=8 ===
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+2025-11-22 16:32:31,745 - log_util.py[pid:4051672;line:52:log_in_local_rank_0] - INFO: >>> Split valid data (last 10%) from 2017-10-06 03:00:00 to 2017-10-23 23:45:00, and evaluation start date is: 2017-10-11 11:00:00
+HF dataset shape (C, T): (7, 1716)
+7676928
+0 - {'mse': tensor(0.2531, device='cuda:0'), 'mae': tensor(0.3148, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/ETTm1/final_metrics/
+=== Running lam=0.01, num_closest_samples=8 ===
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+2025-11-22 16:42:09,931 - log_util.py[pid:4051975;line:52:log_in_local_rank_0] - INFO: >>> Split valid data (last 10%) from 2017-10-06 03:00:00 to 2017-10-23 23:45:00, and evaluation start date is: 2017-10-11 11:00:00
+HF dataset shape (C, T): (7, 1716)
+7676928
+0 - {'mse': tensor(0.2530, device='cuda:0'), 'mae': tensor(0.3145, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/ETTm1/final_metrics/
+=== Running lam=0.01, num_closest_samples=8 ===
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+2025-11-22 16:51:32,180 - log_util.py[pid:4052264;line:52:log_in_local_rank_0] - INFO: >>> Split valid data (last 10%) from 2017-10-06 03:00:00 to 2017-10-23 23:45:00, and evaluation start date is: 2017-10-11 11:00:00
+HF dataset shape (C, T): (7, 1716)
+7676928
+0 - {'mse': tensor(0.2531, device='cuda:0'), 'mae': tensor(0.3144, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/ETTm1/final_metrics/
+=== Running lam=0.01, num_closest_samples=8 ===
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+2025-11-22 17:01:29,452 - log_util.py[pid:4052554;line:52:log_in_local_rank_0] - INFO: >>> Split valid data (last 10%) from 2017-10-06 03:00:00 to 2017-10-23 23:45:00, and evaluation start date is: 2017-10-11 11:00:00
+HF dataset shape (C, T): (7, 1716)
+7676928
+0 - {'mse': tensor(0.2532, device='cuda:0'), 'mae': tensor(0.3143, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/ETTm1/final_metrics/
+=== Running lam=0.01, num_closest_samples=8 ===
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+2025-11-22 17:11:24,232 - log_util.py[pid:4052861;line:52:log_in_local_rank_0] - INFO: >>> Split valid data (last 10%) from 2017-10-06 03:00:00 to 2017-10-23 23:45:00, and evaluation start date is: 2017-10-11 11:00:00
+HF dataset shape (C, T): (7, 1716)
+7676928
+0 - {'mse': tensor(0.2533, device='cuda:0'), 'mae': tensor(0.3142, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/ETTm1/final_metrics/
+=== Running lam=0.01, num_closest_samples=8 ===
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+2025-11-22 17:21:00,957 - log_util.py[pid:4053162;line:52:log_in_local_rank_0] - INFO: >>> Split valid data (last 10%) from 2017-10-06 03:00:00 to 2017-10-23 23:45:00, and evaluation start date is: 2017-10-11 11:00:00
+HF dataset shape (C, T): (7, 1716)
+7676928
+0 - {'mse': tensor(0.2535, device='cuda:0'), 'mae': tensor(0.3143, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/ETTm1/final_metrics/
+=== Running lam=0.01, num_closest_samples=8 ===
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+2025-11-22 17:30:46,932 - log_util.py[pid:4053455;line:52:log_in_local_rank_0] - INFO: >>> Split valid data (last 10%) from 2017-10-06 03:00:00 to 2017-10-23 23:45:00, and evaluation start date is: 2017-10-11 11:00:00
+HF dataset shape (C, T): (7, 1716)
+7676928
+0 - {'mse': tensor(0.2537, device='cuda:0'), 'mae': tensor(0.3144, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/ETTm1/final_metrics/
+=== Running lam=0.01, num_closest_samples=8 ===
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+2025-11-22 17:40:17,263 - log_util.py[pid:4053746;line:52:log_in_local_rank_0] - INFO: >>> Split valid data (last 10%) from 2017-10-06 03:00:00 to 2017-10-23 23:45:00, and evaluation start date is: 2017-10-11 11:00:00
+HF dataset shape (C, T): (7, 1716)
+7676928
+0 - {'mse': tensor(0.2540, device='cuda:0'), 'mae': tensor(0.3146, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/ETTm1/final_metrics/
+=== Running lam=0.01, num_closest_samples=9 ===
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+2025-11-22 17:49:55,232 - log_util.py[pid:4054048;line:52:log_in_local_rank_0] - INFO: >>> Split valid data (last 10%) from 2017-10-06 03:00:00 to 2017-10-23 23:45:00, and evaluation start date is: 2017-10-11 11:00:00
+HF dataset shape (C, T): (7, 1716)
+7676928
+0 - {'mse': tensor(0.2536, device='cuda:0'), 'mae': tensor(0.3162, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/ETTm1/final_metrics/
+=== Running lam=0.01, num_closest_samples=9 ===
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+2025-11-22 17:59:22,287 - log_util.py[pid:4054336;line:52:log_in_local_rank_0] - INFO: >>> Split valid data (last 10%) from 2017-10-06 03:00:00 to 2017-10-23 23:45:00, and evaluation start date is: 2017-10-11 11:00:00
+HF dataset shape (C, T): (7, 1716)
+7676928
+0 - {'mse': tensor(0.2534, device='cuda:0'), 'mae': tensor(0.3157, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/ETTm1/final_metrics/
+=== Running lam=0.01, num_closest_samples=9 ===
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+2025-11-22 18:09:14,687 - log_util.py[pid:4054636;line:52:log_in_local_rank_0] - INFO: >>> Split valid data (last 10%) from 2017-10-06 03:00:00 to 2017-10-23 23:45:00, and evaluation start date is: 2017-10-11 11:00:00
+HF dataset shape (C, T): (7, 1716)
+7676928
+0 - {'mse': tensor(0.2533, device='cuda:0'), 'mae': tensor(0.3153, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/ETTm1/final_metrics/
+=== Running lam=0.01, num_closest_samples=9 ===
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+2025-11-22 18:18:56,303 - log_util.py[pid:4054935;line:52:log_in_local_rank_0] - INFO: >>> Split valid data (last 10%) from 2017-10-06 03:00:00 to 2017-10-23 23:45:00, and evaluation start date is: 2017-10-11 11:00:00
+HF dataset shape (C, T): (7, 1716)
+7676928
+0 - {'mse': tensor(0.2532, device='cuda:0'), 'mae': tensor(0.3149, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/ETTm1/final_metrics/
+=== Running lam=0.01, num_closest_samples=9 ===
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+2025-11-22 18:28:49,687 - log_util.py[pid:4055238;line:52:log_in_local_rank_0] - INFO: >>> Split valid data (last 10%) from 2017-10-06 03:00:00 to 2017-10-23 23:45:00, and evaluation start date is: 2017-10-11 11:00:00
+HF dataset shape (C, T): (7, 1716)
+7676928
+0 - {'mse': tensor(0.2532, device='cuda:0'), 'mae': tensor(0.3147, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/ETTm1/final_metrics/
+=== Running lam=0.01, num_closest_samples=9 ===
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+2025-11-22 18:38:48,100 - log_util.py[pid:4055541;line:52:log_in_local_rank_0] - INFO: >>> Split valid data (last 10%) from 2017-10-06 03:00:00 to 2017-10-23 23:45:00, and evaluation start date is: 2017-10-11 11:00:00
+HF dataset shape (C, T): (7, 1716)
+7676928
+0 - {'mse': tensor(0.2532, device='cuda:0'), 'mae': tensor(0.3145, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/ETTm1/final_metrics/
+=== Running lam=0.01, num_closest_samples=9 ===
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+2025-11-22 18:48:40,707 - log_util.py[pid:4055870;line:52:log_in_local_rank_0] - INFO: >>> Split valid data (last 10%) from 2017-10-06 03:00:00 to 2017-10-23 23:45:00, and evaluation start date is: 2017-10-11 11:00:00
+HF dataset shape (C, T): (7, 1716)
+7676928
+0 - {'mse': tensor(0.2533, device='cuda:0'), 'mae': tensor(0.3143, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/ETTm1/final_metrics/
+=== Running lam=0.01, num_closest_samples=9 ===
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+2025-11-22 18:58:37,356 - log_util.py[pid:4056177;line:52:log_in_local_rank_0] - INFO: >>> Split valid data (last 10%) from 2017-10-06 03:00:00 to 2017-10-23 23:45:00, and evaluation start date is: 2017-10-11 11:00:00
+HF dataset shape (C, T): (7, 1716)
+7676928
+0 - {'mse': tensor(0.2534, device='cuda:0'), 'mae': tensor(0.3143, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/ETTm1/final_metrics/
+=== Running lam=0.01, num_closest_samples=9 ===
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+2025-11-22 19:08:34,206 - log_util.py[pid:4056476;line:52:log_in_local_rank_0] - INFO: >>> Split valid data (last 10%) from 2017-10-06 03:00:00 to 2017-10-23 23:45:00, and evaluation start date is: 2017-10-11 11:00:00
+HF dataset shape (C, T): (7, 1716)
+7676928
+0 - {'mse': tensor(0.2535, device='cuda:0'), 'mae': tensor(0.3143, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/ETTm1/final_metrics/
+=== Running lam=0.01, num_closest_samples=9 ===
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+2025-11-22 19:18:27,665 - log_util.py[pid:4056801;line:52:log_in_local_rank_0] - INFO: >>> Split valid data (last 10%) from 2017-10-06 03:00:00 to 2017-10-23 23:45:00, and evaluation start date is: 2017-10-11 11:00:00
+HF dataset shape (C, T): (7, 1716)
+7676928
+0 - {'mse': tensor(0.2537, device='cuda:0'), 'mae': tensor(0.3144, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/ETTm1/final_metrics/
+=== Running lam=0.01, num_closest_samples=9 ===
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+2025-11-22 19:28:27,583 - log_util.py[pid:4057100;line:52:log_in_local_rank_0] - INFO: >>> Split valid data (last 10%) from 2017-10-06 03:00:00 to 2017-10-23 23:45:00, and evaluation start date is: 2017-10-11 11:00:00
+HF dataset shape (C, T): (7, 1716)
+7676928
+0 - {'mse': tensor(0.2540, device='cuda:0'), 'mae': tensor(0.3146, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/ETTm1/final_metrics/
+=== Running lam=0.01, num_closest_samples=10 ===
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+2025-11-22 19:38:17,320 - log_util.py[pid:4057403;line:52:log_in_local_rank_0] - INFO: >>> Split valid data (last 10%) from 2017-10-06 03:00:00 to 2017-10-23 23:45:00, and evaluation start date is: 2017-10-11 11:00:00
+HF dataset shape (C, T): (7, 1716)
+7676928
+0 - {'mse': tensor(0.2537, device='cuda:0'), 'mae': tensor(0.3164, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/ETTm1/final_metrics/
+=== Running lam=0.01, num_closest_samples=10 ===
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+2025-11-22 19:47:50,869 - log_util.py[pid:4057704;line:52:log_in_local_rank_0] - INFO: >>> Split valid data (last 10%) from 2017-10-06 03:00:00 to 2017-10-23 23:45:00, and evaluation start date is: 2017-10-11 11:00:00
+HF dataset shape (C, T): (7, 1716)
+7676928
+0 - {'mse': tensor(0.2535, device='cuda:0'), 'mae': tensor(0.3159, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/ETTm1/final_metrics/
+=== Running lam=0.01, num_closest_samples=10 ===
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+2025-11-22 19:57:26,909 - log_util.py[pid:4057994;line:52:log_in_local_rank_0] - INFO: >>> Split valid data (last 10%) from 2017-10-06 03:00:00 to 2017-10-23 23:45:00, and evaluation start date is: 2017-10-11 11:00:00
+HF dataset shape (C, T): (7, 1716)
+7676928
+0 - {'mse': tensor(0.2534, device='cuda:0'), 'mae': tensor(0.3154, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/ETTm1/final_metrics/
+=== Running lam=0.01, num_closest_samples=10 ===
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+2025-11-22 20:06:47,639 - log_util.py[pid:4058285;line:52:log_in_local_rank_0] - INFO: >>> Split valid data (last 10%) from 2017-10-06 03:00:00 to 2017-10-23 23:45:00, and evaluation start date is: 2017-10-11 11:00:00
+HF dataset shape (C, T): (7, 1716)
+7676928
+0 - {'mse': tensor(0.2532, device='cuda:0'), 'mae': tensor(0.3150, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/ETTm1/final_metrics/
+=== Running lam=0.01, num_closest_samples=10 ===
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+2025-11-22 20:16:42,724 - log_util.py[pid:4058587;line:52:log_in_local_rank_0] - INFO: >>> Split valid data (last 10%) from 2017-10-06 03:00:00 to 2017-10-23 23:45:00, and evaluation start date is: 2017-10-11 11:00:00
+HF dataset shape (C, T): (7, 1716)
+7676928
+0 - {'mse': tensor(0.2532, device='cuda:0'), 'mae': tensor(0.3147, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/ETTm1/final_metrics/
+=== Running lam=0.01, num_closest_samples=10 ===
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+2025-11-22 20:26:24,178 - log_util.py[pid:4058875;line:52:log_in_local_rank_0] - INFO: >>> Split valid data (last 10%) from 2017-10-06 03:00:00 to 2017-10-23 23:45:00, and evaluation start date is: 2017-10-11 11:00:00
+HF dataset shape (C, T): (7, 1716)
+7676928
+0 - {'mse': tensor(0.2532, device='cuda:0'), 'mae': tensor(0.3145, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/ETTm1/final_metrics/
+=== Running lam=0.01, num_closest_samples=10 ===
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+2025-11-22 20:36:06,844 - log_util.py[pid:4059178;line:52:log_in_local_rank_0] - INFO: >>> Split valid data (last 10%) from 2017-10-06 03:00:00 to 2017-10-23 23:45:00, and evaluation start date is: 2017-10-11 11:00:00
+HF dataset shape (C, T): (7, 1716)
+7676928
+0 - {'mse': tensor(0.2533, device='cuda:0'), 'mae': tensor(0.3144, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/ETTm1/final_metrics/
+=== Running lam=0.01, num_closest_samples=10 ===
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+2025-11-22 20:45:46,373 - log_util.py[pid:4059480;line:52:log_in_local_rank_0] - INFO: >>> Split valid data (last 10%) from 2017-10-06 03:00:00 to 2017-10-23 23:45:00, and evaluation start date is: 2017-10-11 11:00:00
+HF dataset shape (C, T): (7, 1716)
+7676928
+0 - {'mse': tensor(0.2534, device='cuda:0'), 'mae': tensor(0.3143, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/ETTm1/final_metrics/
+=== Running lam=0.01, num_closest_samples=10 ===
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+2025-11-22 20:55:40,327 - log_util.py[pid:4059781;line:52:log_in_local_rank_0] - INFO: >>> Split valid data (last 10%) from 2017-10-06 03:00:00 to 2017-10-23 23:45:00, and evaluation start date is: 2017-10-11 11:00:00
+HF dataset shape (C, T): (7, 1716)
+7676928
+0 - {'mse': tensor(0.2535, device='cuda:0'), 'mae': tensor(0.3143, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/ETTm1/final_metrics/
+=== Running lam=0.01, num_closest_samples=10 ===
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+2025-11-22 21:05:30,787 - log_util.py[pid:4060074;line:52:log_in_local_rank_0] - INFO: >>> Split valid data (last 10%) from 2017-10-06 03:00:00 to 2017-10-23 23:45:00, and evaluation start date is: 2017-10-11 11:00:00
+HF dataset shape (C, T): (7, 1716)
+7676928
+0 - {'mse': tensor(0.2537, device='cuda:0'), 'mae': tensor(0.3144, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/ETTm1/final_metrics/
+=== Running lam=0.01, num_closest_samples=10 ===
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+2025-11-22 21:15:26,696 - log_util.py[pid:4060916;line:52:log_in_local_rank_0] - INFO: >>> Split valid data (last 10%) from 2017-10-06 03:00:00 to 2017-10-23 23:45:00, and evaluation start date is: 2017-10-11 11:00:00
+HF dataset shape (C, T): (7, 1716)
+7676928
+0 - {'mse': tensor(0.2540, device='cuda:0'), 'mae': tensor(0.3146, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/ETTm1/final_metrics/
+=== Running lam=0.01, num_closest_samples=11 ===
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+2025-11-22 21:25:22,440 - log_util.py[pid:4061475;line:52:log_in_local_rank_0] - INFO: >>> Split valid data (last 10%) from 2017-10-06 03:00:00 to 2017-10-23 23:45:00, and evaluation start date is: 2017-10-11 11:00:00
+HF dataset shape (C, T): (7, 1716)
+7676928
+0 - {'mse': tensor(0.2537, device='cuda:0'), 'mae': tensor(0.3163, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/ETTm1/final_metrics/
+=== Running lam=0.01, num_closest_samples=11 ===
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+2025-11-22 21:35:14,250 - log_util.py[pid:4061872;line:52:log_in_local_rank_0] - INFO: >>> Split valid data (last 10%) from 2017-10-06 03:00:00 to 2017-10-23 23:45:00, and evaluation start date is: 2017-10-11 11:00:00
+HF dataset shape (C, T): (7, 1716)
+7676928
+0 - {'mse': tensor(0.2534, device='cuda:0'), 'mae': tensor(0.3157, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/ETTm1/final_metrics/
+=== Running lam=0.01, num_closest_samples=11 ===
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+2025-11-22 21:45:00,720 - log_util.py[pid:4062518;line:52:log_in_local_rank_0] - INFO: >>> Split valid data (last 10%) from 2017-10-06 03:00:00 to 2017-10-23 23:45:00, and evaluation start date is: 2017-10-11 11:00:00
+HF dataset shape (C, T): (7, 1716)
+7676928
+0 - {'mse': tensor(0.2533, device='cuda:0'), 'mae': tensor(0.3153, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/ETTm1/final_metrics/
+=== Running lam=0.01, num_closest_samples=11 ===
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+2025-11-22 21:54:55,578 - log_util.py[pid:4062916;line:52:log_in_local_rank_0] - INFO: >>> Split valid data (last 10%) from 2017-10-06 03:00:00 to 2017-10-23 23:45:00, and evaluation start date is: 2017-10-11 11:00:00
+HF dataset shape (C, T): (7, 1716)
+7676928
+0 - {'mse': tensor(0.2532, device='cuda:0'), 'mae': tensor(0.3149, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/ETTm1/final_metrics/
+=== Running lam=0.01, num_closest_samples=11 ===
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+2025-11-22 22:04:25,155 - log_util.py[pid:4063277;line:52:log_in_local_rank_0] - INFO: >>> Split valid data (last 10%) from 2017-10-06 03:00:00 to 2017-10-23 23:45:00, and evaluation start date is: 2017-10-11 11:00:00
+HF dataset shape (C, T): (7, 1716)
+7676928
+0 - {'mse': tensor(0.2532, device='cuda:0'), 'mae': tensor(0.3146, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/ETTm1/final_metrics/
+=== Running lam=0.01, num_closest_samples=11 ===
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+2025-11-22 22:14:23,905 - log_util.py[pid:4063643;line:52:log_in_local_rank_0] - INFO: >>> Split valid data (last 10%) from 2017-10-06 03:00:00 to 2017-10-23 23:45:00, and evaluation start date is: 2017-10-11 11:00:00
+HF dataset shape (C, T): (7, 1716)
+7676928
+0 - {'mse': tensor(0.2532, device='cuda:0'), 'mae': tensor(0.3145, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/ETTm1/final_metrics/
+=== Running lam=0.01, num_closest_samples=11 ===
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+2025-11-22 22:24:15,955 - log_util.py[pid:4063988;line:52:log_in_local_rank_0] - INFO: >>> Split valid data (last 10%) from 2017-10-06 03:00:00 to 2017-10-23 23:45:00, and evaluation start date is: 2017-10-11 11:00:00
+HF dataset shape (C, T): (7, 1716)
+7676928
+0 - {'mse': tensor(0.2533, device='cuda:0'), 'mae': tensor(0.3143, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/ETTm1/final_metrics/
+=== Running lam=0.01, num_closest_samples=11 ===
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+2025-11-22 22:34:02,947 - log_util.py[pid:4064331;line:52:log_in_local_rank_0] - INFO: >>> Split valid data (last 10%) from 2017-10-06 03:00:00 to 2017-10-23 23:45:00, and evaluation start date is: 2017-10-11 11:00:00
+HF dataset shape (C, T): (7, 1716)
+7676928
+0 - {'mse': tensor(0.2534, device='cuda:0'), 'mae': tensor(0.3143, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/ETTm1/final_metrics/
+=== Running lam=0.01, num_closest_samples=11 ===
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+2025-11-22 22:43:40,059 - log_util.py[pid:4064651;line:52:log_in_local_rank_0] - INFO: >>> Split valid data (last 10%) from 2017-10-06 03:00:00 to 2017-10-23 23:45:00, and evaluation start date is: 2017-10-11 11:00:00
+HF dataset shape (C, T): (7, 1716)
+7676928
+0 - {'mse': tensor(0.2535, device='cuda:0'), 'mae': tensor(0.3143, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/ETTm1/final_metrics/
+=== Running lam=0.01, num_closest_samples=11 ===
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+2025-11-22 22:53:27,920 - log_util.py[pid:4064959;line:52:log_in_local_rank_0] - INFO: >>> Split valid data (last 10%) from 2017-10-06 03:00:00 to 2017-10-23 23:45:00, and evaluation start date is: 2017-10-11 11:00:00
+HF dataset shape (C, T): (7, 1716)
+7676928
+0 - {'mse': tensor(0.2537, device='cuda:0'), 'mae': tensor(0.3144, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/ETTm1/final_metrics/
+=== Running lam=0.01, num_closest_samples=11 ===
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+2025-11-22 23:03:19,431 - log_util.py[pid:4065407;line:52:log_in_local_rank_0] - INFO: >>> Split valid data (last 10%) from 2017-10-06 03:00:00 to 2017-10-23 23:45:00, and evaluation start date is: 2017-10-11 11:00:00
+HF dataset shape (C, T): (7, 1716)
+7676928
+0 - {'mse': tensor(0.2540, device='cuda:0'), 'mae': tensor(0.3146, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/ETTm1/final_metrics/
+=== Running lam=0.01, num_closest_samples=12 ===
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+2025-11-22 23:13:15,538 - log_util.py[pid:4065704;line:52:log_in_local_rank_0] - INFO: >>> Split valid data (last 10%) from 2017-10-06 03:00:00 to 2017-10-23 23:45:00, and evaluation start date is: 2017-10-11 11:00:00
+HF dataset shape (C, T): (7, 1716)
+7676928
+0 - {'mse': tensor(0.2538, device='cuda:0'), 'mae': tensor(0.3165, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/ETTm1/final_metrics/
+=== Running lam=0.01, num_closest_samples=12 ===
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+2025-11-22 23:22:49,918 - log_util.py[pid:4066001;line:52:log_in_local_rank_0] - INFO: >>> Split valid data (last 10%) from 2017-10-06 03:00:00 to 2017-10-23 23:45:00, and evaluation start date is: 2017-10-11 11:00:00
+HF dataset shape (C, T): (7, 1716)
+7676928
+0 - {'mse': tensor(0.2536, device='cuda:0'), 'mae': tensor(0.3160, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/ETTm1/final_metrics/
+=== Running lam=0.01, num_closest_samples=12 ===
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+2025-11-22 23:32:30,916 - log_util.py[pid:4066289;line:52:log_in_local_rank_0] - INFO: >>> Split valid data (last 10%) from 2017-10-06 03:00:00 to 2017-10-23 23:45:00, and evaluation start date is: 2017-10-11 11:00:00
+HF dataset shape (C, T): (7, 1716)
+7676928
+0 - {'mse': tensor(0.2534, device='cuda:0'), 'mae': tensor(0.3155, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/ETTm1/final_metrics/
+=== Running lam=0.01, num_closest_samples=12 ===
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+2025-11-22 23:42:11,665 - log_util.py[pid:4066589;line:52:log_in_local_rank_0] - INFO: >>> Split valid data (last 10%) from 2017-10-06 03:00:00 to 2017-10-23 23:45:00, and evaluation start date is: 2017-10-11 11:00:00
+HF dataset shape (C, T): (7, 1716)
+7676928
+0 - {'mse': tensor(0.2533, device='cuda:0'), 'mae': tensor(0.3151, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/ETTm1/final_metrics/
+=== Running lam=0.01, num_closest_samples=12 ===
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+2025-11-22 23:51:37,390 - log_util.py[pid:4066880;line:52:log_in_local_rank_0] - INFO: >>> Split valid data (last 10%) from 2017-10-06 03:00:00 to 2017-10-23 23:45:00, and evaluation start date is: 2017-10-11 11:00:00
+HF dataset shape (C, T): (7, 1716)
+7676928
+0 - {'mse': tensor(0.2532, device='cuda:0'), 'mae': tensor(0.3147, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/ETTm1/final_metrics/
+=== Running lam=0.01, num_closest_samples=12 ===
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+2025-11-23 00:01:34,935 - log_util.py[pid:4067219;line:52:log_in_local_rank_0] - INFO: >>> Split valid data (last 10%) from 2017-10-06 03:00:00 to 2017-10-23 23:45:00, and evaluation start date is: 2017-10-11 11:00:00
+HF dataset shape (C, T): (7, 1716)
+7676928
+0 - {'mse': tensor(0.2532, device='cuda:0'), 'mae': tensor(0.3145, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/ETTm1/final_metrics/
+=== Running lam=0.01, num_closest_samples=12 ===
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+2025-11-23 00:11:25,972 - log_util.py[pid:4067521;line:52:log_in_local_rank_0] - INFO: >>> Split valid data (last 10%) from 2017-10-06 03:00:00 to 2017-10-23 23:45:00, and evaluation start date is: 2017-10-11 11:00:00
+HF dataset shape (C, T): (7, 1716)
+7676928
+0 - {'mse': tensor(0.2533, device='cuda:0'), 'mae': tensor(0.3144, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/ETTm1/final_metrics/
+=== Running lam=0.01, num_closest_samples=12 ===
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+2025-11-23 00:21:19,569 - log_util.py[pid:4067825;line:52:log_in_local_rank_0] - INFO: >>> Split valid data (last 10%) from 2017-10-06 03:00:00 to 2017-10-23 23:45:00, and evaluation start date is: 2017-10-11 11:00:00
+HF dataset shape (C, T): (7, 1716)
+7676928
+0 - {'mse': tensor(0.2534, device='cuda:0'), 'mae': tensor(0.3143, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/ETTm1/final_metrics/
+=== Running lam=0.01, num_closest_samples=12 ===
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+2025-11-23 00:31:14,876 - log_util.py[pid:4068131;line:52:log_in_local_rank_0] - INFO: >>> Split valid data (last 10%) from 2017-10-06 03:00:00 to 2017-10-23 23:45:00, and evaluation start date is: 2017-10-11 11:00:00
+HF dataset shape (C, T): (7, 1716)
+7676928
+0 - {'mse': tensor(0.2535, device='cuda:0'), 'mae': tensor(0.3143, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/ETTm1/final_metrics/
+=== Running lam=0.01, num_closest_samples=12 ===
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+2025-11-23 00:40:59,206 - log_util.py[pid:4068424;line:52:log_in_local_rank_0] - INFO: >>> Split valid data (last 10%) from 2017-10-06 03:00:00 to 2017-10-23 23:45:00, and evaluation start date is: 2017-10-11 11:00:00
+HF dataset shape (C, T): (7, 1716)
+7676928
+0 - {'mse': tensor(0.2537, device='cuda:0'), 'mae': tensor(0.3144, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/ETTm1/final_metrics/
+=== Running lam=0.01, num_closest_samples=12 ===
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+2025-11-23 00:50:38,334 - log_util.py[pid:4068730;line:52:log_in_local_rank_0] - INFO: >>> Split valid data (last 10%) from 2017-10-06 03:00:00 to 2017-10-23 23:45:00, and evaluation start date is: 2017-10-11 11:00:00
+HF dataset shape (C, T): (7, 1716)
+7676928
+0 - {'mse': tensor(0.2540, device='cuda:0'), 'mae': tensor(0.3146, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/ETTm1/final_metrics/
+=== Running lam=0.01, num_closest_samples=13 ===
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+2025-11-23 01:00:32,719 - log_util.py[pid:4069020;line:52:log_in_local_rank_0] - INFO: >>> Split valid data (last 10%) from 2017-10-06 03:00:00 to 2017-10-23 23:45:00, and evaluation start date is: 2017-10-11 11:00:00
+HF dataset shape (C, T): (7, 1716)
+7676928
+0 - {'mse': tensor(0.2537, device='cuda:0'), 'mae': tensor(0.3165, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/ETTm1/final_metrics/
+=== Running lam=0.01, num_closest_samples=13 ===
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+2025-11-23 01:10:15,137 - log_util.py[pid:4069325;line:52:log_in_local_rank_0] - INFO: >>> Split valid data (last 10%) from 2017-10-06 03:00:00 to 2017-10-23 23:45:00, and evaluation start date is: 2017-10-11 11:00:00
+HF dataset shape (C, T): (7, 1716)
+7676928
+0 - {'mse': tensor(0.2535, device='cuda:0'), 'mae': tensor(0.3159, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/ETTm1/final_metrics/
+=== Running lam=0.01, num_closest_samples=13 ===
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+2025-11-23 01:19:40,518 - log_util.py[pid:4069618;line:52:log_in_local_rank_0] - INFO: >>> Split valid data (last 10%) from 2017-10-06 03:00:00 to 2017-10-23 23:45:00, and evaluation start date is: 2017-10-11 11:00:00
+HF dataset shape (C, T): (7, 1716)
+7676928
+0 - {'mse': tensor(0.2533, device='cuda:0'), 'mae': tensor(0.3154, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/ETTm1/final_metrics/
+=== Running lam=0.01, num_closest_samples=13 ===
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+2025-11-23 01:29:21,437 - log_util.py[pid:4069905;line:52:log_in_local_rank_0] - INFO: >>> Split valid data (last 10%) from 2017-10-06 03:00:00 to 2017-10-23 23:45:00, and evaluation start date is: 2017-10-11 11:00:00
+HF dataset shape (C, T): (7, 1716)
+7676928
+0 - {'mse': tensor(0.2533, device='cuda:0'), 'mae': tensor(0.3150, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/ETTm1/final_metrics/
+=== Running lam=0.01, num_closest_samples=13 ===
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+2025-11-23 01:39:03,605 - log_util.py[pid:4070207;line:52:log_in_local_rank_0] - INFO: >>> Split valid data (last 10%) from 2017-10-06 03:00:00 to 2017-10-23 23:45:00, and evaluation start date is: 2017-10-11 11:00:00
+HF dataset shape (C, T): (7, 1716)
+7676928
+0 - {'mse': tensor(0.2532, device='cuda:0'), 'mae': tensor(0.3147, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/ETTm1/final_metrics/
+=== Running lam=0.01, num_closest_samples=13 ===
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+2025-11-23 01:48:55,573 - log_util.py[pid:4070503;line:52:log_in_local_rank_0] - INFO: >>> Split valid data (last 10%) from 2017-10-06 03:00:00 to 2017-10-23 23:45:00, and evaluation start date is: 2017-10-11 11:00:00
+HF dataset shape (C, T): (7, 1716)
+7676928
+0 - {'mse': tensor(0.2532, device='cuda:0'), 'mae': tensor(0.3145, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/ETTm1/final_metrics/
+=== Running lam=0.01, num_closest_samples=13 ===
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+2025-11-23 01:58:51,596 - log_util.py[pid:4070805;line:52:log_in_local_rank_0] - INFO: >>> Split valid data (last 10%) from 2017-10-06 03:00:00 to 2017-10-23 23:45:00, and evaluation start date is: 2017-10-11 11:00:00
+HF dataset shape (C, T): (7, 1716)
+7676928
+0 - {'mse': tensor(0.2533, device='cuda:0'), 'mae': tensor(0.3144, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/ETTm1/final_metrics/
+=== Running lam=0.01, num_closest_samples=13 ===
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+2025-11-23 02:08:22,568 - log_util.py[pid:4071097;line:52:log_in_local_rank_0] - INFO: >>> Split valid data (last 10%) from 2017-10-06 03:00:00 to 2017-10-23 23:45:00, and evaluation start date is: 2017-10-11 11:00:00
+HF dataset shape (C, T): (7, 1716)
+7676928
+0 - {'mse': tensor(0.2534, device='cuda:0'), 'mae': tensor(0.3143, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/ETTm1/final_metrics/
+=== Running lam=0.01, num_closest_samples=13 ===
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+2025-11-23 02:17:51,062 - log_util.py[pid:4071416;line:52:log_in_local_rank_0] - INFO: >>> Split valid data (last 10%) from 2017-10-06 03:00:00 to 2017-10-23 23:45:00, and evaluation start date is: 2017-10-11 11:00:00
+HF dataset shape (C, T): (7, 1716)
+7676928
+0 - {'mse': tensor(0.2535, device='cuda:0'), 'mae': tensor(0.3143, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/ETTm1/final_metrics/
+=== Running lam=0.01, num_closest_samples=13 ===
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+2025-11-23 02:27:46,529 - log_util.py[pid:4071718;line:52:log_in_local_rank_0] - INFO: >>> Split valid data (last 10%) from 2017-10-06 03:00:00 to 2017-10-23 23:45:00, and evaluation start date is: 2017-10-11 11:00:00
+HF dataset shape (C, T): (7, 1716)
+7676928
+0 - {'mse': tensor(0.2537, device='cuda:0'), 'mae': tensor(0.3144, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/ETTm1/final_metrics/
+=== Running lam=0.01, num_closest_samples=13 ===
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+2025-11-23 02:37:28,767 - log_util.py[pid:4072010;line:52:log_in_local_rank_0] - INFO: >>> Split valid data (last 10%) from 2017-10-06 03:00:00 to 2017-10-23 23:45:00, and evaluation start date is: 2017-10-11 11:00:00
+HF dataset shape (C, T): (7, 1716)
+7676928
+0 - {'mse': tensor(0.2540, device='cuda:0'), 'mae': tensor(0.3146, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/ETTm1/final_metrics/
+=== Running lam=0.01, num_closest_samples=14 ===
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+2025-11-23 02:47:17,734 - log_util.py[pid:4072319;line:52:log_in_local_rank_0] - INFO: >>> Split valid data (last 10%) from 2017-10-06 03:00:00 to 2017-10-23 23:45:00, and evaluation start date is: 2017-10-11 11:00:00
+HF dataset shape (C, T): (7, 1716)
+7676928
+0 - {'mse': tensor(0.2537, device='cuda:0'), 'mae': tensor(0.3164, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/ETTm1/final_metrics/
+=== Running lam=0.01, num_closest_samples=14 ===
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+2025-11-23 02:56:49,625 - log_util.py[pid:4072606;line:52:log_in_local_rank_0] - INFO: >>> Split valid data (last 10%) from 2017-10-06 03:00:00 to 2017-10-23 23:45:00, and evaluation start date is: 2017-10-11 11:00:00
+HF dataset shape (C, T): (7, 1716)
+7676928
+0 - {'mse': tensor(0.2535, device='cuda:0'), 'mae': tensor(0.3159, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/ETTm1/final_metrics/
+=== Running lam=0.01, num_closest_samples=14 ===
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+2025-11-23 03:06:04,980 - log_util.py[pid:4072893;line:52:log_in_local_rank_0] - INFO: >>> Split valid data (last 10%) from 2017-10-06 03:00:00 to 2017-10-23 23:45:00, and evaluation start date is: 2017-10-11 11:00:00
+HF dataset shape (C, T): (7, 1716)
+7676928
+0 - {'mse': tensor(0.2533, device='cuda:0'), 'mae': tensor(0.3154, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/ETTm1/final_metrics/
+=== Running lam=0.01, num_closest_samples=14 ===

@@ -1,6 +1,6 @@
 import argparse
 from time_moe.runner import TimeMoeRunner
-
+import os
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
@@ -17,11 +17,11 @@ if __name__ == "__main__":
         default="Maple728/TimeMoE-50M",
         help="Path to pretrained model. Default: Maple728/TimeMoE-50M",
     )
-    parser.add_argument("--output_path", "-o", type=str, default="logs/time_moe")
+    parser.add_argument("--output_path", "-o", type=str, default="/scratch/s223540177/Time-MoE/checkpoints")
     parser.add_argument(
         "--max_length",
         type=int,
-        default=1024,
+        default=4096,
         help="Maximum sequence length for training. Default: 1024",
     )
     parser.add_argument(
@@ -72,7 +72,7 @@ if __name__ == "__main__":
     parser.add_argument("--weight_decay", type=float, default=0.1, help="weight decay")
 
     parser.add_argument(
-        "--global_batch_size", type=int, default=64, help="global batch size"
+        "--global_batch_size", type=int, default=32, help="global batch size"
     )
     parser.add_argument(
         "--micro_batch_size", type=int, default=16, help="micro batch size per device"
@@ -149,9 +149,80 @@ if __name__ == "__main__":
     if args.normalization_method == "none":
         args.normalization_method = None
 
+    # extract the model size from model_path
+    if args.model_path.startswith("Maple728/TimeMoE-50M"):
+        model_size = "50M"
+    elif args.model_path.startswith("Maple728/TimeMoE-200M"):
+        model_size = "200M"
+    else:
+        raise ValueError(f"Unknown model path: {args.model_path}")
+
+    # extract the dataset name from data_path
+    if "etth1" in args.data_path.lower():
+        dataset_name = "etth1"
+    elif "etth2" in args.data_path.lower():
+        dataset_name = "etth2"
+    elif "ettm1" in args.data_path.lower():
+        dataset_name = "ettm1"
+    elif "ettm2" in args.data_path.lower():
+        dataset_name = "ettm2"
+    elif "exchange_rate" in args.data_path.lower():
+        dataset_name = "exchange_rate"
+    elif "weather" in args.data_path.lower():
+        dataset_name = "weather"
+    elif "illness" in args.data_path.lower():
+        dataset_name = "illness"
+    elif "solar" in args.data_path.lower():
+        dataset_name = "solar"
+    elif "m4_yearly" in args.data_path.lower():
+        dataset_name = "m4_yearly"
+    elif "tourism_quarterly" in args.data_path.lower():
+        dataset_name = "tourism_quarterly"
+    elif "tourism_monthly" in args.data_path.lower():
+        dataset_name = "tourism_monthly"
+    elif "tourism_yearly" in args.data_path.lower():
+        dataset_name = "tourism_yearly"
+    elif "us_births" in args.data_path.lower():
+        dataset_name = "us_births"
+    elif "hospital" in args.data_path.lower():
+        dataset_name = "hospital"
+    elif "rideshare" in args.data_path.lower():
+        dataset_name = "rideshare"
+    elif "nn5" in args.data_path.lower():
+        dataset_name = "nn5"
+    elif "pedestrian" in args.data_path.lower():
+        dataset_name = "pedestrian"
+    elif "temperature" in args.data_path.lower():
+        dataset_name = "temperature"
+    elif "fred_md" in args.data_path.lower():
+        dataset_name = "fredmd"
+    elif "saugeenday" in args.data_path.lower():
+        dataset_name = "saugeenday"
+    elif "sunspot" in args.data_path.lower():
+        dataset_name = "sunspots"
+    elif "bitcoin" in args.data_path.lower():
+        dataset_name = "bitcoin"
+    elif "kdd" in args.data_path.lower():
+        dataset_name = "kdd"
+    elif "vehicle" in args.data_path.lower():
+        dataset_name = "vehicle"
+    elif "m1_monthly" in args.data_path.lower():
+        dataset_name = "m1_monthly"
+    elif "traffic" in args.data_path.lower():
+        dataset_name = "traffic"
+    else:
+        raise ValueError(f"Unknown dataset in data path: {args.data_path}")
+
+    # NOTE: fix the output path here
+    output_path = os.path.join(args.output_path, f"{model_size}_{dataset_name}")
+
+    # if output_path does not exist, create it
+    if not os.path.exists(output_path):
+        os.makedirs(output_path, exist_ok=True)
+
     runner = TimeMoeRunner(
         model_path=args.model_path,
-        output_path=args.output_path,
+        output_path=output_path,
         seed=args.seed,
     )
 

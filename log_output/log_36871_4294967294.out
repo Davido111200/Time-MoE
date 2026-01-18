@@ -1,0 +1,6 @@
+>>> Model dtype: torch.bfloat16; Attention:eager
+train 4704
+Saved items to /scratch/s223540177/Time-Moe/cache_data/custom/cache.pt
+2025-10-01 05:08:12,660 - log_util.py[pid:1796701;line:52:log_in_local_rank_0] - INFO: >>> Split test data from 2005/3/22 0:00 to 2010/10/10 0:00, and evaluation start date is: 2006/8/16 0:00
+1091328
+0 - {'mse': tensor(0.1260, device='cuda:0'), 'mae': tensor(0.2645, device='cuda:0')}

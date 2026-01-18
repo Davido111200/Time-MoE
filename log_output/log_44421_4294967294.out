@@ -1,0 +1,4 @@
+0 - {'mse': tensor(0.3215, device='cuda:0'), 'mae': tensor(0.3924, device='cuda:0')}
+[1;34mwandb[0m: 
+[1;34mwandb[0m: 🚀 View run [33mdistinctive-spaceship-3792[0m at: [34m[0m
+[1;34mwandb[0m: Find logs at: [1;35mwandb/run-20251125_140230-xk8yhh6s/logs[0m

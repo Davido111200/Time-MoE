@@ -1,0 +1,6 @@
+Traceback (most recent call last):
+  File "/home/s223540177/Time-MoE/run_eval_steering_finetuned.py", line 592, in <module>
+    evaluate(args)
+  File "/home/s223540177/Time-MoE/run_eval_steering_finetuned.py", line 418, in evaluate
+    assert args.pool_number <= len(pred[i]), f"pool_number {args.pool_number} is larger than available samples {len(pred[i])}"
+AssertionError: pool_number 10000 is larger than available samples 8032

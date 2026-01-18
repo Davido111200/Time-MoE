@@ -1,0 +1,3 @@
+DATA: weather
+>>> Model dtype: torch.float32; Attention:eager
+train 36280

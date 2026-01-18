@@ -1,0 +1,9 @@
+wandb: Currently logged in as: daidv to https://api.wandb.ai. Use `wandb login --relogin` to force relogin
+wandb: creating run
+wandb: Tracking run with wandb version 0.21.4
+wandb: Run data is saved locally in /home/s223540177/Time-MoE/wandb/run-20251021_222446-nu6accx7
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run colorful-water-65
+wandb: ⭐️ View project at https://wandb.ai/daidv/Time-MoE-Eval
+wandb: 🚀 View run at https://wandb.ai/daidv/Time-MoE-Eval/runs/nu6accx7
+  0%|          | 0/19488 [00:00<?, ?it/s]  0%|          | 1/19488 [00:04<23:35:31,  4.36s/it]  0%|          | 2/19488 [00:05<12:26:33,  2.30s/it]  0%|          | 3/19488 [00:06<8:50:35,  1.63s/it]   0%|          | 4/19488 [00:06<7:07:01,  1.31s/it]  0%|          | 5/19488 [00:07<6:09:10,  1.14s/it]  0%|          | 6/19488 [00:08<5:34:02,  1.03s/it]  0%|          | 7/19488 [00:09<5:11:38,  1.04it/s]  0%|          | 8/19488 [00:10<4:57:37,  1.09it/s]  0%|          | 9/19488 [00:10<4:47:24,  1.13it/s]  0%|          | 10/19488 [00:11<4:40:16,  1.16it/s]  0%|          | 10/19488 [00:12<6:55:32,  1.28s/it]

@@ -1,0 +1,11 @@
+DATA: ETTm1
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+2025-10-23 12:45:06,397 - log_util.py[pid:1215297;line:52:log_in_local_rank_0] - INFO: >>> Split test data from 2017-10-18 16:00:00 to 2018-02-20 23:45:00, and evaluation start date is: 2017-10-24 00:00:00
+7676928
+0 - {'mse': tensor(0.2531, device='cuda:0'), 'mae': tensor(0.3142, device='cuda:0')}
+[1;34mwandb[0m: 
+[1;34mwandb[0m: 🚀 View run [33mamber-breeze-242[0m at: [34m[0m
+[1;34mwandb[0m: Find logs at: [1;35mwandb/run-20251023_124432-5av2u0pw/logs[0m

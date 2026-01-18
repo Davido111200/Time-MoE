@@ -1,0 +1,20 @@
+DATA: ETTh2
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+2025-10-21 22:26:58,300 - log_util.py[pid:2875280;line:52:log_in_local_rank_0] - INFO: >>> Split test data from 2017-10-02 16:00:00 to 2018-02-20 23:00:00, and evaluation start date is: 2017-10-24 00:00:00
+Batch 0 - {'mse': tensor(0.0715, device='cuda:0'), 'mae': tensor(0.2093, device='cuda:0')}
+Batch 1 - {'mse': tensor(0.0728, device='cuda:0'), 'mae': tensor(0.2135, device='cuda:0')}
+Batch 2 - {'mse': tensor(0.0708, device='cuda:0'), 'mae': tensor(0.2096, device='cuda:0')}
+Batch 3 - {'mse': tensor(0.0684, device='cuda:0'), 'mae': tensor(0.2044, device='cuda:0')}
+Batch 4 - {'mse': tensor(0.0666, device='cuda:0'), 'mae': tensor(0.2002, device='cuda:0')}
+Batch 5 - {'mse': tensor(0.0663, device='cuda:0'), 'mae': tensor(0.2006, device='cuda:0')}
+Batch 6 - {'mse': tensor(0.0658, device='cuda:0'), 'mae': tensor(0.1997, device='cuda:0')}
+Batch 7 - {'mse': tensor(0.0653, device='cuda:0'), 'mae': tensor(0.1987, device='cuda:0')}
+Batch 8 - {'mse': tensor(0.0653, device='cuda:0'), 'mae': tensor(0.1986, device='cuda:0')}
+Batch 9 - {'mse': tensor(0.0652, device='cuda:0'), 'mae': tensor(0.1984, device='cuda:0')}
+Batch 10 - {'mse': tensor(0.0661, device='cuda:0'), 'mae': tensor(0.1998, device='cuda:0')}
+[1;34mwandb[0m: 
+[1;34mwandb[0m: 🚀 View run [33mcolorful-water-65[0m at: [34m[0m
+[1;34mwandb[0m: Find logs at: [1;35mwandb/run-20251021_222446-nu6accx7/logs[0m

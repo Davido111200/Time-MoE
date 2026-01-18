@@ -1,0 +1,8 @@
+DATA: ETTh2
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+2025-10-19 00:27:30,025 - log_util.py[pid:2973141;line:52:log_in_local_rank_0] - INFO: >>> Split test data from 2017-10-02 16:00:00 to 2018-02-20 23:00:00, and evaluation start date is: 2017-10-24 00:00:00
+1870848
+0 - {'mse': tensor(0.2835, device='cuda:0'), 'mae': tensor(0.3505, device='cuda:0')}

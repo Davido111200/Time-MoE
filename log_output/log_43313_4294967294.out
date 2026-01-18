@@ -1,0 +1,2 @@
+Error:  Setup nccl fail, so set device to cpu: The server socket has failed to listen on any local network address. port: 9899, useIpv6: false, code: -98, name: EADDRINUSE, message: address already in use
+2025-11-16 03:44:32,561 - log_util.py[pid:3509899;line:52:log_in_local_rank_0] - INFO: >>> Split test data from 2017-10-02 16:00:00 to 2018-02-20 23:00:00, and evaluation start date is: 2017-10-24 00:00:00

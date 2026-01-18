@@ -1,0 +1,11 @@
+DATA: ETTh2
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+2025-10-22 05:58:18,876 - log_util.py[pid:3355772;line:52:log_in_local_rank_0] - INFO: >>> Split test data from 2017-10-02 16:00:00 to 2018-02-20 23:00:00, and evaluation start date is: 2017-10-24 00:00:00
+1870848
+0 - {'mse': tensor(0.2841, device='cuda:0'), 'mae': tensor(0.3507, device='cuda:0')}
+[1;34mwandb[0m: 
+[1;34mwandb[0m: 🚀 View run [33mmagic-capybara-93[0m at: [34m[0m
+[1;34mwandb[0m: Find logs at: [1;35mwandb/run-20251022_055737-l1ftyx3p/logs[0m

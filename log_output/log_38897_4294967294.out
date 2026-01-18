@@ -1,0 +1,9 @@
+DATA: exchange_rate
+>>> Model dtype: torch.float32; Attention:eager
+train 4704
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+2025-10-14 16:27:51,053 - log_util.py[pid:1322896;line:52:log_in_local_rank_0] - INFO: >>> Split test data from 2005/3/22 0:00 to 2010/10/10 0:00, and evaluation start date is: 2006/8/16 0:00
+1091328
+0 - {'mse': tensor(0.1115, device='cuda:0'), 'mae': tensor(0.2394, device='cuda:0')}

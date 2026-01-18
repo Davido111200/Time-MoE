@@ -1,0 +1,11 @@
+DATA: illness
+>>> Model dtype: torch.float32; Attention:eager
+Saved Pred to /scratch/s223540177/Time-Moe/cache_data_finetuned_fixed/illness/pred_cache.pt
+Saved gt to /scratch/s223540177/Time-Moe/cache_data_finetuned_fixed/illness/gt_cache.pt
+SORTED DONE
+2025-10-22 19:42:08,075 - log_util.py[pid:548522;line:52:log_in_local_rank_0] - INFO: >>> Split test data from 2007-01-02 00:00:00 to 2020-06-30 00:00:00, and evaluation start date is: 2016-10-25 00:00:00
+65184
+0 - {'mse': tensor(3.7342, device='cuda:0'), 'mae': tensor(1.2337, device='cuda:0')}
+[1;34mwandb[0m: 
+[1;34mwandb[0m: 🚀 View run [33mjumping-galaxy-139[0m at: [34m[0m
+[1;34mwandb[0m: Find logs at: [1;35mwandb/run-20251022_194115-s7zw1tdh/logs[0m

@@ -1,0 +1,6190 @@
+=== Running lam=0.01, num_closest_samples=1, weight=0.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+N points: 676
+Window length: 120
+N points: 676
+Window length: 120
+N points: 676
+Window length: 120
+N points: 676
+Window length: 120
+N points: 676
+Window length: 120
+N points: 676
+Window length: 120
+N points: 676
+Window length: 120
+len dataset train: 3892
+dec_in: 7
+Saved Pred to /scratch/s223540177/Time-Moe/cache_data_finetuned_fixed_4096/illness/pred_cache.pt
+N points: 676
+Window length: 120
+N points: 676
+Window length: 120
+N points: 676
+Window length: 120
+N points: 676
+Window length: 120
+N points: 676
+Window length: 120
+N points: 676
+Window length: 120
+N points: 676
+Window length: 120
+Saved gt to /scratch/s223540177/Time-Moe/cache_data_finetuned_fixed_4096/illness/gt_cache.pt
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=1, weight=0.1 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=1, weight=0.2 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=1, weight=0.3 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=1, weight=0.4 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=1, weight=0.5 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=1, weight=0.6 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=1, weight=0.7 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=1, weight=0.8 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=1, weight=0.9 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=1, weight=1.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=2, weight=0.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=2, weight=0.1 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=2, weight=0.2 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=2, weight=0.3 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=2, weight=0.4 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=2, weight=0.5 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=2, weight=0.6 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=2, weight=0.7 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=2, weight=0.8 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=2, weight=0.9 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=2, weight=1.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=3, weight=0.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=3, weight=0.1 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=3, weight=0.2 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=3, weight=0.3 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=3, weight=0.4 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=3, weight=0.5 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=3, weight=0.6 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=3, weight=0.7 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=3, weight=0.8 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=3, weight=0.9 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=3, weight=1.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=4, weight=0.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=4, weight=0.1 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=4, weight=0.2 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=4, weight=0.3 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=4, weight=0.4 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=4, weight=0.5 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=4, weight=0.6 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=4, weight=0.7 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=4, weight=0.8 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=4, weight=0.9 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=4, weight=1.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=5, weight=0.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=5, weight=0.1 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=5, weight=0.2 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=5, weight=0.3 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=5, weight=0.4 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=5, weight=0.5 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=5, weight=0.6 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=5, weight=0.7 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=5, weight=0.8 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=5, weight=0.9 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=5, weight=1.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=6, weight=0.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=6, weight=0.1 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=6, weight=0.2 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=6, weight=0.3 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=6, weight=0.4 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=6, weight=0.5 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=6, weight=0.6 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=6, weight=0.7 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=6, weight=0.8 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=6, weight=0.9 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=6, weight=1.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=7, weight=0.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=7, weight=0.1 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=7, weight=0.2 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=7, weight=0.3 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=7, weight=0.4 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=7, weight=0.5 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=7, weight=0.6 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=7, weight=0.7 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=7, weight=0.8 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=7, weight=0.9 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=7, weight=1.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=8, weight=0.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=8, weight=0.1 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=8, weight=0.2 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=8, weight=0.3 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=8, weight=0.4 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=8, weight=0.5 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=8, weight=0.6 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=8, weight=0.7 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=8, weight=0.8 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=8, weight=0.9 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=8, weight=1.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=9, weight=0.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=9, weight=0.1 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=9, weight=0.2 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=9, weight=0.3 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=9, weight=0.4 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=9, weight=0.5 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=9, weight=0.6 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=9, weight=0.7 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=9, weight=0.8 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=9, weight=0.9 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=9, weight=1.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=10, weight=0.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=10, weight=0.1 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=10, weight=0.2 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=10, weight=0.3 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=10, weight=0.4 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=10, weight=0.5 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=10, weight=0.6 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=10, weight=0.7 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=10, weight=0.8 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=10, weight=0.9 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=10, weight=1.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=11, weight=0.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=11, weight=0.1 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=11, weight=0.2 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=11, weight=0.3 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=11, weight=0.4 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=11, weight=0.5 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=11, weight=0.6 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=11, weight=0.7 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=11, weight=0.8 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=11, weight=0.9 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=11, weight=1.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=12, weight=0.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=12, weight=0.1 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=12, weight=0.2 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=12, weight=0.3 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=12, weight=0.4 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=12, weight=0.5 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=12, weight=0.6 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=12, weight=0.7 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=12, weight=0.8 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=12, weight=0.9 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=12, weight=1.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=13, weight=0.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=13, weight=0.1 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=13, weight=0.2 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=13, weight=0.3 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=13, weight=0.4 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=13, weight=0.5 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=13, weight=0.6 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=13, weight=0.7 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=13, weight=0.8 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=13, weight=0.9 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=13, weight=1.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=14, weight=0.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=14, weight=0.1 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=14, weight=0.2 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=14, weight=0.3 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=14, weight=0.4 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=14, weight=0.5 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=14, weight=0.6 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=14, weight=0.7 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=14, weight=0.8 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=14, weight=0.9 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=14, weight=1.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=15, weight=0.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=15, weight=0.1 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=15, weight=0.2 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=15, weight=0.3 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=15, weight=0.4 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=15, weight=0.5 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=15, weight=0.6 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=15, weight=0.7 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=15, weight=0.8 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=15, weight=0.9 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=15, weight=1.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=16, weight=0.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=16, weight=0.1 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=16, weight=0.2 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=16, weight=0.3 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=16, weight=0.4 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=16, weight=0.5 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=16, weight=0.6 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=16, weight=0.7 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=16, weight=0.8 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=16, weight=0.9 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.01, num_closest_samples=16, weight=1.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=1, weight=0.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=1, weight=0.1 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=1, weight=0.2 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=1, weight=0.3 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=1, weight=0.4 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=1, weight=0.5 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=1, weight=0.6 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=1, weight=0.7 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=1, weight=0.8 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=1, weight=0.9 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=1, weight=1.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=2, weight=0.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=2, weight=0.1 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=2, weight=0.2 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=2, weight=0.3 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=2, weight=0.4 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=2, weight=0.5 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=2, weight=0.6 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=2, weight=0.7 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=2, weight=0.8 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=2, weight=0.9 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=2, weight=1.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=3, weight=0.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=3, weight=0.1 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=3, weight=0.2 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=3, weight=0.3 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=3, weight=0.4 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=3, weight=0.5 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=3, weight=0.6 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=3, weight=0.7 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=3, weight=0.8 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=3, weight=0.9 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=3, weight=1.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=4, weight=0.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=4, weight=0.1 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=4, weight=0.2 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=4, weight=0.3 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=4, weight=0.4 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=4, weight=0.5 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=4, weight=0.6 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=4, weight=0.7 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=4, weight=0.8 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=4, weight=0.9 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=4, weight=1.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=5, weight=0.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=5, weight=0.1 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=5, weight=0.2 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=5, weight=0.3 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=5, weight=0.4 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=5, weight=0.5 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=5, weight=0.6 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=5, weight=0.7 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=5, weight=0.8 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=5, weight=0.9 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=5, weight=1.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=6, weight=0.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=6, weight=0.1 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=6, weight=0.2 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=6, weight=0.3 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=6, weight=0.4 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=6, weight=0.5 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=6, weight=0.6 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=6, weight=0.7 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=6, weight=0.8 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=6, weight=0.9 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=6, weight=1.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=7, weight=0.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=7, weight=0.1 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=7, weight=0.2 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=7, weight=0.3 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=7, weight=0.4 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=7, weight=0.5 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=7, weight=0.6 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=7, weight=0.7 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=7, weight=0.8 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=7, weight=0.9 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=7, weight=1.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=8, weight=0.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=8, weight=0.1 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=8, weight=0.2 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=8, weight=0.3 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=8, weight=0.4 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=8, weight=0.5 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=8, weight=0.6 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=8, weight=0.7 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=8, weight=0.8 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=8, weight=0.9 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=8, weight=1.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=9, weight=0.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=9, weight=0.1 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=9, weight=0.2 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=9, weight=0.3 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=9, weight=0.4 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=9, weight=0.5 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=9, weight=0.6 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=9, weight=0.7 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=9, weight=0.8 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=9, weight=0.9 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=9, weight=1.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=10, weight=0.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=10, weight=0.1 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=10, weight=0.2 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=10, weight=0.3 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=10, weight=0.4 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=10, weight=0.5 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=10, weight=0.6 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=10, weight=0.7 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=10, weight=0.8 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=10, weight=0.9 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=10, weight=1.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=11, weight=0.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=11, weight=0.1 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=11, weight=0.2 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=11, weight=0.3 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=11, weight=0.4 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=11, weight=0.5 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=11, weight=0.6 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=11, weight=0.7 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=11, weight=0.8 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=11, weight=0.9 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=11, weight=1.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=12, weight=0.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=12, weight=0.1 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=12, weight=0.2 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=12, weight=0.3 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=12, weight=0.4 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=12, weight=0.5 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=12, weight=0.6 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=12, weight=0.7 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=12, weight=0.8 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=12, weight=0.9 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=12, weight=1.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=13, weight=0.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=13, weight=0.1 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=13, weight=0.2 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=13, weight=0.3 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=13, weight=0.4 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=13, weight=0.5 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=13, weight=0.6 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=13, weight=0.7 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=13, weight=0.8 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=13, weight=0.9 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=13, weight=1.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=14, weight=0.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=14, weight=0.1 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=14, weight=0.2 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=14, weight=0.3 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=14, weight=0.4 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=14, weight=0.5 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=14, weight=0.6 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=14, weight=0.7 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=14, weight=0.8 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=14, weight=0.9 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=14, weight=1.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=15, weight=0.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=15, weight=0.1 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=15, weight=0.2 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=15, weight=0.3 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=15, weight=0.4 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=15, weight=0.5 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=15, weight=0.6 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=15, weight=0.7 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=15, weight=0.8 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=15, weight=0.9 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=15, weight=1.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=16, weight=0.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=16, weight=0.1 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=16, weight=0.2 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=16, weight=0.3 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=16, weight=0.4 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=16, weight=0.5 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=16, weight=0.6 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=16, weight=0.7 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=16, weight=0.8 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=16, weight=0.9 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.02, num_closest_samples=16, weight=1.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=1, weight=0.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=1, weight=0.1 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=1, weight=0.2 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=1, weight=0.3 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=1, weight=0.4 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=1, weight=0.5 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=1, weight=0.6 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=1, weight=0.7 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=1, weight=0.8 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=1, weight=0.9 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=1, weight=1.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=2, weight=0.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=2, weight=0.1 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=2, weight=0.2 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=2, weight=0.3 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=2, weight=0.4 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=2, weight=0.5 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=2, weight=0.6 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=2, weight=0.7 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=2, weight=0.8 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=2, weight=0.9 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=2, weight=1.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=3, weight=0.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=3, weight=0.1 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=3, weight=0.2 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=3, weight=0.3 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=3, weight=0.4 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=3, weight=0.5 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=3, weight=0.6 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=3, weight=0.7 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=3, weight=0.8 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=3, weight=0.9 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=3, weight=1.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=4, weight=0.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=4, weight=0.1 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=4, weight=0.2 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=4, weight=0.3 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=4, weight=0.4 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=4, weight=0.5 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=4, weight=0.6 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=4, weight=0.7 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=4, weight=0.8 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=4, weight=0.9 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=4, weight=1.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=5, weight=0.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=5, weight=0.1 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=5, weight=0.2 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=5, weight=0.3 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=5, weight=0.4 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=5, weight=0.5 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=5, weight=0.6 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=5, weight=0.7 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=5, weight=0.8 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=5, weight=0.9 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=5, weight=1.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=6, weight=0.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=6, weight=0.1 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=6, weight=0.2 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=6, weight=0.3 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=6, weight=0.4 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=6, weight=0.5 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=6, weight=0.6 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=6, weight=0.7 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=6, weight=0.8 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=6, weight=0.9 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=6, weight=1.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=7, weight=0.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=7, weight=0.1 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=7, weight=0.2 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=7, weight=0.3 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=7, weight=0.4 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=7, weight=0.5 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=7, weight=0.6 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=7, weight=0.7 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=7, weight=0.8 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=7, weight=0.9 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=7, weight=1.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=8, weight=0.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=8, weight=0.1 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=8, weight=0.2 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=8, weight=0.3 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=8, weight=0.4 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=8, weight=0.5 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=8, weight=0.6 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=8, weight=0.7 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=8, weight=0.8 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=8, weight=0.9 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=8, weight=1.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=9, weight=0.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=9, weight=0.1 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=9, weight=0.2 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=9, weight=0.3 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=9, weight=0.4 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=9, weight=0.5 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=9, weight=0.6 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=9, weight=0.7 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=9, weight=0.8 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=9, weight=0.9 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=9, weight=1.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=10, weight=0.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=10, weight=0.1 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=10, weight=0.2 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=10, weight=0.3 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=10, weight=0.4 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=10, weight=0.5 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=10, weight=0.6 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=10, weight=0.7 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=10, weight=0.8 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=10, weight=0.9 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=10, weight=1.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=11, weight=0.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=11, weight=0.1 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=11, weight=0.2 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=11, weight=0.3 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=11, weight=0.4 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=11, weight=0.5 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=11, weight=0.6 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=11, weight=0.7 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=11, weight=0.8 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=11, weight=0.9 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=11, weight=1.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=12, weight=0.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=12, weight=0.1 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=12, weight=0.2 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=12, weight=0.3 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=12, weight=0.4 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=12, weight=0.5 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=12, weight=0.6 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=12, weight=0.7 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=12, weight=0.8 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=12, weight=0.9 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=12, weight=1.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=13, weight=0.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=13, weight=0.1 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=13, weight=0.2 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=13, weight=0.3 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=13, weight=0.4 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=13, weight=0.5 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=13, weight=0.6 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=13, weight=0.7 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=13, weight=0.8 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=13, weight=0.9 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=13, weight=1.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=14, weight=0.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=14, weight=0.1 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=14, weight=0.2 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=14, weight=0.3 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=14, weight=0.4 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=14, weight=0.5 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=14, weight=0.6 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=14, weight=0.7 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=14, weight=0.8 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=14, weight=0.9 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=14, weight=1.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=15, weight=0.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=15, weight=0.1 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=15, weight=0.2 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=15, weight=0.3 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=15, weight=0.4 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=15, weight=0.5 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=15, weight=0.6 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=15, weight=0.7 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=15, weight=0.8 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=15, weight=0.9 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=15, weight=1.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=16, weight=0.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=16, weight=0.1 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=16, weight=0.2 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=16, weight=0.3 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=16, weight=0.4 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=16, weight=0.5 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=16, weight=0.6 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=16, weight=0.7 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=16, weight=0.8 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=16, weight=0.9 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.03, num_closest_samples=16, weight=1.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=1, weight=0.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=1, weight=0.1 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=1, weight=0.2 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=1, weight=0.3 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=1, weight=0.4 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=1, weight=0.5 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=1, weight=0.6 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=1, weight=0.7 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=1, weight=0.8 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=1, weight=0.9 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=1, weight=1.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=2, weight=0.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=2, weight=0.1 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=2, weight=0.2 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=2, weight=0.3 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=2, weight=0.4 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=2, weight=0.5 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=2, weight=0.6 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=2, weight=0.7 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=2, weight=0.8 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=2, weight=0.9 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=2, weight=1.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=3, weight=0.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=3, weight=0.1 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=3, weight=0.2 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=3, weight=0.3 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=3, weight=0.4 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=3, weight=0.5 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=3, weight=0.6 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=3, weight=0.7 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=3, weight=0.8 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=3, weight=0.9 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=3, weight=1.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=4, weight=0.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=4, weight=0.1 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=4, weight=0.2 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=4, weight=0.3 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=4, weight=0.4 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=4, weight=0.5 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=4, weight=0.6 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=4, weight=0.7 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=4, weight=0.8 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=4, weight=0.9 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=4, weight=1.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=5, weight=0.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=5, weight=0.1 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=5, weight=0.2 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=5, weight=0.3 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=5, weight=0.4 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=5, weight=0.5 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=5, weight=0.6 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=5, weight=0.7 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=5, weight=0.8 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=5, weight=0.9 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=5, weight=1.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=6, weight=0.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=6, weight=0.1 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=6, weight=0.2 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=6, weight=0.3 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=6, weight=0.4 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=6, weight=0.5 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=6, weight=0.6 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=6, weight=0.7 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=6, weight=0.8 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=6, weight=0.9 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=6, weight=1.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=7, weight=0.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=7, weight=0.1 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=7, weight=0.2 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=7, weight=0.3 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=7, weight=0.4 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=7, weight=0.5 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=7, weight=0.6 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=7, weight=0.7 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=7, weight=0.8 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=7, weight=0.9 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=7, weight=1.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=8, weight=0.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=8, weight=0.1 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=8, weight=0.2 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=8, weight=0.3 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=8, weight=0.4 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=8, weight=0.5 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=8, weight=0.6 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=8, weight=0.7 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=8, weight=0.8 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=8, weight=0.9 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=8, weight=1.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=9, weight=0.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=9, weight=0.1 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=9, weight=0.2 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=9, weight=0.3 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=9, weight=0.4 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=9, weight=0.5 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=9, weight=0.6 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=9, weight=0.7 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=9, weight=0.8 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=9, weight=0.9 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=9, weight=1.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=10, weight=0.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=10, weight=0.1 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=10, weight=0.2 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=10, weight=0.3 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=10, weight=0.4 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=10, weight=0.5 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=10, weight=0.6 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=10, weight=0.7 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=10, weight=0.8 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=10, weight=0.9 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=10, weight=1.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=11, weight=0.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=11, weight=0.1 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=11, weight=0.2 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=11, weight=0.3 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=11, weight=0.4 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=11, weight=0.5 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=11, weight=0.6 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=11, weight=0.7 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=11, weight=0.8 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=11, weight=0.9 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=11, weight=1.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=12, weight=0.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=12, weight=0.1 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=12, weight=0.2 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=12, weight=0.3 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=12, weight=0.4 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=12, weight=0.5 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=12, weight=0.6 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=12, weight=0.7 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=12, weight=0.8 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=12, weight=0.9 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=12, weight=1.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=13, weight=0.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=13, weight=0.1 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=13, weight=0.2 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=13, weight=0.3 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=13, weight=0.4 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=13, weight=0.5 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=13, weight=0.6 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=13, weight=0.7 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=13, weight=0.8 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=13, weight=0.9 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=13, weight=1.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=14, weight=0.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=14, weight=0.1 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=14, weight=0.2 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=14, weight=0.3 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=14, weight=0.4 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=14, weight=0.5 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=14, weight=0.6 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=14, weight=0.7 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=14, weight=0.8 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=14, weight=0.9 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=14, weight=1.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=15, weight=0.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=15, weight=0.1 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=15, weight=0.2 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=15, weight=0.3 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=15, weight=0.4 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=15, weight=0.5 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=15, weight=0.6 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=15, weight=0.7 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=15, weight=0.8 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=15, weight=0.9 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=15, weight=1.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=16, weight=0.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=16, weight=0.1 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=16, weight=0.2 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=16, weight=0.3 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=16, weight=0.4 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=16, weight=0.5 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=16, weight=0.6 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=16, weight=0.7 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=16, weight=0.8 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=16, weight=0.9 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.04, num_closest_samples=16, weight=1.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=1, weight=0.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=1, weight=0.1 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=1, weight=0.2 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=1, weight=0.3 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=1, weight=0.4 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=1, weight=0.5 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=1, weight=0.6 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=1, weight=0.7 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=1, weight=0.8 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=1, weight=0.9 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=1, weight=1.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=2, weight=0.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=2, weight=0.1 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=2, weight=0.2 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=2, weight=0.3 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=2, weight=0.4 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=2, weight=0.5 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=2, weight=0.6 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=2, weight=0.7 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=2, weight=0.8 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=2, weight=0.9 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=2, weight=1.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=3, weight=0.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=3, weight=0.1 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=3, weight=0.2 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=3, weight=0.3 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=3, weight=0.4 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=3, weight=0.5 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=3, weight=0.6 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=3, weight=0.7 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=3, weight=0.8 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=3, weight=0.9 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=3, weight=1.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=4, weight=0.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=4, weight=0.1 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=4, weight=0.2 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=4, weight=0.3 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=4, weight=0.4 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=4, weight=0.5 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=4, weight=0.6 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=4, weight=0.7 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=4, weight=0.8 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=4, weight=0.9 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=4, weight=1.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=5, weight=0.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=5, weight=0.1 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=5, weight=0.2 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=5, weight=0.3 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=5, weight=0.4 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=5, weight=0.5 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=5, weight=0.6 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=5, weight=0.7 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=5, weight=0.8 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=5, weight=0.9 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=5, weight=1.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=6, weight=0.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=6, weight=0.1 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=6, weight=0.2 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=6, weight=0.3 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=6, weight=0.4 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=6, weight=0.5 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=6, weight=0.6 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=6, weight=0.7 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=6, weight=0.8 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=6, weight=0.9 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=6, weight=1.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=7, weight=0.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=7, weight=0.1 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=7, weight=0.2 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=7, weight=0.3 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=7, weight=0.4 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=7, weight=0.5 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=7, weight=0.6 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=7, weight=0.7 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=7, weight=0.8 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=7, weight=0.9 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=7, weight=1.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=8, weight=0.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=8, weight=0.1 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=8, weight=0.2 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=8, weight=0.3 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=8, weight=0.4 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=8, weight=0.5 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=8, weight=0.6 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=8, weight=0.7 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=8, weight=0.8 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=8, weight=0.9 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=8, weight=1.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=9, weight=0.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=9, weight=0.1 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=9, weight=0.2 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=9, weight=0.3 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=9, weight=0.4 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=9, weight=0.5 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=9, weight=0.6 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=9, weight=0.7 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=9, weight=0.8 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=9, weight=0.9 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=9, weight=1.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=10, weight=0.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=10, weight=0.1 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=10, weight=0.2 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=10, weight=0.3 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=10, weight=0.4 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=10, weight=0.5 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=10, weight=0.6 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=10, weight=0.7 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=10, weight=0.8 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=10, weight=0.9 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=10, weight=1.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=11, weight=0.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=11, weight=0.1 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=11, weight=0.2 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=11, weight=0.3 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=11, weight=0.4 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=11, weight=0.5 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=11, weight=0.6 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=11, weight=0.7 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=11, weight=0.8 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=11, weight=0.9 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=11, weight=1.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=12, weight=0.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=12, weight=0.1 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=12, weight=0.2 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=12, weight=0.3 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=12, weight=0.4 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=12, weight=0.5 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=12, weight=0.6 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=12, weight=0.7 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=12, weight=0.8 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=12, weight=0.9 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=12, weight=1.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=13, weight=0.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=13, weight=0.1 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=13, weight=0.2 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=13, weight=0.3 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=13, weight=0.4 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=13, weight=0.5 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=13, weight=0.6 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=13, weight=0.7 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=13, weight=0.8 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=13, weight=0.9 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=13, weight=1.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=14, weight=0.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=14, weight=0.1 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=14, weight=0.2 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=14, weight=0.3 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=14, weight=0.4 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=14, weight=0.5 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=14, weight=0.6 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=14, weight=0.7 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=14, weight=0.8 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=14, weight=0.9 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=14, weight=1.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=15, weight=0.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=15, weight=0.1 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=15, weight=0.2 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=15, weight=0.3 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=15, weight=0.4 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=15, weight=0.5 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=15, weight=0.6 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=15, weight=0.7 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=15, weight=0.8 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=15, weight=0.9 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=15, weight=1.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=16, weight=0.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=16, weight=0.1 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=16, weight=0.2 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=16, weight=0.3 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=16, weight=0.4 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=16, weight=0.5 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=16, weight=0.6 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=16, weight=0.7 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=16, weight=0.8 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=16, weight=0.9 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.05, num_closest_samples=16, weight=1.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=1, weight=0.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=1, weight=0.1 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=1, weight=0.2 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=1, weight=0.3 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=1, weight=0.4 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=1, weight=0.5 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=1, weight=0.6 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=1, weight=0.7 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=1, weight=0.8 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=1, weight=0.9 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=1, weight=1.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=2, weight=0.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=2, weight=0.1 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=2, weight=0.2 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=2, weight=0.3 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=2, weight=0.4 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=2, weight=0.5 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=2, weight=0.6 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=2, weight=0.7 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=2, weight=0.8 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=2, weight=0.9 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=2, weight=1.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=3, weight=0.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=3, weight=0.1 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=3, weight=0.2 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=3, weight=0.3 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=3, weight=0.4 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=3, weight=0.5 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=3, weight=0.6 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=3, weight=0.7 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=3, weight=0.8 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=3, weight=0.9 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=3, weight=1.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=4, weight=0.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=4, weight=0.1 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=4, weight=0.2 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=4, weight=0.3 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=4, weight=0.4 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=4, weight=0.5 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=4, weight=0.6 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=4, weight=0.7 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=4, weight=0.8 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=4, weight=0.9 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=4, weight=1.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=5, weight=0.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=5, weight=0.1 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=5, weight=0.2 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=5, weight=0.3 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=5, weight=0.4 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=5, weight=0.5 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=5, weight=0.6 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=5, weight=0.7 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=5, weight=0.8 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=5, weight=0.9 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=5, weight=1.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=6, weight=0.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=6, weight=0.1 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=6, weight=0.2 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=6, weight=0.3 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=6, weight=0.4 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=6, weight=0.5 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=6, weight=0.6 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=6, weight=0.7 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=6, weight=0.8 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=6, weight=0.9 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=6, weight=1.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=7, weight=0.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=7, weight=0.1 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=7, weight=0.2 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=7, weight=0.3 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=7, weight=0.4 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=7, weight=0.5 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=7, weight=0.6 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=7, weight=0.7 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=7, weight=0.8 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=7, weight=0.9 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=7, weight=1.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=8, weight=0.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=8, weight=0.1 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=8, weight=0.2 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=8, weight=0.3 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=8, weight=0.4 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=8, weight=0.5 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=8, weight=0.6 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=8, weight=0.7 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=8, weight=0.8 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=8, weight=0.9 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=8, weight=1.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=9, weight=0.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=9, weight=0.1 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=9, weight=0.2 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=9, weight=0.3 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=9, weight=0.4 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=9, weight=0.5 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=9, weight=0.6 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=9, weight=0.7 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=9, weight=0.8 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=9, weight=0.9 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=9, weight=1.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=10, weight=0.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=10, weight=0.1 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=10, weight=0.2 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=10, weight=0.3 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=10, weight=0.4 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=10, weight=0.5 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=10, weight=0.6 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=10, weight=0.7 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=10, weight=0.8 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=10, weight=0.9 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=10, weight=1.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=11, weight=0.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=11, weight=0.1 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=11, weight=0.2 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=11, weight=0.3 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=11, weight=0.4 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=11, weight=0.5 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=11, weight=0.6 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=11, weight=0.7 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=11, weight=0.8 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=11, weight=0.9 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=11, weight=1.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=12, weight=0.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=12, weight=0.1 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=12, weight=0.2 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=12, weight=0.3 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=12, weight=0.4 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=12, weight=0.5 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=12, weight=0.6 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=12, weight=0.7 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=12, weight=0.8 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=12, weight=0.9 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=12, weight=1.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=13, weight=0.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=13, weight=0.1 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=13, weight=0.2 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=13, weight=0.3 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=13, weight=0.4 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=13, weight=0.5 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=13, weight=0.6 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=13, weight=0.7 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=13, weight=0.8 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=13, weight=0.9 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=13, weight=1.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=14, weight=0.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=14, weight=0.1 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=14, weight=0.2 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=14, weight=0.3 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=14, weight=0.4 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=14, weight=0.5 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=14, weight=0.6 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=14, weight=0.7 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=14, weight=0.8 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=14, weight=0.9 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=14, weight=1.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=15, weight=0.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=15, weight=0.1 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=15, weight=0.2 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=15, weight=0.3 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=15, weight=0.4 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=15, weight=0.5 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=15, weight=0.6 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=15, weight=0.7 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=15, weight=0.8 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=15, weight=0.9 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=15, weight=1.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=16, weight=0.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=16, weight=0.1 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=16, weight=0.2 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=16, weight=0.3 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=16, weight=0.4 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=16, weight=0.5 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=16, weight=0.6 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=16, weight=0.7 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=16, weight=0.8 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=16, weight=0.9 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.1, num_closest_samples=16, weight=1.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=1, weight=0.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=1, weight=0.1 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=1, weight=0.2 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=1, weight=0.3 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=1, weight=0.4 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=1, weight=0.5 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=1, weight=0.6 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=1, weight=0.7 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=1, weight=0.8 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=1, weight=0.9 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=1, weight=1.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=2, weight=0.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=2, weight=0.1 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=2, weight=0.2 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=2, weight=0.3 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=2, weight=0.4 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=2, weight=0.5 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=2, weight=0.6 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=2, weight=0.7 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=2, weight=0.8 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=2, weight=0.9 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=2, weight=1.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=3, weight=0.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=3, weight=0.1 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=3, weight=0.2 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=3, weight=0.3 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=3, weight=0.4 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=3, weight=0.5 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=3, weight=0.6 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=3, weight=0.7 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=3, weight=0.8 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=3, weight=0.9 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=3, weight=1.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=4, weight=0.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=4, weight=0.1 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=4, weight=0.2 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=4, weight=0.3 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=4, weight=0.4 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=4, weight=0.5 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=4, weight=0.6 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=4, weight=0.7 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=4, weight=0.8 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=4, weight=0.9 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=4, weight=1.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=5, weight=0.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=5, weight=0.1 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=5, weight=0.2 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=5, weight=0.3 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=5, weight=0.4 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=5, weight=0.5 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=5, weight=0.6 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=5, weight=0.7 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=5, weight=0.8 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=5, weight=0.9 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=5, weight=1.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=6, weight=0.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=6, weight=0.1 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=6, weight=0.2 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=6, weight=0.3 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=6, weight=0.4 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=6, weight=0.5 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=6, weight=0.6 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=6, weight=0.7 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=6, weight=0.8 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=6, weight=0.9 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=6, weight=1.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=7, weight=0.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=7, weight=0.1 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=7, weight=0.2 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=7, weight=0.3 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=7, weight=0.4 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=7, weight=0.5 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=7, weight=0.6 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=7, weight=0.7 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=7, weight=0.8 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=7, weight=0.9 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=7, weight=1.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=8, weight=0.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=8, weight=0.1 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=8, weight=0.2 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=8, weight=0.3 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=8, weight=0.4 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=8, weight=0.5 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=8, weight=0.6 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=8, weight=0.7 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=8, weight=0.8 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=8, weight=0.9 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=8, weight=1.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=9, weight=0.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=9, weight=0.1 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=9, weight=0.2 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=9, weight=0.3 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=9, weight=0.4 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=9, weight=0.5 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=9, weight=0.6 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=9, weight=0.7 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=9, weight=0.8 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=9, weight=0.9 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=9, weight=1.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=10, weight=0.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=10, weight=0.1 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=10, weight=0.2 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=10, weight=0.3 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=10, weight=0.4 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=10, weight=0.5 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=10, weight=0.6 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=10, weight=0.7 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=10, weight=0.8 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=10, weight=0.9 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=10, weight=1.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=11, weight=0.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=11, weight=0.1 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=11, weight=0.2 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=11, weight=0.3 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=11, weight=0.4 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=11, weight=0.5 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=11, weight=0.6 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=11, weight=0.7 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=11, weight=0.8 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=11, weight=0.9 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=11, weight=1.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=12, weight=0.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=12, weight=0.1 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=12, weight=0.2 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=12, weight=0.3 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=12, weight=0.4 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=12, weight=0.5 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=12, weight=0.6 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=12, weight=0.7 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=12, weight=0.8 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=12, weight=0.9 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=12, weight=1.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=13, weight=0.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=13, weight=0.1 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=13, weight=0.2 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=13, weight=0.3 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=13, weight=0.4 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=13, weight=0.5 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=13, weight=0.6 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=13, weight=0.7 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=13, weight=0.8 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=13, weight=0.9 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=13, weight=1.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=14, weight=0.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=14, weight=0.1 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=14, weight=0.2 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=14, weight=0.3 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=14, weight=0.4 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=14, weight=0.5 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=14, weight=0.6 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=14, weight=0.7 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=14, weight=0.8 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=14, weight=0.9 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=14, weight=1.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=15, weight=0.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=15, weight=0.1 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=15, weight=0.2 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=15, weight=0.3 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=15, weight=0.4 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=15, weight=0.5 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=15, weight=0.6 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=15, weight=0.7 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=15, weight=0.8 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=15, weight=0.9 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=15, weight=1.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=16, weight=0.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=16, weight=0.1 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=16, weight=0.2 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=16, weight=0.3 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=16, weight=0.4 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=16, weight=0.5 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=16, weight=0.6 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=16, weight=0.7 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=16, weight=0.8 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=16, weight=0.9 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+=== Running lam=0.2, num_closest_samples=16, weight=1.0 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE

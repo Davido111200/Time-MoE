@@ -1,0 +1,4 @@
+DATA: ETTm2
+>>> Model dtype: torch.bfloat16; Attention:eager
+train 33953
+2025-10-01 13:56:42,460 - log_util.py[pid:2381991;line:52:log_in_local_rank_0] - INFO: >>> Split test data from 2017-10-18 16:00:00 to 2018-02-20 23:45:00, and evaluation start date is: 2017-10-24 00:00:00

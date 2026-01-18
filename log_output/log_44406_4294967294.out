@@ -1,0 +1,75 @@
+=== Running lam=0.01, num_closest_samples=1 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+N points: 10000
+Window length: 608
+N points: 10000
+Window length: 608
+N points: 10000
+Window length: 608
+N points: 10000
+Window length: 608
+N points: 10000
+Window length: 608
+N points: 10000
+Window length: 608
+N points: 10000
+Window length: 608
+len dataset train: 65744
+dec_in: 7
+Saved Pred to /scratch/s223540177/Time-Moe/cache_data_finetuned_fixed_4096/ETTm1/pred_cache.pt
+N points: 10000
+Window length: 608
+N points: 10000
+Window length: 608
+N points: 10000
+Window length: 608
+N points: 10000
+Window length: 608
+N points: 10000
+Window length: 608
+N points: 10000
+Window length: 608
+N points: 10000
+Window length: 608
+Saved gt to /scratch/s223540177/Time-Moe/cache_data_finetuned_fixed_4096/ETTm1/gt_cache.pt
+SORTED DONE
+7676928
+0 - {'mse': tensor(0.3267, device='cuda:0'), 'mae': tensor(0.3617, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/ETTm1/final_metrics/
+=== Running lam=0.01, num_closest_samples=1 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+7676928
+0 - {'mse': tensor(0.3272, device='cuda:0'), 'mae': tensor(0.3613, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/ETTm1/final_metrics/
+=== Running lam=0.01, num_closest_samples=1 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+7676928
+0 - {'mse': tensor(0.3273, device='cuda:0'), 'mae': tensor(0.3610, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/ETTm1/final_metrics/
+=== Running lam=0.01, num_closest_samples=1 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+7676928
+0 - {'mse': tensor(0.3277, device='cuda:0'), 'mae': tensor(0.3608, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/ETTm1/final_metrics/
+=== Running lam=0.01, num_closest_samples=1 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+7676928
+0 - {'mse': tensor(0.3282, device='cuda:0'), 'mae': tensor(0.3608, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/ETTm1/final_metrics/
+=== Running lam=0.01, num_closest_samples=1 ===
+>>> Model dtype: torch.bfloat16; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE

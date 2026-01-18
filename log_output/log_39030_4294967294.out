@@ -1,0 +1,16 @@
+DATA: ETTm1
+>>> Model dtype: torch.float32; Attention:eager
+Saved Pred to /scratch/s223540177/Time-Moe/cache_data_finetuned/ETTm1/pred_cache.pt
+Saved gt to /scratch/s223540177/Time-Moe/cache_data_finetuned/ETTm1/gt_cache.pt
+SORTED DONE
+2025-10-15 16:55:59,039 - log_util.py[pid:2730977;line:52:log_in_local_rank_0] - INFO: >>> Split test data from 2017-10-18 16:00:00 to 2018-02-20 23:45:00, and evaluation start date is: 2017-10-24 00:00:00
+7676928
+0 - {'mse': tensor(0.2436, device='cuda:0'), 'mae': tensor(0.3111, device='cuda:0')}
+DATA: ETTm1
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+2025-10-15 21:12:47,679 - log_util.py[pid:2749410;line:52:log_in_local_rank_0] - INFO: >>> Split test data from 2017-10-18 16:00:00 to 2018-02-20 23:45:00, and evaluation start date is: 2017-10-24 00:00:00
+7676928
+0 - {'mse': tensor(0.2434, device='cuda:0'), 'mae': tensor(0.3107, device='cuda:0')}

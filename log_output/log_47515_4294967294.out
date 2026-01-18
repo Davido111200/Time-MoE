@@ -1,0 +1,527 @@
+=== Running lam=0.01, num_closest_samples=1 ===
+DATA: ETTm1
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+Test dl: <torch.utils.data.dataloader.DataLoader object at 0x7ff3d778f8b0>
+Len test dl: 157
+7676928
+0 - {'mse': tensor(0.7358), 'mae': tensor(0.5164)}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results_timer_xl/512_96/ETTm1/final_metrics/
+=== Running lam=0.01, num_closest_samples=1 ===
+DATA: ETTm1
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+Test dl: <torch.utils.data.dataloader.DataLoader object at 0x7fc0205778b0>
+Len test dl: 157
+7676928
+0 - {'mse': tensor(0.7359), 'mae': tensor(0.5164)}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results_timer_xl/512_96/ETTm1/final_metrics/
+=== Running lam=0.01, num_closest_samples=1 ===
+DATA: ETTm1
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+Test dl: <torch.utils.data.dataloader.DataLoader object at 0x7fdf68c47910>
+Len test dl: 157
+7676928
+0 - {'mse': tensor(0.7361), 'mae': tensor(0.5165)}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results_timer_xl/512_96/ETTm1/final_metrics/
+=== Running lam=0.01, num_closest_samples=1 ===
+DATA: ETTm1
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+Test dl: <torch.utils.data.dataloader.DataLoader object at 0x7f7b5309bac0>
+Len test dl: 157
+7676928
+0 - {'mse': tensor(0.7363), 'mae': tensor(0.5165)}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results_timer_xl/512_96/ETTm1/final_metrics/
+=== Running lam=0.01, num_closest_samples=1 ===
+DATA: ETTm1
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+Test dl: <torch.utils.data.dataloader.DataLoader object at 0x7f11817d38b0>
+Len test dl: 157
+7676928
+0 - {'mse': tensor(0.7364), 'mae': tensor(0.5165)}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results_timer_xl/512_96/ETTm1/final_metrics/
+=== Running lam=0.01, num_closest_samples=1 ===
+DATA: ETTm1
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+Test dl: <torch.utils.data.dataloader.DataLoader object at 0x7f820a6bf8e0>
+Len test dl: 157
+7676928
+0 - {'mse': tensor(0.7366), 'mae': tensor(0.5166)}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results_timer_xl/512_96/ETTm1/final_metrics/
+=== Running lam=0.01, num_closest_samples=1 ===
+DATA: ETTm1
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+Test dl: <torch.utils.data.dataloader.DataLoader object at 0x7f9e97a2f850>
+Len test dl: 157
+7676928
+0 - {'mse': tensor(0.7368), 'mae': tensor(0.5166)}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results_timer_xl/512_96/ETTm1/final_metrics/
+=== Running lam=0.01, num_closest_samples=1 ===
+DATA: ETTm1
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+Test dl: <torch.utils.data.dataloader.DataLoader object at 0x7ff2177eb850>
+Len test dl: 157
+7676928
+0 - {'mse': tensor(0.7370), 'mae': tensor(0.5167)}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results_timer_xl/512_96/ETTm1/final_metrics/
+=== Running lam=0.01, num_closest_samples=1 ===
+DATA: ETTm1
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+Test dl: <torch.utils.data.dataloader.DataLoader object at 0x7fe0c6a6b8b0>
+Len test dl: 157
+7676928
+0 - {'mse': tensor(0.7372), 'mae': tensor(0.5167)}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results_timer_xl/512_96/ETTm1/final_metrics/
+=== Running lam=0.01, num_closest_samples=1 ===
+DATA: ETTm1
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+Test dl: <torch.utils.data.dataloader.DataLoader object at 0x7f45fad8f8b0>
+Len test dl: 157
+7676928
+0 - {'mse': tensor(0.7374), 'mae': tensor(0.5168)}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results_timer_xl/512_96/ETTm1/final_metrics/
+=== Running lam=0.01, num_closest_samples=1 ===
+DATA: ETTm1
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+Test dl: <torch.utils.data.dataloader.DataLoader object at 0x7f785d5ff850>
+Len test dl: 157
+7676928
+0 - {'mse': tensor(0.7376), 'mae': tensor(0.5169)}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results_timer_xl/512_96/ETTm1/final_metrics/
+=== Running lam=0.01, num_closest_samples=2 ===
+DATA: ETTm1
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+Test dl: <torch.utils.data.dataloader.DataLoader object at 0x7f8bf96df8e0>
+Len test dl: 157
+7676928
+0 - {'mse': tensor(0.7365), 'mae': tensor(0.5165)}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results_timer_xl/512_96/ETTm1/final_metrics/
+=== Running lam=0.01, num_closest_samples=2 ===
+DATA: ETTm1
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+Test dl: <torch.utils.data.dataloader.DataLoader object at 0x7fc1bd58b8e0>
+Len test dl: 157
+7676928
+0 - {'mse': tensor(0.7366), 'mae': tensor(0.5165)}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results_timer_xl/512_96/ETTm1/final_metrics/
+=== Running lam=0.01, num_closest_samples=2 ===
+DATA: ETTm1
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+Test dl: <torch.utils.data.dataloader.DataLoader object at 0x7f97913df8b0>
+Len test dl: 157
+7676928
+0 - {'mse': tensor(0.7367), 'mae': tensor(0.5165)}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results_timer_xl/512_96/ETTm1/final_metrics/
+=== Running lam=0.01, num_closest_samples=2 ===
+DATA: ETTm1
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+Test dl: <torch.utils.data.dataloader.DataLoader object at 0x7f925bbbfac0>
+Len test dl: 157
+7676928
+0 - {'mse': tensor(0.7368), 'mae': tensor(0.5166)}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results_timer_xl/512_96/ETTm1/final_metrics/
+=== Running lam=0.01, num_closest_samples=2 ===
+DATA: ETTm1
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+Test dl: <torch.utils.data.dataloader.DataLoader object at 0x7fcbd0383ee0>
+Len test dl: 157
+7676928
+0 - {'mse': tensor(0.7370), 'mae': tensor(0.5166)}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results_timer_xl/512_96/ETTm1/final_metrics/
+=== Running lam=0.01, num_closest_samples=2 ===
+DATA: ETTm1
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+Test dl: <torch.utils.data.dataloader.DataLoader object at 0x7fb8bdc338e0>
+Len test dl: 157
+7676928
+0 - {'mse': tensor(0.7371), 'mae': tensor(0.5167)}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results_timer_xl/512_96/ETTm1/final_metrics/
+=== Running lam=0.01, num_closest_samples=2 ===
+DATA: ETTm1
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+Test dl: <torch.utils.data.dataloader.DataLoader object at 0x7f3d9747b8b0>
+Len test dl: 157
+7676928
+0 - {'mse': tensor(0.7372), 'mae': tensor(0.5167)}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results_timer_xl/512_96/ETTm1/final_metrics/
+=== Running lam=0.01, num_closest_samples=2 ===
+DATA: ETTm1
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+Test dl: <torch.utils.data.dataloader.DataLoader object at 0x7f9e9d5738e0>
+Len test dl: 157
+7676928
+0 - {'mse': tensor(0.7373), 'mae': tensor(0.5167)}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results_timer_xl/512_96/ETTm1/final_metrics/
+=== Running lam=0.01, num_closest_samples=2 ===
+DATA: ETTm1
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+Test dl: <torch.utils.data.dataloader.DataLoader object at 0x7f065d347850>
+Len test dl: 157
+7676928
+0 - {'mse': tensor(0.7374), 'mae': tensor(0.5168)}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results_timer_xl/512_96/ETTm1/final_metrics/
+=== Running lam=0.01, num_closest_samples=2 ===
+DATA: ETTm1
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+Test dl: <torch.utils.data.dataloader.DataLoader object at 0x7f7bf187f8e0>
+Len test dl: 157
+7676928
+0 - {'mse': tensor(0.7376), 'mae': tensor(0.5168)}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results_timer_xl/512_96/ETTm1/final_metrics/
+=== Running lam=0.01, num_closest_samples=2 ===
+DATA: ETTm1
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+Test dl: <torch.utils.data.dataloader.DataLoader object at 0x7fa8b0dcb8e0>
+Len test dl: 157
+7676928
+0 - {'mse': tensor(0.7377), 'mae': tensor(0.5169)}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results_timer_xl/512_96/ETTm1/final_metrics/
+=== Running lam=0.01, num_closest_samples=3 ===
+DATA: ETTm1
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+Test dl: <torch.utils.data.dataloader.DataLoader object at 0x7ff7132f38e0>
+Len test dl: 157
+7676928
+0 - {'mse': tensor(0.7367), 'mae': tensor(0.5165)}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results_timer_xl/512_96/ETTm1/final_metrics/
+=== Running lam=0.01, num_closest_samples=3 ===
+DATA: ETTm1
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+Test dl: <torch.utils.data.dataloader.DataLoader object at 0x7f4e073378b0>
+Len test dl: 157
+7676928
+0 - {'mse': tensor(0.7368), 'mae': tensor(0.5165)}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results_timer_xl/512_96/ETTm1/final_metrics/
+=== Running lam=0.01, num_closest_samples=3 ===
+DATA: ETTm1
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+Test dl: <torch.utils.data.dataloader.DataLoader object at 0x7f2b879ef850>
+Len test dl: 157
+7676928
+0 - {'mse': tensor(0.7369), 'mae': tensor(0.5165)}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results_timer_xl/512_96/ETTm1/final_metrics/
+=== Running lam=0.01, num_closest_samples=3 ===
+DATA: ETTm1
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+Test dl: <torch.utils.data.dataloader.DataLoader object at 0x7f4abbde78e0>
+Len test dl: 157
+7676928
+0 - {'mse': tensor(0.7370), 'mae': tensor(0.5166)}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results_timer_xl/512_96/ETTm1/final_metrics/
+=== Running lam=0.01, num_closest_samples=3 ===
+DATA: ETTm1
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+Test dl: <torch.utils.data.dataloader.DataLoader object at 0x7f3d98c47850>
+Len test dl: 157
+7676928
+0 - {'mse': tensor(0.7371), 'mae': tensor(0.5166)}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results_timer_xl/512_96/ETTm1/final_metrics/
+=== Running lam=0.01, num_closest_samples=3 ===
+DATA: ETTm1
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+Test dl: <torch.utils.data.dataloader.DataLoader object at 0x7fba28b438b0>
+Len test dl: 157
+7676928
+0 - {'mse': tensor(0.7372), 'mae': tensor(0.5167)}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results_timer_xl/512_96/ETTm1/final_metrics/
+=== Running lam=0.01, num_closest_samples=3 ===
+DATA: ETTm1
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+Test dl: <torch.utils.data.dataloader.DataLoader object at 0x7efc46db78b0>
+Len test dl: 157
+7676928
+0 - {'mse': tensor(0.7373), 'mae': tensor(0.5167)}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results_timer_xl/512_96/ETTm1/final_metrics/
+=== Running lam=0.01, num_closest_samples=3 ===
+DATA: ETTm1
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+Test dl: <torch.utils.data.dataloader.DataLoader object at 0x7f222b6c7850>
+Len test dl: 157
+7676928
+0 - {'mse': tensor(0.7374), 'mae': tensor(0.5167)}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results_timer_xl/512_96/ETTm1/final_metrics/
+=== Running lam=0.01, num_closest_samples=3 ===
+DATA: ETTm1
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+Test dl: <torch.utils.data.dataloader.DataLoader object at 0x7f5734023ee0>
+Len test dl: 157
+7676928
+0 - {'mse': tensor(0.7375), 'mae': tensor(0.5168)}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results_timer_xl/512_96/ETTm1/final_metrics/
+=== Running lam=0.01, num_closest_samples=3 ===
+DATA: ETTm1
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+Test dl: <torch.utils.data.dataloader.DataLoader object at 0x7f3e91507ee0>
+Len test dl: 157
+7676928
+0 - {'mse': tensor(0.7376), 'mae': tensor(0.5168)}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results_timer_xl/512_96/ETTm1/final_metrics/
+=== Running lam=0.01, num_closest_samples=3 ===
+DATA: ETTm1
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+Test dl: <torch.utils.data.dataloader.DataLoader object at 0x7fe7c0a9bac0>
+Len test dl: 157
+7676928
+0 - {'mse': tensor(0.7377), 'mae': tensor(0.5169)}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results_timer_xl/512_96/ETTm1/final_metrics/
+=== Running lam=0.01, num_closest_samples=4 ===
+DATA: ETTm1
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+Test dl: <torch.utils.data.dataloader.DataLoader object at 0x7f1c8248b8b0>
+Len test dl: 157
+7676928
+0 - {'mse': tensor(0.7367), 'mae': tensor(0.5165)}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results_timer_xl/512_96/ETTm1/final_metrics/
+=== Running lam=0.01, num_closest_samples=4 ===
+DATA: ETTm1
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+Test dl: <torch.utils.data.dataloader.DataLoader object at 0x7fe9a872b8e0>
+Len test dl: 157
+7676928
+0 - {'mse': tensor(0.7368), 'mae': tensor(0.5165)}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results_timer_xl/512_96/ETTm1/final_metrics/
+=== Running lam=0.01, num_closest_samples=4 ===
+DATA: ETTm1
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+Test dl: <torch.utils.data.dataloader.DataLoader object at 0x7fd032d17ee0>
+Len test dl: 157
+7676928
+0 - {'mse': tensor(0.7369), 'mae': tensor(0.5166)}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results_timer_xl/512_96/ETTm1/final_metrics/
+=== Running lam=0.01, num_closest_samples=4 ===
+DATA: ETTm1
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+Test dl: <torch.utils.data.dataloader.DataLoader object at 0x7f7677d2b8e0>
+Len test dl: 157
+7676928
+0 - {'mse': tensor(0.7370), 'mae': tensor(0.5166)}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results_timer_xl/512_96/ETTm1/final_metrics/
+=== Running lam=0.01, num_closest_samples=4 ===
+DATA: ETTm1
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+Test dl: <torch.utils.data.dataloader.DataLoader object at 0x7f2ba856f8b0>
+Len test dl: 157
+7676928
+0 - {'mse': tensor(0.7371), 'mae': tensor(0.5166)}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results_timer_xl/512_96/ETTm1/final_metrics/
+=== Running lam=0.01, num_closest_samples=4 ===
+DATA: ETTm1
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+Test dl: <torch.utils.data.dataloader.DataLoader object at 0x7f6a982778e0>
+Len test dl: 157
+7676928
+0 - {'mse': tensor(0.7372), 'mae': tensor(0.5167)}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results_timer_xl/512_96/ETTm1/final_metrics/
+=== Running lam=0.01, num_closest_samples=4 ===
+DATA: ETTm1
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+Test dl: <torch.utils.data.dataloader.DataLoader object at 0x7f8538de38e0>
+Len test dl: 157
+7676928
+0 - {'mse': tensor(0.7373), 'mae': tensor(0.5167)}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results_timer_xl/512_96/ETTm1/final_metrics/
+=== Running lam=0.01, num_closest_samples=4 ===
+DATA: ETTm1
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+Test dl: <torch.utils.data.dataloader.DataLoader object at 0x7f0ea0e6f8e0>
+Len test dl: 157
+7676928
+0 - {'mse': tensor(0.7374), 'mae': tensor(0.5168)}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results_timer_xl/512_96/ETTm1/final_metrics/
+=== Running lam=0.01, num_closest_samples=4 ===
+DATA: ETTm1
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+Test dl: <torch.utils.data.dataloader.DataLoader object at 0x7f689f7e78b0>
+Len test dl: 157
+7676928
+0 - {'mse': tensor(0.7375), 'mae': tensor(0.5168)}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results_timer_xl/512_96/ETTm1/final_metrics/
+=== Running lam=0.01, num_closest_samples=4 ===
+DATA: ETTm1
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+Test dl: <torch.utils.data.dataloader.DataLoader object at 0x7fbd3ca9b8b0>
+Len test dl: 157
+7676928
+0 - {'mse': tensor(0.7376), 'mae': tensor(0.5168)}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results_timer_xl/512_96/ETTm1/final_metrics/
+=== Running lam=0.01, num_closest_samples=4 ===
+DATA: ETTm1
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+Test dl: <torch.utils.data.dataloader.DataLoader object at 0x7fb4c74178e0>
+Len test dl: 157
+7676928
+0 - {'mse': tensor(0.7377), 'mae': tensor(0.5169)}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results_timer_xl/512_96/ETTm1/final_metrics/
+=== Running lam=0.01, num_closest_samples=5 ===
+DATA: ETTm1
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+Test dl: <torch.utils.data.dataloader.DataLoader object at 0x7fcf882838b0>
+Len test dl: 157
+7676928
+0 - {'mse': tensor(0.7367), 'mae': tensor(0.5165)}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results_timer_xl/512_96/ETTm1/final_metrics/
+=== Running lam=0.01, num_closest_samples=5 ===
+DATA: ETTm1
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+Test dl: <torch.utils.data.dataloader.DataLoader object at 0x7f00e71af8b0>
+Len test dl: 157
+7676928
+0 - {'mse': tensor(0.7368), 'mae': tensor(0.5165)}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results_timer_xl/512_96/ETTm1/final_metrics/
+=== Running lam=0.01, num_closest_samples=5 ===
+DATA: ETTm1
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+Test dl: <torch.utils.data.dataloader.DataLoader object at 0x7f384da0b8b0>
+Len test dl: 157
+7676928
+0 - {'mse': tensor(0.7369), 'mae': tensor(0.5165)}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results_timer_xl/512_96/ETTm1/final_metrics/
+=== Running lam=0.01, num_closest_samples=5 ===
+DATA: ETTm1
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+Test dl: <torch.utils.data.dataloader.DataLoader object at 0x7f050548b8b0>
+Len test dl: 157
+7676928
+0 - {'mse': tensor(0.7370), 'mae': tensor(0.5166)}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results_timer_xl/512_96/ETTm1/final_metrics/
+=== Running lam=0.01, num_closest_samples=5 ===
+DATA: ETTm1
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+Test dl: <torch.utils.data.dataloader.DataLoader object at 0x7f8fea6078e0>
+Len test dl: 157
+7676928
+0 - {'mse': tensor(0.7371), 'mae': tensor(0.5166)}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results_timer_xl/512_96/ETTm1/final_metrics/
+=== Running lam=0.01, num_closest_samples=5 ===
+DATA: ETTm1
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+Test dl: <torch.utils.data.dataloader.DataLoader object at 0x7f856b76b8b0>
+Len test dl: 157
+7676928
+0 - {'mse': tensor(0.7372), 'mae': tensor(0.5167)}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results_timer_xl/512_96/ETTm1/final_metrics/
+=== Running lam=0.01, num_closest_samples=5 ===
+DATA: ETTm1
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+Test dl: <torch.utils.data.dataloader.DataLoader object at 0x7fb46f6e38e0>
+Len test dl: 157
+7676928
+0 - {'mse': tensor(0.7373), 'mae': tensor(0.5167)}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results_timer_xl/512_96/ETTm1/final_metrics/
+=== Running lam=0.01, num_closest_samples=5 ===
+DATA: ETTm1
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+Test dl: <torch.utils.data.dataloader.DataLoader object at 0x7f28422538b0>
+Len test dl: 157
+7676928
+0 - {'mse': tensor(0.7374), 'mae': tensor(0.5168)}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results_timer_xl/512_96/ETTm1/final_metrics/
+=== Running lam=0.01, num_closest_samples=5 ===
+DATA: ETTm1
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+Test dl: <torch.utils.data.dataloader.DataLoader object at 0x7f420c33b8e0>
+Len test dl: 157

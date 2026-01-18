@@ -1,0 +1,1870 @@
+=== Running lam=0.01, num_closest_samples=1 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+N points: 10000
+Window length: 608
+N points: 10000
+Window length: 608
+N points: 10000
+Window length: 608
+N points: 10000
+Window length: 608
+N points: 10000
+Window length: 608
+N points: 10000
+Window length: 608
+N points: 10000
+Window length: 608
+len dataset train: 65744
+dec_in: 7
+Saved Pred to /scratch/s223540177/Time-Moe/cache_data_finetuned_fixed_4096/ETTm2/512_96/pred_cache.pt
+N points: 10000
+Window length: 608
+N points: 10000
+Window length: 608
+N points: 10000
+Window length: 608
+N points: 10000
+Window length: 608
+N points: 10000
+Window length: 608
+N points: 10000
+Window length: 608
+N points: 10000
+Window length: 608
+Saved gt to /scratch/s223540177/Time-Moe/cache_data_finetuned_fixed_4096/ETTm2/512_96/gt_cache.pt
+SORTED DONE
+7676928
+0 - {'mse': tensor(0.1989, device='cuda:0'), 'mae': tensor(0.2974, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/ETTm2/final_metrics/
+=== Running lam=0.01, num_closest_samples=1 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+7676928
+0 - {'mse': tensor(0.1975, device='cuda:0'), 'mae': tensor(0.2954, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/ETTm2/final_metrics/
+=== Running lam=0.01, num_closest_samples=1 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+7676928
+0 - {'mse': tensor(0.1962, device='cuda:0'), 'mae': tensor(0.2934, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/ETTm2/final_metrics/
+=== Running lam=0.01, num_closest_samples=1 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+7676928
+0 - {'mse': tensor(0.1951, device='cuda:0'), 'mae': tensor(0.2918, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/ETTm2/final_metrics/
+=== Running lam=0.01, num_closest_samples=1 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+7676928
+0 - {'mse': tensor(0.1943, device='cuda:0'), 'mae': tensor(0.2903, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/ETTm2/final_metrics/
+=== Running lam=0.01, num_closest_samples=1 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+7676928
+0 - {'mse': tensor(0.1936, device='cuda:0'), 'mae': tensor(0.2890, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/ETTm2/final_metrics/
+=== Running lam=0.01, num_closest_samples=1 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+7676928
+0 - {'mse': tensor(0.1932, device='cuda:0'), 'mae': tensor(0.2880, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/ETTm2/final_metrics/
+=== Running lam=0.01, num_closest_samples=1 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+7676928
+0 - {'mse': tensor(0.1928, device='cuda:0'), 'mae': tensor(0.2871, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/ETTm2/final_metrics/
+=== Running lam=0.01, num_closest_samples=1 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+7676928
+0 - {'mse': tensor(0.1925, device='cuda:0'), 'mae': tensor(0.2864, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/ETTm2/final_metrics/
+=== Running lam=0.01, num_closest_samples=1 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+7676928
+0 - {'mse': tensor(0.1924, device='cuda:0'), 'mae': tensor(0.2859, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/ETTm2/final_metrics/
+=== Running lam=0.01, num_closest_samples=1 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+7676928
+0 - {'mse': tensor(0.1924, device='cuda:0'), 'mae': tensor(0.2856, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/ETTm2/final_metrics/
+=== Running lam=0.01, num_closest_samples=2 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+7676928
+0 - {'mse': tensor(0.1936, device='cuda:0'), 'mae': tensor(0.2880, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/ETTm2/final_metrics/
+=== Running lam=0.01, num_closest_samples=2 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+7676928
+0 - {'mse': tensor(0.1932, device='cuda:0'), 'mae': tensor(0.2873, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/ETTm2/final_metrics/
+=== Running lam=0.01, num_closest_samples=2 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+7676928
+0 - {'mse': tensor(0.1928, device='cuda:0'), 'mae': tensor(0.2868, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/ETTm2/final_metrics/
+=== Running lam=0.01, num_closest_samples=2 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+7676928
+0 - {'mse': tensor(0.1924, device='cuda:0'), 'mae': tensor(0.2863, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/ETTm2/final_metrics/
+=== Running lam=0.01, num_closest_samples=2 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+7676928
+0 - {'mse': tensor(0.1931, device='cuda:0'), 'mae': tensor(0.2866, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/ETTm2/final_metrics/
+=== Running lam=0.01, num_closest_samples=2 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+7676928
+0 - {'mse': tensor(0.1928, device='cuda:0'), 'mae': tensor(0.2862, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/ETTm2/final_metrics/
+=== Running lam=0.01, num_closest_samples=2 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+7676928
+0 - {'mse': tensor(0.1925, device='cuda:0'), 'mae': tensor(0.2858, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/ETTm2/final_metrics/
+=== Running lam=0.01, num_closest_samples=2 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+7676928
+0 - {'mse': tensor(0.1923, device='cuda:0'), 'mae': tensor(0.2856, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/ETTm2/final_metrics/
+=== Running lam=0.01, num_closest_samples=2 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+7676928
+0 - {'mse': tensor(0.1921, device='cuda:0'), 'mae': tensor(0.2853, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/ETTm2/final_metrics/
+=== Running lam=0.01, num_closest_samples=2 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+7676928
+0 - {'mse': tensor(0.1919, device='cuda:0'), 'mae': tensor(0.2851, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/ETTm2/final_metrics/
+=== Running lam=0.01, num_closest_samples=2 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+7676928
+0 - {'mse': tensor(0.1917, device='cuda:0'), 'mae': tensor(0.2849, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/ETTm2/final_metrics/
+=== Running lam=0.01, num_closest_samples=3 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+7676928
+0 - {'mse': tensor(0.1949, device='cuda:0'), 'mae': tensor(0.2901, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/ETTm2/final_metrics/
+=== Running lam=0.01, num_closest_samples=3 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+7676928
+0 - {'mse': tensor(0.1944, device='cuda:0'), 'mae': tensor(0.2892, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/ETTm2/final_metrics/
+=== Running lam=0.01, num_closest_samples=3 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+7676928
+0 - {'mse': tensor(0.1939, device='cuda:0'), 'mae': tensor(0.2884, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/ETTm2/final_metrics/
+=== Running lam=0.01, num_closest_samples=3 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+7676928
+0 - {'mse': tensor(0.1934, device='cuda:0'), 'mae': tensor(0.2877, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/ETTm2/final_metrics/
+=== Running lam=0.01, num_closest_samples=3 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+7676928
+0 - {'mse': tensor(0.1930, device='cuda:0'), 'mae': tensor(0.2871, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/ETTm2/final_metrics/
+=== Running lam=0.01, num_closest_samples=3 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+7676928
+0 - {'mse': tensor(0.1926, device='cuda:0'), 'mae': tensor(0.2865, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/ETTm2/final_metrics/
+=== Running lam=0.01, num_closest_samples=3 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+7676928
+0 - {'mse': tensor(0.1923, device='cuda:0'), 'mae': tensor(0.2860, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/ETTm2/final_metrics/
+=== Running lam=0.01, num_closest_samples=3 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+7676928
+0 - {'mse': tensor(0.1920, device='cuda:0'), 'mae': tensor(0.2856, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/ETTm2/final_metrics/
+=== Running lam=0.01, num_closest_samples=3 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+7676928
+0 - {'mse': tensor(0.1918, device='cuda:0'), 'mae': tensor(0.2852, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/ETTm2/final_metrics/
+=== Running lam=0.01, num_closest_samples=3 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+7676928
+0 - {'mse': tensor(0.1916, device='cuda:0'), 'mae': tensor(0.2849, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/ETTm2/final_metrics/
+=== Running lam=0.01, num_closest_samples=3 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+7676928
+0 - {'mse': tensor(0.1915, device='cuda:0'), 'mae': tensor(0.2847, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/ETTm2/final_metrics/
+=== Running lam=0.01, num_closest_samples=4 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+7676928
+0 - {'mse': tensor(0.1957, device='cuda:0'), 'mae': tensor(0.2908, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/ETTm2/final_metrics/
+=== Running lam=0.01, num_closest_samples=4 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+7676928
+0 - {'mse': tensor(0.1950, device='cuda:0'), 'mae': tensor(0.2897, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/ETTm2/final_metrics/
+=== Running lam=0.01, num_closest_samples=4 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+7676928
+0 - {'mse': tensor(0.1944, device='cuda:0'), 'mae': tensor(0.2888, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/ETTm2/final_metrics/
+=== Running lam=0.01, num_closest_samples=4 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+7676928
+0 - {'mse': tensor(0.1938, device='cuda:0'), 'mae': tensor(0.2880, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/ETTm2/final_metrics/
+=== Running lam=0.01, num_closest_samples=4 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+7676928
+0 - {'mse': tensor(0.1933, device='cuda:0'), 'mae': tensor(0.2872, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/ETTm2/final_metrics/
+=== Running lam=0.01, num_closest_samples=4 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+7676928
+0 - {'mse': tensor(0.1927, device='cuda:0'), 'mae': tensor(0.2866, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/ETTm2/final_metrics/
+=== Running lam=0.01, num_closest_samples=4 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+7676928
+0 - {'mse': tensor(0.1923, device='cuda:0'), 'mae': tensor(0.2860, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/ETTm2/final_metrics/
+=== Running lam=0.01, num_closest_samples=4 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+7676928
+0 - {'mse': tensor(0.1920, device='cuda:0'), 'mae': tensor(0.2854, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/ETTm2/final_metrics/
+=== Running lam=0.01, num_closest_samples=4 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+7676928
+0 - {'mse': tensor(0.1917, device='cuda:0'), 'mae': tensor(0.2850, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/ETTm2/final_metrics/
+=== Running lam=0.01, num_closest_samples=4 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+7676928
+0 - {'mse': tensor(0.1915, device='cuda:0'), 'mae': tensor(0.2847, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/ETTm2/final_metrics/
+=== Running lam=0.01, num_closest_samples=4 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+7676928
+0 - {'mse': tensor(0.1913, device='cuda:0'), 'mae': tensor(0.2844, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/ETTm2/final_metrics/
+=== Running lam=0.01, num_closest_samples=5 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+7676928
+0 - {'mse': tensor(0.1955, device='cuda:0'), 'mae': tensor(0.2905, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/ETTm2/final_metrics/
+=== Running lam=0.01, num_closest_samples=5 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+7676928
+0 - {'mse': tensor(0.1949, device='cuda:0'), 'mae': tensor(0.2895, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/ETTm2/final_metrics/
+=== Running lam=0.01, num_closest_samples=5 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+7676928
+0 - {'mse': tensor(0.1942, device='cuda:0'), 'mae': tensor(0.2886, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/ETTm2/final_metrics/
+=== Running lam=0.01, num_closest_samples=5 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+7676928
+0 - {'mse': tensor(0.1936, device='cuda:0'), 'mae': tensor(0.2877, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/ETTm2/final_metrics/
+=== Running lam=0.01, num_closest_samples=5 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+7676928
+0 - {'mse': tensor(0.1930, device='cuda:0'), 'mae': tensor(0.2870, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/ETTm2/final_metrics/
+=== Running lam=0.01, num_closest_samples=5 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+7676928
+0 - {'mse': tensor(0.1926, device='cuda:0'), 'mae': tensor(0.2864, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/ETTm2/final_metrics/
+=== Running lam=0.01, num_closest_samples=5 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+7676928
+0 - {'mse': tensor(0.1922, device='cuda:0'), 'mae': tensor(0.2858, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/ETTm2/final_metrics/
+=== Running lam=0.01, num_closest_samples=5 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+7676928
+0 - {'mse': tensor(0.1918, device='cuda:0'), 'mae': tensor(0.2853, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/ETTm2/final_metrics/
+=== Running lam=0.01, num_closest_samples=5 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+7676928
+0 - {'mse': tensor(0.1916, device='cuda:0'), 'mae': tensor(0.2849, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/ETTm2/final_metrics/
+=== Running lam=0.01, num_closest_samples=5 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+7676928
+0 - {'mse': tensor(0.1913, device='cuda:0'), 'mae': tensor(0.2845, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/ETTm2/final_metrics/
+=== Running lam=0.01, num_closest_samples=5 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+7676928
+0 - {'mse': tensor(0.1911, device='cuda:0'), 'mae': tensor(0.2843, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/ETTm2/final_metrics/
+=== Running lam=0.01, num_closest_samples=6 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+7676928
+0 - {'mse': tensor(0.1954, device='cuda:0'), 'mae': tensor(0.2907, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/ETTm2/final_metrics/
+=== Running lam=0.01, num_closest_samples=6 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+7676928
+0 - {'mse': tensor(0.1948, device='cuda:0'), 'mae': tensor(0.2897, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/ETTm2/final_metrics/
+=== Running lam=0.01, num_closest_samples=6 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+7676928
+0 - {'mse': tensor(0.1941, device='cuda:0'), 'mae': tensor(0.2888, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/ETTm2/final_metrics/
+=== Running lam=0.01, num_closest_samples=6 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+7676928
+0 - {'mse': tensor(0.1935, device='cuda:0'), 'mae': tensor(0.2879, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/ETTm2/final_metrics/
+=== Running lam=0.01, num_closest_samples=6 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+7676928
+0 - {'mse': tensor(0.1929, device='cuda:0'), 'mae': tensor(0.2871, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/ETTm2/final_metrics/
+=== Running lam=0.01, num_closest_samples=6 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+7676928
+0 - {'mse': tensor(0.1925, device='cuda:0'), 'mae': tensor(0.2864, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/ETTm2/final_metrics/
+=== Running lam=0.01, num_closest_samples=6 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+7676928
+0 - {'mse': tensor(0.1921, device='cuda:0'), 'mae': tensor(0.2858, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/ETTm2/final_metrics/
+=== Running lam=0.01, num_closest_samples=6 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+7676928
+0 - {'mse': tensor(0.1917, device='cuda:0'), 'mae': tensor(0.2853, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/ETTm2/final_metrics/
+=== Running lam=0.01, num_closest_samples=6 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+7676928
+0 - {'mse': tensor(0.1915, device='cuda:0'), 'mae': tensor(0.2849, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/ETTm2/final_metrics/
+=== Running lam=0.01, num_closest_samples=6 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+7676928
+0 - {'mse': tensor(0.1913, device='cuda:0'), 'mae': tensor(0.2845, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/ETTm2/final_metrics/
+=== Running lam=0.01, num_closest_samples=6 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+7676928
+0 - {'mse': tensor(0.1911, device='cuda:0'), 'mae': tensor(0.2843, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/ETTm2/final_metrics/
+=== Running lam=0.01, num_closest_samples=7 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+7676928
+0 - {'mse': tensor(0.1956, device='cuda:0'), 'mae': tensor(0.2911, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/ETTm2/final_metrics/
+=== Running lam=0.01, num_closest_samples=7 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+7676928
+0 - {'mse': tensor(0.1949, device='cuda:0'), 'mae': tensor(0.2900, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/ETTm2/final_metrics/
+=== Running lam=0.01, num_closest_samples=7 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+7676928
+0 - {'mse': tensor(0.1944, device='cuda:0'), 'mae': tensor(0.2892, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/ETTm2/final_metrics/
+=== Running lam=0.01, num_closest_samples=7 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+7676928
+0 - {'mse': tensor(0.1938, device='cuda:0'), 'mae': tensor(0.2883, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/ETTm2/final_metrics/
+=== Running lam=0.01, num_closest_samples=7 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+7676928
+0 - {'mse': tensor(0.1932, device='cuda:0'), 'mae': tensor(0.2875, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/ETTm2/final_metrics/
+=== Running lam=0.01, num_closest_samples=7 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+7676928
+0 - {'mse': tensor(0.1928, device='cuda:0'), 'mae': tensor(0.2867, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/ETTm2/final_metrics/
+=== Running lam=0.01, num_closest_samples=7 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+7676928
+0 - {'mse': tensor(0.1923, device='cuda:0'), 'mae': tensor(0.2860, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/ETTm2/final_metrics/
+=== Running lam=0.01, num_closest_samples=7 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+7676928
+0 - {'mse': tensor(0.1919, device='cuda:0'), 'mae': tensor(0.2854, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/ETTm2/final_metrics/
+=== Running lam=0.01, num_closest_samples=7 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+7676928
+0 - {'mse': tensor(0.1916, device='cuda:0'), 'mae': tensor(0.2849, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/ETTm2/final_metrics/
+=== Running lam=0.01, num_closest_samples=7 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+7676928
+0 - {'mse': tensor(0.1913, device='cuda:0'), 'mae': tensor(0.2845, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/ETTm2/final_metrics/
+=== Running lam=0.01, num_closest_samples=7 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+7676928
+0 - {'mse': tensor(0.1910, device='cuda:0'), 'mae': tensor(0.2842, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/ETTm2/final_metrics/
+=== Running lam=0.01, num_closest_samples=8 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+7676928
+0 - {'mse': tensor(0.1952, device='cuda:0'), 'mae': tensor(0.2909, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/ETTm2/final_metrics/
+=== Running lam=0.01, num_closest_samples=8 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+7676928
+0 - {'mse': tensor(0.1945, device='cuda:0'), 'mae': tensor(0.2899, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/ETTm2/final_metrics/
+=== Running lam=0.01, num_closest_samples=8 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+7676928
+0 - {'mse': tensor(0.1940, device='cuda:0'), 'mae': tensor(0.2890, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/ETTm2/final_metrics/
+=== Running lam=0.01, num_closest_samples=8 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+7676928
+0 - {'mse': tensor(0.1935, device='cuda:0'), 'mae': tensor(0.2882, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/ETTm2/final_metrics/
+=== Running lam=0.01, num_closest_samples=8 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+7676928
+0 - {'mse': tensor(0.1930, device='cuda:0'), 'mae': tensor(0.2874, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/ETTm2/final_metrics/
+=== Running lam=0.01, num_closest_samples=8 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+7676928
+0 - {'mse': tensor(0.1925, device='cuda:0'), 'mae': tensor(0.2866, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/ETTm2/final_metrics/
+=== Running lam=0.01, num_closest_samples=8 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+7676928
+0 - {'mse': tensor(0.1921, device='cuda:0'), 'mae': tensor(0.2860, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/ETTm2/final_metrics/
+=== Running lam=0.01, num_closest_samples=8 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+7676928
+0 - {'mse': tensor(0.1918, device='cuda:0'), 'mae': tensor(0.2854, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/ETTm2/final_metrics/
+=== Running lam=0.01, num_closest_samples=8 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+7676928
+0 - {'mse': tensor(0.1915, device='cuda:0'), 'mae': tensor(0.2849, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/ETTm2/final_metrics/
+=== Running lam=0.01, num_closest_samples=8 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+7676928
+0 - {'mse': tensor(0.1912, device='cuda:0'), 'mae': tensor(0.2845, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/ETTm2/final_metrics/
+=== Running lam=0.01, num_closest_samples=8 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+7676928
+0 - {'mse': tensor(0.1910, device='cuda:0'), 'mae': tensor(0.2841, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/ETTm2/final_metrics/
+=== Running lam=0.01, num_closest_samples=9 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+7676928
+0 - {'mse': tensor(0.1951, device='cuda:0'), 'mae': tensor(0.2908, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/ETTm2/final_metrics/
+=== Running lam=0.01, num_closest_samples=9 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+7676928
+0 - {'mse': tensor(0.1944, device='cuda:0'), 'mae': tensor(0.2898, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/ETTm2/final_metrics/
+=== Running lam=0.01, num_closest_samples=9 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+7676928
+0 - {'mse': tensor(0.1940, device='cuda:0'), 'mae': tensor(0.2890, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/ETTm2/final_metrics/
+=== Running lam=0.01, num_closest_samples=9 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+7676928
+0 - {'mse': tensor(0.1935, device='cuda:0'), 'mae': tensor(0.2881, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/ETTm2/final_metrics/
+=== Running lam=0.01, num_closest_samples=9 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+7676928
+0 - {'mse': tensor(0.1929, device='cuda:0'), 'mae': tensor(0.2873, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/ETTm2/final_metrics/
+=== Running lam=0.01, num_closest_samples=9 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+7676928
+0 - {'mse': tensor(0.1924, device='cuda:0'), 'mae': tensor(0.2866, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/ETTm2/final_metrics/
+=== Running lam=0.01, num_closest_samples=9 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+7676928
+0 - {'mse': tensor(0.1920, device='cuda:0'), 'mae': tensor(0.2859, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/ETTm2/final_metrics/
+=== Running lam=0.01, num_closest_samples=9 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+7676928
+0 - {'mse': tensor(0.1917, device='cuda:0'), 'mae': tensor(0.2853, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/ETTm2/final_metrics/
+=== Running lam=0.01, num_closest_samples=9 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+7676928
+0 - {'mse': tensor(0.1914, device='cuda:0'), 'mae': tensor(0.2849, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/ETTm2/final_metrics/
+=== Running lam=0.01, num_closest_samples=9 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+7676928
+0 - {'mse': tensor(0.1912, device='cuda:0'), 'mae': tensor(0.2845, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/ETTm2/final_metrics/
+=== Running lam=0.01, num_closest_samples=9 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+7676928
+0 - {'mse': tensor(0.1909, device='cuda:0'), 'mae': tensor(0.2841, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/ETTm2/final_metrics/
+=== Running lam=0.01, num_closest_samples=10 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+7676928
+0 - {'mse': tensor(0.1951, device='cuda:0'), 'mae': tensor(0.2909, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/ETTm2/final_metrics/
+=== Running lam=0.01, num_closest_samples=10 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+7676928
+0 - {'mse': tensor(0.1944, device='cuda:0'), 'mae': tensor(0.2899, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/ETTm2/final_metrics/
+=== Running lam=0.01, num_closest_samples=10 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+7676928
+0 - {'mse': tensor(0.1940, device='cuda:0'), 'mae': tensor(0.2890, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/ETTm2/final_metrics/
+=== Running lam=0.01, num_closest_samples=10 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+7676928
+0 - {'mse': tensor(0.1935, device='cuda:0'), 'mae': tensor(0.2881, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/ETTm2/final_metrics/
+=== Running lam=0.01, num_closest_samples=10 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+7676928
+0 - {'mse': tensor(0.1929, device='cuda:0'), 'mae': tensor(0.2873, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/ETTm2/final_metrics/
+=== Running lam=0.01, num_closest_samples=10 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+7676928
+0 - {'mse': tensor(0.1924, device='cuda:0'), 'mae': tensor(0.2866, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/ETTm2/final_metrics/
+=== Running lam=0.01, num_closest_samples=10 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+7676928
+0 - {'mse': tensor(0.1920, device='cuda:0'), 'mae': tensor(0.2859, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/ETTm2/final_metrics/
+=== Running lam=0.01, num_closest_samples=10 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+7676928
+0 - {'mse': tensor(0.1917, device='cuda:0'), 'mae': tensor(0.2853, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/ETTm2/final_metrics/
+=== Running lam=0.01, num_closest_samples=10 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+7676928
+0 - {'mse': tensor(0.1914, device='cuda:0'), 'mae': tensor(0.2849, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/ETTm2/final_metrics/
+=== Running lam=0.01, num_closest_samples=10 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+7676928
+0 - {'mse': tensor(0.1912, device='cuda:0'), 'mae': tensor(0.2845, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/ETTm2/final_metrics/
+=== Running lam=0.01, num_closest_samples=10 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+7676928
+0 - {'mse': tensor(0.1910, device='cuda:0'), 'mae': tensor(0.2842, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/ETTm2/final_metrics/
+=== Running lam=0.01, num_closest_samples=11 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+7676928
+0 - {'mse': tensor(0.1950, device='cuda:0'), 'mae': tensor(0.2908, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/ETTm2/final_metrics/
+=== Running lam=0.01, num_closest_samples=11 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+7676928
+0 - {'mse': tensor(0.1944, device='cuda:0'), 'mae': tensor(0.2898, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/ETTm2/final_metrics/
+=== Running lam=0.01, num_closest_samples=11 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+7676928
+0 - {'mse': tensor(0.1939, device='cuda:0'), 'mae': tensor(0.2890, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/ETTm2/final_metrics/
+=== Running lam=0.01, num_closest_samples=11 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+7676928
+0 - {'mse': tensor(0.1934, device='cuda:0'), 'mae': tensor(0.2881, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/ETTm2/final_metrics/
+=== Running lam=0.01, num_closest_samples=11 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+7676928
+0 - {'mse': tensor(0.1928, device='cuda:0'), 'mae': tensor(0.2873, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/ETTm2/final_metrics/
+=== Running lam=0.01, num_closest_samples=11 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+7676928
+0 - {'mse': tensor(0.1924, device='cuda:0'), 'mae': tensor(0.2865, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/ETTm2/final_metrics/
+=== Running lam=0.01, num_closest_samples=11 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+7676928
+0 - {'mse': tensor(0.1920, device='cuda:0'), 'mae': tensor(0.2859, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/ETTm2/final_metrics/
+=== Running lam=0.01, num_closest_samples=11 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+7676928
+0 - {'mse': tensor(0.1916, device='cuda:0'), 'mae': tensor(0.2853, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/ETTm2/final_metrics/
+=== Running lam=0.01, num_closest_samples=11 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+7676928
+0 - {'mse': tensor(0.1914, device='cuda:0'), 'mae': tensor(0.2849, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/ETTm2/final_metrics/
+=== Running lam=0.01, num_closest_samples=11 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+7676928
+0 - {'mse': tensor(0.1912, device='cuda:0'), 'mae': tensor(0.2845, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/ETTm2/final_metrics/
+=== Running lam=0.01, num_closest_samples=11 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+7676928
+0 - {'mse': tensor(0.1910, device='cuda:0'), 'mae': tensor(0.2842, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/ETTm2/final_metrics/
+=== Running lam=0.01, num_closest_samples=12 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+7676928
+0 - {'mse': tensor(0.1950, device='cuda:0'), 'mae': tensor(0.2907, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/ETTm2/final_metrics/
+=== Running lam=0.01, num_closest_samples=12 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+7676928
+0 - {'mse': tensor(0.1944, device='cuda:0'), 'mae': tensor(0.2897, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/ETTm2/final_metrics/
+=== Running lam=0.01, num_closest_samples=12 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+7676928
+0 - {'mse': tensor(0.1939, device='cuda:0'), 'mae': tensor(0.2889, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/ETTm2/final_metrics/
+=== Running lam=0.01, num_closest_samples=12 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+7676928
+0 - {'mse': tensor(0.1933, device='cuda:0'), 'mae': tensor(0.2880, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/ETTm2/final_metrics/
+=== Running lam=0.01, num_closest_samples=12 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+7676928
+0 - {'mse': tensor(0.1928, device='cuda:0'), 'mae': tensor(0.2872, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/ETTm2/final_metrics/
+=== Running lam=0.01, num_closest_samples=12 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+7676928
+0 - {'mse': tensor(0.1923, device='cuda:0'), 'mae': tensor(0.2865, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/ETTm2/final_metrics/
+=== Running lam=0.01, num_closest_samples=12 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+7676928
+0 - {'mse': tensor(0.1919, device='cuda:0'), 'mae': tensor(0.2858, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/ETTm2/final_metrics/
+=== Running lam=0.01, num_closest_samples=12 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+7676928
+0 - {'mse': tensor(0.1916, device='cuda:0'), 'mae': tensor(0.2853, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/ETTm2/final_metrics/
+=== Running lam=0.01, num_closest_samples=12 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+7676928
+0 - {'mse': tensor(0.1914, device='cuda:0'), 'mae': tensor(0.2848, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/ETTm2/final_metrics/
+=== Running lam=0.01, num_closest_samples=12 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+7676928
+0 - {'mse': tensor(0.1912, device='cuda:0'), 'mae': tensor(0.2845, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/ETTm2/final_metrics/
+=== Running lam=0.01, num_closest_samples=12 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+7676928
+0 - {'mse': tensor(0.1910, device='cuda:0'), 'mae': tensor(0.2842, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/ETTm2/final_metrics/
+=== Running lam=0.01, num_closest_samples=13 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+7676928
+0 - {'mse': tensor(0.1951, device='cuda:0'), 'mae': tensor(0.2909, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/ETTm2/final_metrics/
+=== Running lam=0.01, num_closest_samples=13 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+7676928
+0 - {'mse': tensor(0.1945, device='cuda:0'), 'mae': tensor(0.2899, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/ETTm2/final_metrics/
+=== Running lam=0.01, num_closest_samples=13 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+7676928
+0 - {'mse': tensor(0.1940, device='cuda:0'), 'mae': tensor(0.2890, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/ETTm2/final_metrics/
+=== Running lam=0.01, num_closest_samples=13 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+7676928
+0 - {'mse': tensor(0.1935, device='cuda:0'), 'mae': tensor(0.2882, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/ETTm2/final_metrics/
+=== Running lam=0.01, num_closest_samples=13 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+7676928
+0 - {'mse': tensor(0.1929, device='cuda:0'), 'mae': tensor(0.2873, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/ETTm2/final_metrics/
+=== Running lam=0.01, num_closest_samples=13 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+7676928
+0 - {'mse': tensor(0.1924, device='cuda:0'), 'mae': tensor(0.2866, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/ETTm2/final_metrics/
+=== Running lam=0.01, num_closest_samples=13 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+7676928
+0 - {'mse': tensor(0.1920, device='cuda:0'), 'mae': tensor(0.2859, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/ETTm2/final_metrics/
+=== Running lam=0.01, num_closest_samples=13 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+7676928
+0 - {'mse': tensor(0.1917, device='cuda:0'), 'mae': tensor(0.2853, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/ETTm2/final_metrics/
+=== Running lam=0.01, num_closest_samples=13 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+7676928
+0 - {'mse': tensor(0.1914, device='cuda:0'), 'mae': tensor(0.2849, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/ETTm2/final_metrics/
+=== Running lam=0.01, num_closest_samples=13 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+13 13
+13 13
+13 13
+13 13
+13 13
+13 13
+13 13
+13 13
+13 13
+13 13
+13 13
+13 13
+13 13
+13 13
+13 13
+13 13
+13 13
+13 13
+13 13
+13 13
+13 13
+13 13
+13 13
+13 13
+13 13
+13 13
+13 13
+13 13
+13 13
+13 13
+13 13
+13 13
+13 13
+13 13
+13 13
+13 13
+13 13
+13 13
+13 13
+13 13
+13 13
+13 13
+13 13
+13 13
+13 13
+13 13
+13 13
+13 13
+13 13
+13 13
+13 13
+13 13
+13 13
+13 13
+13 13
+13 13
+13 13
+13 13
+13 13
+13 13
+13 13
+13 13
+13 13
+13 13
+13 13
+13 13
+13 13
+13 13
+13 13
+13 13
+13 13
+13 13
+13 13
+13 13
+13 13
+13 13
+13 13
+13 13
+13 13
+7676928
+0 - {'mse': tensor(0.1912, device='cuda:0'), 'mae': tensor(0.2845, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/ETTm2/final_metrics/
+=== Running lam=0.01, num_closest_samples=13 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+7676928
+0 - {'mse': tensor(0.1909, device='cuda:0'), 'mae': tensor(0.2842, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/ETTm2/final_metrics/
+=== Running lam=0.01, num_closest_samples=14 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+7676928
+0 - {'mse': tensor(0.1952, device='cuda:0'), 'mae': tensor(0.2910, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/ETTm2/final_metrics/
+=== Running lam=0.01, num_closest_samples=14 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+7676928
+0 - {'mse': tensor(0.1946, device='cuda:0'), 'mae': tensor(0.2900, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/ETTm2/final_metrics/
+=== Running lam=0.01, num_closest_samples=14 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+7676928
+0 - {'mse': tensor(0.1940, device='cuda:0'), 'mae': tensor(0.2891, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results/512_96/ETTm2/final_metrics/
+=== Running lam=0.01, num_closest_samples=14 ===
+ARGS SEQ LEN: None
+ARGS PRED LEN: 96
+ARGS SEQ LEN: 512
+ARGS PRED LEN: 96
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE

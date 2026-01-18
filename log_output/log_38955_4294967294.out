@@ -1,0 +1,3 @@
+DATA: ETTm1
+>>> Model dtype: torch.float32; Attention:eager
+train 33953

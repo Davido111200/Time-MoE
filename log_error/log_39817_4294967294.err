@@ -1,0 +1,9 @@
+wandb: Currently logged in as: daidv to https://api.wandb.ai. Use `wandb login --relogin` to force relogin
+wandb: creating run
+wandb: Tracking run with wandb version 0.21.4
+wandb: Run data is saved locally in /home/s223540177/Time-MoE/wandb/run-20251021_222509-vjrw4nu9
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run happy-lake-67
+wandb: ⭐️ View project at https://wandb.ai/daidv/Time-MoE-Eval
+wandb: 🚀 View run at https://wandb.ai/daidv/Time-MoE-Eval/runs/vjrw4nu9
+  0%|          | 0/19488 [00:00<?, ?it/s]  0%|          | 1/19488 [00:01<8:25:36,  1.56s/it]  0%|          | 2/19488 [00:01<4:23:36,  1.23it/s]  0%|          | 3/19488 [00:02<3:05:46,  1.75it/s]  0%|          | 4/19488 [00:02<2:29:18,  2.17it/s]  0%|          | 5/19488 [00:02<2:09:38,  2.50it/s]  0%|          | 6/19488 [00:03<1:57:14,  2.77it/s]  0%|          | 7/19488 [00:03<1:49:17,  2.97it/s]  0%|          | 8/19488 [00:03<1:44:05,  3.12it/s]  0%|          | 9/19488 [00:03<1:41:29,  3.20it/s]  0%|          | 10/19488 [00:04<1:39:56,  3.25it/s]  0%|          | 10/19488 [00:04<2:27:49,  2.20it/s]

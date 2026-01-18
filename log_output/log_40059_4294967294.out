@@ -1,0 +1,11 @@
+DATA: exchange_rate
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+2025-10-23 02:37:49,390 - log_util.py[pid:609805;line:52:log_in_local_rank_0] - INFO: >>> Split test data from 2005/3/22 0:00 to 2010/10/10 0:00, and evaluation start date is: 2006/8/16 0:00
+1091328
+0 - {'mse': tensor(0.1163, device='cuda:0'), 'mae': tensor(0.2540, device='cuda:0')}
+[1;34mwandb[0m: 
+[1;34mwandb[0m: 🚀 View run [33mlyric-flower-198[0m at: [34m[0m
+[1;34mwandb[0m: Find logs at: [1;35mwandb/run-20251023_023728-16lvaq5p/logs[0m

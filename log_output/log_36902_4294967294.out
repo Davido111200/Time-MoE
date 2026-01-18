@@ -1,0 +1,2 @@
+2025-10-01 10:25:17,752 - log_util.py[pid:1989497;line:52:log_in_local_rank_0] - INFO: >>> Split test data from 2017-10-18 16:00:00 to 2018-02-20 23:45:00, and evaluation start date is: 2017-10-24 00:00:00
+0 - {'mse': tensor(0.3384, device='cuda:0'), 'mae': tensor(0.3681, device='cuda:0')}

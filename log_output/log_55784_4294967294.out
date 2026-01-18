@@ -1,0 +1,1062 @@
+=== Running lam=0.01, num_closest_samples=1, weight=0.0 ===
+Loaded pred cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/weather/timerxl/pred_cache.pt
+Loaded gt cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/weather/timerxl/gt_cache.pt
+Caches ready.
+NaN encountered at step 144, total NaNs: 1
+NaN encountered at step 145, total NaNs: 2
+NaN encountered at step 146, total NaNs: 3
+NaN encountered at step 147, total NaNs: 4
+NaN encountered at step 148, total NaNs: 5
+NaN encountered at step 149, total NaNs: 6
+NaN encountered at step 150, total NaNs: 7
+NaN encountered at step 151, total NaNs: 8
+NaN encountered at step 152, total NaNs: 9
+NaN encountered at step 155, total NaNs: 10
+NaN encountered at step 156, total NaNs: 11
+NaN encountered at step 158, total NaNs: 12
+NaN encountered at step 159, total NaNs: 13
+NaN encountered at step 161, total NaNs: 14
+NaN encountered at step 163, total NaNs: 15
+19578528
+0 - {'mse': tensor(0.1832, device='cuda:0'), 'mae': tensor(0.2436, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results_timer_xl/512_96/weather/final_metrics/
+=== Running lam=0.01, num_closest_samples=2, weight=0.0 ===
+Loaded pred cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/weather/timerxl/pred_cache.pt
+Loaded gt cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/weather/timerxl/gt_cache.pt
+Caches ready.
+NaN encountered at step 144, total NaNs: 1
+NaN encountered at step 145, total NaNs: 2
+NaN encountered at step 146, total NaNs: 3
+NaN encountered at step 147, total NaNs: 4
+NaN encountered at step 148, total NaNs: 5
+NaN encountered at step 149, total NaNs: 6
+NaN encountered at step 150, total NaNs: 7
+NaN encountered at step 151, total NaNs: 8
+NaN encountered at step 152, total NaNs: 9
+NaN encountered at step 155, total NaNs: 10
+NaN encountered at step 156, total NaNs: 11
+NaN encountered at step 158, total NaNs: 12
+NaN encountered at step 159, total NaNs: 13
+NaN encountered at step 161, total NaNs: 14
+NaN encountered at step 163, total NaNs: 15
+19578528
+0 - {'mse': tensor(0.1831, device='cuda:0'), 'mae': tensor(0.2435, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results_timer_xl/512_96/weather/final_metrics/
+=== Running lam=0.01, num_closest_samples=3, weight=0.0 ===
+Loaded pred cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/weather/timerxl/pred_cache.pt
+Loaded gt cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/weather/timerxl/gt_cache.pt
+Caches ready.
+NaN encountered at step 144, total NaNs: 1
+NaN encountered at step 145, total NaNs: 2
+NaN encountered at step 146, total NaNs: 3
+NaN encountered at step 148, total NaNs: 4
+NaN encountered at step 149, total NaNs: 5
+NaN encountered at step 150, total NaNs: 6
+NaN encountered at step 151, total NaNs: 7
+NaN encountered at step 152, total NaNs: 8
+NaN encountered at step 155, total NaNs: 9
+NaN encountered at step 156, total NaNs: 10
+NaN encountered at step 158, total NaNs: 11
+NaN encountered at step 159, total NaNs: 12
+NaN encountered at step 161, total NaNs: 13
+NaN encountered at step 163, total NaNs: 14
+19676832
+0 - {'mse': tensor(0.1825, device='cuda:0'), 'mae': tensor(0.2424, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results_timer_xl/512_96/weather/final_metrics/
+=== Running lam=0.01, num_closest_samples=4, weight=0.0 ===
+Loaded pred cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/weather/timerxl/pred_cache.pt
+Loaded gt cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/weather/timerxl/gt_cache.pt
+Caches ready.
+NaN encountered at step 144, total NaNs: 1
+NaN encountered at step 145, total NaNs: 2
+NaN encountered at step 146, total NaNs: 3
+NaN encountered at step 147, total NaNs: 4
+NaN encountered at step 148, total NaNs: 5
+NaN encountered at step 149, total NaNs: 6
+NaN encountered at step 150, total NaNs: 7
+NaN encountered at step 151, total NaNs: 8
+NaN encountered at step 152, total NaNs: 9
+NaN encountered at step 155, total NaNs: 10
+NaN encountered at step 156, total NaNs: 11
+NaN encountered at step 158, total NaNs: 12
+NaN encountered at step 159, total NaNs: 13
+NaN encountered at step 161, total NaNs: 14
+NaN encountered at step 163, total NaNs: 15
+19578528
+0 - {'mse': tensor(0.1833, device='cuda:0'), 'mae': tensor(0.2434, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results_timer_xl/512_96/weather/final_metrics/
+=== Running lam=0.01, num_closest_samples=5, weight=0.0 ===
+Loaded pred cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/weather/timerxl/pred_cache.pt
+Loaded gt cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/weather/timerxl/gt_cache.pt
+Caches ready.
+NaN encountered at step 144, total NaNs: 1
+NaN encountered at step 145, total NaNs: 2
+NaN encountered at step 146, total NaNs: 3
+NaN encountered at step 147, total NaNs: 4
+NaN encountered at step 148, total NaNs: 5
+NaN encountered at step 149, total NaNs: 6
+NaN encountered at step 150, total NaNs: 7
+NaN encountered at step 151, total NaNs: 8
+NaN encountered at step 152, total NaNs: 9
+NaN encountered at step 155, total NaNs: 10
+NaN encountered at step 156, total NaNs: 11
+NaN encountered at step 158, total NaNs: 12
+NaN encountered at step 159, total NaNs: 13
+NaN encountered at step 161, total NaNs: 14
+NaN encountered at step 163, total NaNs: 15
+19578528
+0 - {'mse': tensor(0.1832, device='cuda:0'), 'mae': tensor(0.2435, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results_timer_xl/512_96/weather/final_metrics/
+=== Running lam=0.01, num_closest_samples=6, weight=0.0 ===
+Loaded pred cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/weather/timerxl/pred_cache.pt
+Loaded gt cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/weather/timerxl/gt_cache.pt
+Caches ready.
+NaN encountered at step 143, total NaNs: 1
+NaN encountered at step 144, total NaNs: 2
+NaN encountered at step 145, total NaNs: 3
+NaN encountered at step 146, total NaNs: 4
+NaN encountered at step 147, total NaNs: 5
+NaN encountered at step 148, total NaNs: 6
+NaN encountered at step 149, total NaNs: 7
+NaN encountered at step 150, total NaNs: 8
+NaN encountered at step 151, total NaNs: 9
+NaN encountered at step 152, total NaNs: 10
+NaN encountered at step 155, total NaNs: 11
+NaN encountered at step 156, total NaNs: 12
+NaN encountered at step 158, total NaNs: 13
+NaN encountered at step 159, total NaNs: 14
+NaN encountered at step 161, total NaNs: 15
+NaN encountered at step 163, total NaNs: 16
+19480224
+0 - {'mse': tensor(0.1841, device='cuda:0'), 'mae': tensor(0.2446, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results_timer_xl/512_96/weather/final_metrics/
+=== Running lam=0.01, num_closest_samples=7, weight=0.0 ===
+Loaded pred cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/weather/timerxl/pred_cache.pt
+Loaded gt cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/weather/timerxl/gt_cache.pt
+Caches ready.
+NaN encountered at step 144, total NaNs: 1
+NaN encountered at step 145, total NaNs: 2
+NaN encountered at step 146, total NaNs: 3
+NaN encountered at step 147, total NaNs: 4
+NaN encountered at step 148, total NaNs: 5
+NaN encountered at step 149, total NaNs: 6
+NaN encountered at step 150, total NaNs: 7
+NaN encountered at step 151, total NaNs: 8
+NaN encountered at step 152, total NaNs: 9
+NaN encountered at step 155, total NaNs: 10
+NaN encountered at step 156, total NaNs: 11
+NaN encountered at step 158, total NaNs: 12
+NaN encountered at step 159, total NaNs: 13
+NaN encountered at step 161, total NaNs: 14
+NaN encountered at step 163, total NaNs: 15
+19578528
+0 - {'mse': tensor(0.1834, device='cuda:0'), 'mae': tensor(0.2435, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results_timer_xl/512_96/weather/final_metrics/
+=== Running lam=0.01, num_closest_samples=8, weight=0.0 ===
+Loaded pred cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/weather/timerxl/pred_cache.pt
+Loaded gt cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/weather/timerxl/gt_cache.pt
+Caches ready.
+NaN encountered at step 144, total NaNs: 1
+NaN encountered at step 145, total NaNs: 2
+NaN encountered at step 146, total NaNs: 3
+NaN encountered at step 147, total NaNs: 4
+NaN encountered at step 148, total NaNs: 5
+NaN encountered at step 149, total NaNs: 6
+NaN encountered at step 150, total NaNs: 7
+NaN encountered at step 151, total NaNs: 8
+NaN encountered at step 152, total NaNs: 9
+NaN encountered at step 155, total NaNs: 10
+NaN encountered at step 156, total NaNs: 11
+NaN encountered at step 158, total NaNs: 12
+NaN encountered at step 159, total NaNs: 13
+NaN encountered at step 161, total NaNs: 14
+NaN encountered at step 163, total NaNs: 15
+19578528
+0 - {'mse': tensor(0.1835, device='cuda:0'), 'mae': tensor(0.2436, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results_timer_xl/512_96/weather/final_metrics/
+=== Running lam=0.01, num_closest_samples=9, weight=0.0 ===
+Loaded pred cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/weather/timerxl/pred_cache.pt
+Loaded gt cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/weather/timerxl/gt_cache.pt
+Caches ready.
+NaN encountered at step 143, total NaNs: 1
+NaN encountered at step 144, total NaNs: 2
+NaN encountered at step 145, total NaNs: 3
+NaN encountered at step 146, total NaNs: 4
+NaN encountered at step 147, total NaNs: 5
+NaN encountered at step 148, total NaNs: 6
+NaN encountered at step 149, total NaNs: 7
+NaN encountered at step 150, total NaNs: 8
+NaN encountered at step 151, total NaNs: 9
+NaN encountered at step 152, total NaNs: 10
+NaN encountered at step 155, total NaNs: 11
+NaN encountered at step 156, total NaNs: 12
+NaN encountered at step 158, total NaNs: 13
+NaN encountered at step 159, total NaNs: 14
+NaN encountered at step 161, total NaNs: 15
+NaN encountered at step 163, total NaNs: 16
+19480224
+0 - {'mse': tensor(0.1843, device='cuda:0'), 'mae': tensor(0.2446, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results_timer_xl/512_96/weather/final_metrics/
+=== Running lam=0.01, num_closest_samples=10, weight=0.0 ===
+Loaded pred cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/weather/timerxl/pred_cache.pt
+Loaded gt cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/weather/timerxl/gt_cache.pt
+Caches ready.
+NaN encountered at step 143, total NaNs: 1
+NaN encountered at step 144, total NaNs: 2
+NaN encountered at step 145, total NaNs: 3
+NaN encountered at step 146, total NaNs: 4
+NaN encountered at step 147, total NaNs: 5
+NaN encountered at step 148, total NaNs: 6
+NaN encountered at step 149, total NaNs: 7
+NaN encountered at step 150, total NaNs: 8
+NaN encountered at step 151, total NaNs: 9
+NaN encountered at step 152, total NaNs: 10
+NaN encountered at step 155, total NaNs: 11
+NaN encountered at step 156, total NaNs: 12
+NaN encountered at step 158, total NaNs: 13
+NaN encountered at step 159, total NaNs: 14
+NaN encountered at step 161, total NaNs: 15
+NaN encountered at step 163, total NaNs: 16
+19480224
+0 - {'mse': tensor(0.1843, device='cuda:0'), 'mae': tensor(0.2446, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results_timer_xl/512_96/weather/final_metrics/
+=== Running lam=0.01, num_closest_samples=11, weight=0.0 ===
+Loaded pred cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/weather/timerxl/pred_cache.pt
+Loaded gt cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/weather/timerxl/gt_cache.pt
+Caches ready.
+NaN encountered at step 143, total NaNs: 1
+NaN encountered at step 144, total NaNs: 2
+NaN encountered at step 145, total NaNs: 3
+NaN encountered at step 146, total NaNs: 4
+NaN encountered at step 147, total NaNs: 5
+NaN encountered at step 148, total NaNs: 6
+NaN encountered at step 149, total NaNs: 7
+NaN encountered at step 150, total NaNs: 8
+NaN encountered at step 151, total NaNs: 9
+NaN encountered at step 152, total NaNs: 10
+NaN encountered at step 155, total NaNs: 11
+NaN encountered at step 156, total NaNs: 12
+NaN encountered at step 158, total NaNs: 13
+NaN encountered at step 159, total NaNs: 14
+NaN encountered at step 161, total NaNs: 15
+NaN encountered at step 163, total NaNs: 16
+19480224
+0 - {'mse': tensor(0.1843, device='cuda:0'), 'mae': tensor(0.2447, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results_timer_xl/512_96/weather/final_metrics/
+=== Running lam=0.01, num_closest_samples=12, weight=0.0 ===
+Loaded pred cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/weather/timerxl/pred_cache.pt
+Loaded gt cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/weather/timerxl/gt_cache.pt
+Caches ready.
+NaN encountered at step 143, total NaNs: 1
+NaN encountered at step 144, total NaNs: 2
+NaN encountered at step 145, total NaNs: 3
+NaN encountered at step 146, total NaNs: 4
+NaN encountered at step 147, total NaNs: 5
+NaN encountered at step 148, total NaNs: 6
+NaN encountered at step 149, total NaNs: 7
+NaN encountered at step 150, total NaNs: 8
+NaN encountered at step 151, total NaNs: 9
+NaN encountered at step 152, total NaNs: 10
+NaN encountered at step 155, total NaNs: 11
+NaN encountered at step 156, total NaNs: 12
+NaN encountered at step 158, total NaNs: 13
+NaN encountered at step 159, total NaNs: 14
+NaN encountered at step 161, total NaNs: 15
+NaN encountered at step 163, total NaNs: 16
+19480224
+0 - {'mse': tensor(0.1844, device='cuda:0'), 'mae': tensor(0.2447, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results_timer_xl/512_96/weather/final_metrics/
+=== Running lam=0.01, num_closest_samples=13, weight=0.0 ===
+Loaded pred cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/weather/timerxl/pred_cache.pt
+Loaded gt cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/weather/timerxl/gt_cache.pt
+Caches ready.
+NaN encountered at step 143, total NaNs: 1
+NaN encountered at step 144, total NaNs: 2
+NaN encountered at step 145, total NaNs: 3
+NaN encountered at step 146, total NaNs: 4
+NaN encountered at step 147, total NaNs: 5
+NaN encountered at step 148, total NaNs: 6
+NaN encountered at step 149, total NaNs: 7
+NaN encountered at step 150, total NaNs: 8
+NaN encountered at step 151, total NaNs: 9
+NaN encountered at step 152, total NaNs: 10
+NaN encountered at step 155, total NaNs: 11
+NaN encountered at step 156, total NaNs: 12
+NaN encountered at step 158, total NaNs: 13
+NaN encountered at step 159, total NaNs: 14
+NaN encountered at step 161, total NaNs: 15
+NaN encountered at step 163, total NaNs: 16
+19480224
+0 - {'mse': tensor(0.1843, device='cuda:0'), 'mae': tensor(0.2447, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results_timer_xl/512_96/weather/final_metrics/
+=== Running lam=0.01, num_closest_samples=14, weight=0.0 ===
+Loaded pred cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/weather/timerxl/pred_cache.pt
+Loaded gt cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/weather/timerxl/gt_cache.pt
+Caches ready.
+NaN encountered at step 143, total NaNs: 1
+NaN encountered at step 144, total NaNs: 2
+NaN encountered at step 145, total NaNs: 3
+NaN encountered at step 146, total NaNs: 4
+NaN encountered at step 147, total NaNs: 5
+NaN encountered at step 148, total NaNs: 6
+NaN encountered at step 149, total NaNs: 7
+NaN encountered at step 150, total NaNs: 8
+NaN encountered at step 151, total NaNs: 9
+NaN encountered at step 152, total NaNs: 10
+NaN encountered at step 155, total NaNs: 11
+NaN encountered at step 156, total NaNs: 12
+NaN encountered at step 158, total NaNs: 13
+NaN encountered at step 159, total NaNs: 14
+NaN encountered at step 161, total NaNs: 15
+NaN encountered at step 163, total NaNs: 16
+19480224
+0 - {'mse': tensor(0.1843, device='cuda:0'), 'mae': tensor(0.2448, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results_timer_xl/512_96/weather/final_metrics/
+=== Running lam=0.01, num_closest_samples=15, weight=0.0 ===
+Loaded pred cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/weather/timerxl/pred_cache.pt
+Loaded gt cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/weather/timerxl/gt_cache.pt
+Caches ready.
+NaN encountered at step 143, total NaNs: 1
+NaN encountered at step 144, total NaNs: 2
+NaN encountered at step 145, total NaNs: 3
+NaN encountered at step 146, total NaNs: 4
+NaN encountered at step 147, total NaNs: 5
+NaN encountered at step 148, total NaNs: 6
+NaN encountered at step 149, total NaNs: 7
+NaN encountered at step 150, total NaNs: 8
+NaN encountered at step 151, total NaNs: 9
+NaN encountered at step 152, total NaNs: 10
+NaN encountered at step 155, total NaNs: 11
+NaN encountered at step 156, total NaNs: 12
+NaN encountered at step 158, total NaNs: 13
+NaN encountered at step 159, total NaNs: 14
+NaN encountered at step 161, total NaNs: 15
+NaN encountered at step 163, total NaNs: 16
+19480224
+0 - {'mse': tensor(0.1844, device='cuda:0'), 'mae': tensor(0.2448, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results_timer_xl/512_96/weather/final_metrics/
+=== Running lam=0.01, num_closest_samples=16, weight=0.0 ===
+Loaded pred cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/weather/timerxl/pred_cache.pt
+Loaded gt cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/weather/timerxl/gt_cache.pt
+Caches ready.
+NaN encountered at step 143, total NaNs: 1
+NaN encountered at step 144, total NaNs: 2
+NaN encountered at step 145, total NaNs: 3
+NaN encountered at step 146, total NaNs: 4
+NaN encountered at step 147, total NaNs: 5
+NaN encountered at step 148, total NaNs: 6
+NaN encountered at step 149, total NaNs: 7
+NaN encountered at step 150, total NaNs: 8
+NaN encountered at step 151, total NaNs: 9
+NaN encountered at step 152, total NaNs: 10
+NaN encountered at step 155, total NaNs: 11
+NaN encountered at step 156, total NaNs: 12
+NaN encountered at step 158, total NaNs: 13
+NaN encountered at step 159, total NaNs: 14
+NaN encountered at step 160, total NaNs: 15
+NaN encountered at step 161, total NaNs: 16
+19480224
+0 - {'mse': tensor(0.1736, device='cuda:0'), 'mae': tensor(0.2421, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results_timer_xl/512_96/weather/final_metrics/
+=== Running lam=0.05, num_closest_samples=1, weight=0.0 ===
+Loaded pred cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/weather/timerxl/pred_cache.pt
+Loaded gt cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/weather/timerxl/gt_cache.pt
+Caches ready.
+NaN encountered at step 144, total NaNs: 1
+NaN encountered at step 145, total NaNs: 2
+NaN encountered at step 146, total NaNs: 3
+NaN encountered at step 147, total NaNs: 4
+NaN encountered at step 148, total NaNs: 5
+NaN encountered at step 149, total NaNs: 6
+NaN encountered at step 150, total NaNs: 7
+NaN encountered at step 151, total NaNs: 8
+NaN encountered at step 152, total NaNs: 9
+NaN encountered at step 155, total NaNs: 10
+NaN encountered at step 156, total NaNs: 11
+NaN encountered at step 158, total NaNs: 12
+NaN encountered at step 159, total NaNs: 13
+NaN encountered at step 161, total NaNs: 14
+19676832
+0 - {'mse': tensor(0.1878, device='cuda:0'), 'mae': tensor(0.2521, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results_timer_xl/512_96/weather/final_metrics/
+=== Running lam=0.05, num_closest_samples=2, weight=0.0 ===
+Loaded pred cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/weather/timerxl/pred_cache.pt
+Loaded gt cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/weather/timerxl/gt_cache.pt
+Caches ready.
+NaN encountered at step 144, total NaNs: 1
+NaN encountered at step 145, total NaNs: 2
+NaN encountered at step 146, total NaNs: 3
+NaN encountered at step 147, total NaNs: 4
+NaN encountered at step 148, total NaNs: 5
+NaN encountered at step 149, total NaNs: 6
+NaN encountered at step 150, total NaNs: 7
+NaN encountered at step 151, total NaNs: 8
+NaN encountered at step 152, total NaNs: 9
+NaN encountered at step 155, total NaNs: 10
+NaN encountered at step 156, total NaNs: 11
+NaN encountered at step 158, total NaNs: 12
+NaN encountered at step 159, total NaNs: 13
+NaN encountered at step 161, total NaNs: 14
+19676832
+0 - {'mse': tensor(0.1866, device='cuda:0'), 'mae': tensor(0.2508, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results_timer_xl/512_96/weather/final_metrics/
+=== Running lam=0.05, num_closest_samples=3, weight=0.0 ===
+Loaded pred cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/weather/timerxl/pred_cache.pt
+Loaded gt cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/weather/timerxl/gt_cache.pt
+Caches ready.
+NaN encountered at step 143, total NaNs: 1
+NaN encountered at step 144, total NaNs: 2
+NaN encountered at step 145, total NaNs: 3
+NaN encountered at step 146, total NaNs: 4
+NaN encountered at step 147, total NaNs: 5
+NaN encountered at step 148, total NaNs: 6
+NaN encountered at step 149, total NaNs: 7
+NaN encountered at step 150, total NaNs: 8
+NaN encountered at step 151, total NaNs: 9
+NaN encountered at step 152, total NaNs: 10
+NaN encountered at step 155, total NaNs: 11
+NaN encountered at step 156, total NaNs: 12
+NaN encountered at step 158, total NaNs: 13
+NaN encountered at step 159, total NaNs: 14
+NaN encountered at step 161, total NaNs: 15
+19578528
+0 - {'mse': tensor(0.1902, device='cuda:0'), 'mae': tensor(0.2538, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results_timer_xl/512_96/weather/final_metrics/
+=== Running lam=0.05, num_closest_samples=4, weight=0.0 ===
+Loaded pred cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/weather/timerxl/pred_cache.pt
+Loaded gt cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/weather/timerxl/gt_cache.pt
+Caches ready.
+NaN encountered at step 143, total NaNs: 1
+NaN encountered at step 144, total NaNs: 2
+NaN encountered at step 145, total NaNs: 3
+NaN encountered at step 146, total NaNs: 4
+NaN encountered at step 147, total NaNs: 5
+NaN encountered at step 148, total NaNs: 6
+NaN encountered at step 149, total NaNs: 7
+NaN encountered at step 150, total NaNs: 8
+NaN encountered at step 151, total NaNs: 9
+NaN encountered at step 152, total NaNs: 10
+NaN encountered at step 155, total NaNs: 11
+NaN encountered at step 156, total NaNs: 12
+NaN encountered at step 158, total NaNs: 13
+NaN encountered at step 159, total NaNs: 14
+NaN encountered at step 161, total NaNs: 15
+19578528
+0 - {'mse': tensor(0.1887, device='cuda:0'), 'mae': tensor(0.2534, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results_timer_xl/512_96/weather/final_metrics/
+=== Running lam=0.05, num_closest_samples=5, weight=0.0 ===
+Loaded pred cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/weather/timerxl/pred_cache.pt
+Loaded gt cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/weather/timerxl/gt_cache.pt
+Caches ready.
+NaN encountered at step 143, total NaNs: 1
+NaN encountered at step 144, total NaNs: 2
+NaN encountered at step 145, total NaNs: 3
+NaN encountered at step 146, total NaNs: 4
+NaN encountered at step 147, total NaNs: 5
+NaN encountered at step 148, total NaNs: 6
+NaN encountered at step 149, total NaNs: 7
+NaN encountered at step 150, total NaNs: 8
+NaN encountered at step 151, total NaNs: 9
+NaN encountered at step 152, total NaNs: 10
+NaN encountered at step 155, total NaNs: 11
+NaN encountered at step 156, total NaNs: 12
+NaN encountered at step 157, total NaNs: 13
+NaN encountered at step 158, total NaNs: 14
+NaN encountered at step 159, total NaNs: 15
+NaN encountered at step 161, total NaNs: 16
+19480224
+0 - {'mse': tensor(0.1847, device='cuda:0'), 'mae': tensor(0.2535, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results_timer_xl/512_96/weather/final_metrics/
+=== Running lam=0.05, num_closest_samples=6, weight=0.0 ===
+Loaded pred cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/weather/timerxl/pred_cache.pt
+Loaded gt cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/weather/timerxl/gt_cache.pt
+Caches ready.
+NaN encountered at step 143, total NaNs: 1
+NaN encountered at step 144, total NaNs: 2
+NaN encountered at step 145, total NaNs: 3
+NaN encountered at step 146, total NaNs: 4
+NaN encountered at step 147, total NaNs: 5
+NaN encountered at step 148, total NaNs: 6
+NaN encountered at step 149, total NaNs: 7
+NaN encountered at step 150, total NaNs: 8
+NaN encountered at step 151, total NaNs: 9
+NaN encountered at step 152, total NaNs: 10
+NaN encountered at step 155, total NaNs: 11
+NaN encountered at step 156, total NaNs: 12
+NaN encountered at step 158, total NaNs: 13
+NaN encountered at step 159, total NaNs: 14
+NaN encountered at step 161, total NaNs: 15
+19578528
+0 - {'mse': tensor(0.1884, device='cuda:0'), 'mae': tensor(0.2547, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results_timer_xl/512_96/weather/final_metrics/
+=== Running lam=0.05, num_closest_samples=7, weight=0.0 ===
+Loaded pred cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/weather/timerxl/pred_cache.pt
+Loaded gt cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/weather/timerxl/gt_cache.pt
+Caches ready.
+NaN encountered at step 144, total NaNs: 1
+NaN encountered at step 145, total NaNs: 2
+NaN encountered at step 146, total NaNs: 3
+NaN encountered at step 147, total NaNs: 4
+NaN encountered at step 148, total NaNs: 5
+NaN encountered at step 149, total NaNs: 6
+NaN encountered at step 150, total NaNs: 7
+NaN encountered at step 151, total NaNs: 8
+NaN encountered at step 152, total NaNs: 9
+NaN encountered at step 155, total NaNs: 10
+NaN encountered at step 156, total NaNs: 11
+NaN encountered at step 158, total NaNs: 12
+NaN encountered at step 159, total NaNs: 13
+NaN encountered at step 161, total NaNs: 14
+NaN encountered at step 163, total NaNs: 15
+19578528
+0 - {'mse': tensor(0.1884, device='cuda:0'), 'mae': tensor(0.2521, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results_timer_xl/512_96/weather/final_metrics/
+=== Running lam=0.05, num_closest_samples=8, weight=0.0 ===
+Loaded pred cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/weather/timerxl/pred_cache.pt
+Loaded gt cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/weather/timerxl/gt_cache.pt
+Caches ready.
+NaN encountered at step 143, total NaNs: 1
+NaN encountered at step 144, total NaNs: 2
+NaN encountered at step 145, total NaNs: 3
+NaN encountered at step 146, total NaNs: 4
+NaN encountered at step 147, total NaNs: 5
+NaN encountered at step 148, total NaNs: 6
+NaN encountered at step 149, total NaNs: 7
+NaN encountered at step 150, total NaNs: 8
+NaN encountered at step 151, total NaNs: 9
+NaN encountered at step 152, total NaNs: 10
+NaN encountered at step 155, total NaNs: 11
+NaN encountered at step 156, total NaNs: 12
+NaN encountered at step 158, total NaNs: 13
+NaN encountered at step 159, total NaNs: 14
+NaN encountered at step 161, total NaNs: 15
+19578528
+0 - {'mse': tensor(0.1872, device='cuda:0'), 'mae': tensor(0.2533, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results_timer_xl/512_96/weather/final_metrics/
+=== Running lam=0.05, num_closest_samples=9, weight=0.0 ===
+Loaded pred cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/weather/timerxl/pred_cache.pt
+Loaded gt cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/weather/timerxl/gt_cache.pt
+Caches ready.
+NaN encountered at step 143, total NaNs: 1
+NaN encountered at step 144, total NaNs: 2
+NaN encountered at step 145, total NaNs: 3
+NaN encountered at step 146, total NaNs: 4
+NaN encountered at step 147, total NaNs: 5
+NaN encountered at step 148, total NaNs: 6
+NaN encountered at step 149, total NaNs: 7
+NaN encountered at step 150, total NaNs: 8
+NaN encountered at step 151, total NaNs: 9
+NaN encountered at step 152, total NaNs: 10
+NaN encountered at step 155, total NaNs: 11
+NaN encountered at step 156, total NaNs: 12
+NaN encountered at step 158, total NaNs: 13
+NaN encountered at step 159, total NaNs: 14
+NaN encountered at step 161, total NaNs: 15
+19578528
+0 - {'mse': tensor(0.1888, device='cuda:0'), 'mae': tensor(0.2540, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results_timer_xl/512_96/weather/final_metrics/
+=== Running lam=0.05, num_closest_samples=10, weight=0.0 ===
+Loaded pred cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/weather/timerxl/pred_cache.pt
+Loaded gt cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/weather/timerxl/gt_cache.pt
+Caches ready.
+NaN encountered at step 143, total NaNs: 1
+NaN encountered at step 144, total NaNs: 2
+NaN encountered at step 145, total NaNs: 3
+NaN encountered at step 146, total NaNs: 4
+NaN encountered at step 147, total NaNs: 5
+NaN encountered at step 148, total NaNs: 6
+NaN encountered at step 149, total NaNs: 7
+NaN encountered at step 150, total NaNs: 8
+NaN encountered at step 151, total NaNs: 9
+NaN encountered at step 152, total NaNs: 10
+NaN encountered at step 155, total NaNs: 11
+NaN encountered at step 156, total NaNs: 12
+NaN encountered at step 158, total NaNs: 13
+NaN encountered at step 159, total NaNs: 14
+NaN encountered at step 161, total NaNs: 15
+19578528
+0 - {'mse': tensor(0.1871, device='cuda:0'), 'mae': tensor(0.2525, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results_timer_xl/512_96/weather/final_metrics/
+=== Running lam=0.05, num_closest_samples=11, weight=0.0 ===
+Loaded pred cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/weather/timerxl/pred_cache.pt
+Loaded gt cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/weather/timerxl/gt_cache.pt
+Caches ready.
+NaN encountered at step 143, total NaNs: 1
+NaN encountered at step 144, total NaNs: 2
+NaN encountered at step 145, total NaNs: 3
+NaN encountered at step 146, total NaNs: 4
+NaN encountered at step 147, total NaNs: 5
+NaN encountered at step 148, total NaNs: 6
+NaN encountered at step 149, total NaNs: 7
+NaN encountered at step 150, total NaNs: 8
+NaN encountered at step 151, total NaNs: 9
+NaN encountered at step 152, total NaNs: 10
+NaN encountered at step 155, total NaNs: 11
+NaN encountered at step 156, total NaNs: 12
+NaN encountered at step 158, total NaNs: 13
+NaN encountered at step 159, total NaNs: 14
+NaN encountered at step 161, total NaNs: 15
+19578528
+0 - {'mse': tensor(0.1884, device='cuda:0'), 'mae': tensor(0.2536, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results_timer_xl/512_96/weather/final_metrics/
+=== Running lam=0.05, num_closest_samples=12, weight=0.0 ===
+Loaded pred cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/weather/timerxl/pred_cache.pt
+Loaded gt cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/weather/timerxl/gt_cache.pt
+Caches ready.
+NaN encountered at step 143, total NaNs: 1
+NaN encountered at step 144, total NaNs: 2
+NaN encountered at step 145, total NaNs: 3
+NaN encountered at step 146, total NaNs: 4
+NaN encountered at step 147, total NaNs: 5
+NaN encountered at step 148, total NaNs: 6
+NaN encountered at step 149, total NaNs: 7
+NaN encountered at step 150, total NaNs: 8
+NaN encountered at step 151, total NaNs: 9
+NaN encountered at step 152, total NaNs: 10
+NaN encountered at step 155, total NaNs: 11
+NaN encountered at step 156, total NaNs: 12
+NaN encountered at step 158, total NaNs: 13
+NaN encountered at step 159, total NaNs: 14
+NaN encountered at step 160, total NaNs: 15
+NaN encountered at step 161, total NaNs: 16
+NaN encountered at step 163, total NaNs: 17
+19381920
+0 - {'mse': tensor(0.1803, device='cuda:0'), 'mae': tensor(0.2517, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results_timer_xl/512_96/weather/final_metrics/
+=== Running lam=0.05, num_closest_samples=13, weight=0.0 ===
+Loaded pred cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/weather/timerxl/pred_cache.pt
+Loaded gt cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/weather/timerxl/gt_cache.pt
+Caches ready.
+NaN encountered at step 143, total NaNs: 1
+NaN encountered at step 144, total NaNs: 2
+NaN encountered at step 145, total NaNs: 3
+NaN encountered at step 146, total NaNs: 4
+NaN encountered at step 147, total NaNs: 5
+NaN encountered at step 148, total NaNs: 6
+NaN encountered at step 149, total NaNs: 7
+NaN encountered at step 150, total NaNs: 8
+NaN encountered at step 151, total NaNs: 9
+NaN encountered at step 152, total NaNs: 10
+NaN encountered at step 155, total NaNs: 11
+NaN encountered at step 156, total NaNs: 12
+NaN encountered at step 158, total NaNs: 13
+NaN encountered at step 159, total NaNs: 14
+NaN encountered at step 161, total NaNs: 15
+19578528
+0 - {'mse': tensor(0.1886, device='cuda:0'), 'mae': tensor(0.2529, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results_timer_xl/512_96/weather/final_metrics/
+=== Running lam=0.05, num_closest_samples=14, weight=0.0 ===
+Loaded pred cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/weather/timerxl/pred_cache.pt
+Loaded gt cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/weather/timerxl/gt_cache.pt
+Caches ready.
+NaN encountered at step 143, total NaNs: 1
+NaN encountered at step 144, total NaNs: 2
+NaN encountered at step 145, total NaNs: 3
+NaN encountered at step 146, total NaNs: 4
+NaN encountered at step 147, total NaNs: 5
+NaN encountered at step 148, total NaNs: 6
+NaN encountered at step 149, total NaNs: 7
+NaN encountered at step 150, total NaNs: 8
+NaN encountered at step 151, total NaNs: 9
+NaN encountered at step 152, total NaNs: 10
+NaN encountered at step 155, total NaNs: 11
+NaN encountered at step 156, total NaNs: 12
+NaN encountered at step 158, total NaNs: 13
+NaN encountered at step 159, total NaNs: 14
+NaN encountered at step 161, total NaNs: 15
+19578528
+0 - {'mse': tensor(0.1892, device='cuda:0'), 'mae': tensor(0.2537, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results_timer_xl/512_96/weather/final_metrics/
+=== Running lam=0.05, num_closest_samples=15, weight=0.0 ===
+Loaded pred cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/weather/timerxl/pred_cache.pt
+Loaded gt cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/weather/timerxl/gt_cache.pt
+Caches ready.
+NaN encountered at step 143, total NaNs: 1
+NaN encountered at step 144, total NaNs: 2
+NaN encountered at step 145, total NaNs: 3
+NaN encountered at step 146, total NaNs: 4
+NaN encountered at step 147, total NaNs: 5
+NaN encountered at step 148, total NaNs: 6
+NaN encountered at step 149, total NaNs: 7
+NaN encountered at step 150, total NaNs: 8
+NaN encountered at step 151, total NaNs: 9
+NaN encountered at step 152, total NaNs: 10
+NaN encountered at step 155, total NaNs: 11
+NaN encountered at step 156, total NaNs: 12
+NaN encountered at step 158, total NaNs: 13
+NaN encountered at step 159, total NaNs: 14
+NaN encountered at step 161, total NaNs: 15
+19578528
+0 - {'mse': tensor(0.1885, device='cuda:0'), 'mae': tensor(0.2531, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results_timer_xl/512_96/weather/final_metrics/
+=== Running lam=0.05, num_closest_samples=16, weight=0.0 ===
+Loaded pred cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/weather/timerxl/pred_cache.pt
+Loaded gt cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/weather/timerxl/gt_cache.pt
+Caches ready.
+NaN encountered at step 143, total NaNs: 1
+NaN encountered at step 144, total NaNs: 2
+NaN encountered at step 145, total NaNs: 3
+NaN encountered at step 146, total NaNs: 4
+NaN encountered at step 147, total NaNs: 5
+NaN encountered at step 148, total NaNs: 6
+NaN encountered at step 149, total NaNs: 7
+NaN encountered at step 150, total NaNs: 8
+NaN encountered at step 151, total NaNs: 9
+NaN encountered at step 152, total NaNs: 10
+NaN encountered at step 155, total NaNs: 11
+NaN encountered at step 156, total NaNs: 12
+NaN encountered at step 158, total NaNs: 13
+NaN encountered at step 159, total NaNs: 14
+NaN encountered at step 160, total NaNs: 15
+NaN encountered at step 161, total NaNs: 16
+NaN encountered at step 163, total NaNs: 17
+19381920
+0 - {'mse': tensor(0.1804, device='cuda:0'), 'mae': tensor(0.2514, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results_timer_xl/512_96/weather/final_metrics/
+=== Running lam=0.1, num_closest_samples=1, weight=0.0 ===
+Loaded pred cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/weather/timerxl/pred_cache.pt
+Loaded gt cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/weather/timerxl/gt_cache.pt
+Caches ready.
+NaN encountered at step 144, total NaNs: 1
+NaN encountered at step 145, total NaNs: 2
+NaN encountered at step 146, total NaNs: 3
+NaN encountered at step 147, total NaNs: 4
+NaN encountered at step 148, total NaNs: 5
+NaN encountered at step 149, total NaNs: 6
+NaN encountered at step 150, total NaNs: 7
+NaN encountered at step 151, total NaNs: 8
+NaN encountered at step 152, total NaNs: 9
+NaN encountered at step 155, total NaNs: 10
+NaN encountered at step 156, total NaNs: 11
+NaN encountered at step 158, total NaNs: 12
+NaN encountered at step 159, total NaNs: 13
+NaN encountered at step 161, total NaNs: 14
+19676832
+0 - {'mse': tensor(0.2191, device='cuda:0'), 'mae': tensor(0.2837, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results_timer_xl/512_96/weather/final_metrics/
+=== Running lam=0.1, num_closest_samples=2, weight=0.0 ===
+Loaded pred cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/weather/timerxl/pred_cache.pt
+Loaded gt cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/weather/timerxl/gt_cache.pt
+Caches ready.
+NaN encountered at step 144, total NaNs: 1
+NaN encountered at step 145, total NaNs: 2
+NaN encountered at step 146, total NaNs: 3
+NaN encountered at step 147, total NaNs: 4
+NaN encountered at step 148, total NaNs: 5
+NaN encountered at step 149, total NaNs: 6
+NaN encountered at step 150, total NaNs: 7
+NaN encountered at step 151, total NaNs: 8
+NaN encountered at step 152, total NaNs: 9
+NaN encountered at step 155, total NaNs: 10
+NaN encountered at step 156, total NaNs: 11
+NaN encountered at step 158, total NaNs: 12
+NaN encountered at step 159, total NaNs: 13
+NaN encountered at step 161, total NaNs: 14
+NaN encountered at step 163, total NaNs: 15
+19578528
+0 - {'mse': tensor(0.2243, device='cuda:0'), 'mae': tensor(0.2871, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results_timer_xl/512_96/weather/final_metrics/
+=== Running lam=0.1, num_closest_samples=3, weight=0.0 ===
+Loaded pred cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/weather/timerxl/pred_cache.pt
+Loaded gt cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/weather/timerxl/gt_cache.pt
+Caches ready.
+NaN encountered at step 143, total NaNs: 1
+NaN encountered at step 144, total NaNs: 2
+NaN encountered at step 145, total NaNs: 3
+NaN encountered at step 146, total NaNs: 4
+NaN encountered at step 147, total NaNs: 5
+NaN encountered at step 148, total NaNs: 6
+NaN encountered at step 149, total NaNs: 7
+NaN encountered at step 150, total NaNs: 8
+NaN encountered at step 151, total NaNs: 9
+NaN encountered at step 152, total NaNs: 10
+NaN encountered at step 155, total NaNs: 11
+NaN encountered at step 156, total NaNs: 12
+NaN encountered at step 158, total NaNs: 13
+NaN encountered at step 159, total NaNs: 14
+NaN encountered at step 161, total NaNs: 15
+19578528
+0 - {'mse': tensor(0.2211, device='cuda:0'), 'mae': tensor(0.2864, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results_timer_xl/512_96/weather/final_metrics/
+=== Running lam=0.1, num_closest_samples=4, weight=0.0 ===
+Loaded pred cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/weather/timerxl/pred_cache.pt
+Loaded gt cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/weather/timerxl/gt_cache.pt
+Caches ready.
+NaN encountered at step 144, total NaNs: 1
+NaN encountered at step 145, total NaNs: 2
+NaN encountered at step 146, total NaNs: 3
+NaN encountered at step 147, total NaNs: 4
+NaN encountered at step 148, total NaNs: 5
+NaN encountered at step 149, total NaNs: 6
+NaN encountered at step 150, total NaNs: 7
+NaN encountered at step 151, total NaNs: 8
+NaN encountered at step 152, total NaNs: 9
+NaN encountered at step 155, total NaNs: 10
+NaN encountered at step 156, total NaNs: 11
+NaN encountered at step 158, total NaNs: 12
+NaN encountered at step 159, total NaNs: 13
+NaN encountered at step 161, total NaNs: 14
+19676832
+0 - {'mse': tensor(0.2244, device='cuda:0'), 'mae': tensor(0.2890, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results_timer_xl/512_96/weather/final_metrics/
+=== Running lam=0.1, num_closest_samples=5, weight=0.0 ===
+Loaded pred cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/weather/timerxl/pred_cache.pt
+Loaded gt cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/weather/timerxl/gt_cache.pt
+Caches ready.
+NaN encountered at step 144, total NaNs: 1
+NaN encountered at step 145, total NaNs: 2
+NaN encountered at step 146, total NaNs: 3
+NaN encountered at step 147, total NaNs: 4
+NaN encountered at step 148, total NaNs: 5
+NaN encountered at step 149, total NaNs: 6
+NaN encountered at step 150, total NaNs: 7
+NaN encountered at step 151, total NaNs: 8
+NaN encountered at step 152, total NaNs: 9
+NaN encountered at step 155, total NaNs: 10
+NaN encountered at step 156, total NaNs: 11
+NaN encountered at step 158, total NaNs: 12
+NaN encountered at step 159, total NaNs: 13
+NaN encountered at step 161, total NaNs: 14
+19676832
+0 - {'mse': tensor(0.2203, device='cuda:0'), 'mae': tensor(0.2868, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results_timer_xl/512_96/weather/final_metrics/
+=== Running lam=0.1, num_closest_samples=6, weight=0.0 ===
+Loaded pred cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/weather/timerxl/pred_cache.pt
+Loaded gt cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/weather/timerxl/gt_cache.pt
+Caches ready.
+NaN encountered at step 144, total NaNs: 1
+NaN encountered at step 145, total NaNs: 2
+NaN encountered at step 146, total NaNs: 3
+NaN encountered at step 147, total NaNs: 4
+NaN encountered at step 148, total NaNs: 5
+NaN encountered at step 149, total NaNs: 6
+NaN encountered at step 150, total NaNs: 7
+NaN encountered at step 151, total NaNs: 8
+NaN encountered at step 152, total NaNs: 9
+NaN encountered at step 155, total NaNs: 10
+NaN encountered at step 156, total NaNs: 11
+NaN encountered at step 158, total NaNs: 12
+NaN encountered at step 159, total NaNs: 13
+NaN encountered at step 161, total NaNs: 14
+19676832
+0 - {'mse': tensor(0.2161, device='cuda:0'), 'mae': tensor(0.2869, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results_timer_xl/512_96/weather/final_metrics/
+=== Running lam=0.1, num_closest_samples=7, weight=0.0 ===
+Loaded pred cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/weather/timerxl/pred_cache.pt
+Loaded gt cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/weather/timerxl/gt_cache.pt
+Caches ready.
+NaN encountered at step 143, total NaNs: 1
+NaN encountered at step 144, total NaNs: 2
+NaN encountered at step 145, total NaNs: 3
+NaN encountered at step 146, total NaNs: 4
+NaN encountered at step 147, total NaNs: 5
+NaN encountered at step 148, total NaNs: 6
+NaN encountered at step 149, total NaNs: 7
+NaN encountered at step 150, total NaNs: 8
+NaN encountered at step 151, total NaNs: 9
+NaN encountered at step 152, total NaNs: 10
+NaN encountered at step 155, total NaNs: 11
+NaN encountered at step 156, total NaNs: 12
+NaN encountered at step 158, total NaNs: 13
+NaN encountered at step 159, total NaNs: 14
+NaN encountered at step 161, total NaNs: 15
+NaN encountered at step 163, total NaNs: 16
+19480224
+0 - {'mse': tensor(0.2215, device='cuda:0'), 'mae': tensor(0.2859, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results_timer_xl/512_96/weather/final_metrics/
+=== Running lam=0.1, num_closest_samples=8, weight=0.0 ===
+Loaded pred cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/weather/timerxl/pred_cache.pt
+Loaded gt cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/weather/timerxl/gt_cache.pt
+Caches ready.
+NaN encountered at step 144, total NaNs: 1
+NaN encountered at step 145, total NaNs: 2
+NaN encountered at step 146, total NaNs: 3
+NaN encountered at step 147, total NaNs: 4
+NaN encountered at step 148, total NaNs: 5
+NaN encountered at step 149, total NaNs: 6
+NaN encountered at step 150, total NaNs: 7
+NaN encountered at step 151, total NaNs: 8
+NaN encountered at step 152, total NaNs: 9
+NaN encountered at step 155, total NaNs: 10
+NaN encountered at step 156, total NaNs: 11
+NaN encountered at step 157, total NaNs: 12
+NaN encountered at step 158, total NaNs: 13
+NaN encountered at step 159, total NaNs: 14
+NaN encountered at step 161, total NaNs: 15
+NaN encountered at step 162, total NaNs: 16
+19480224
+0 - {'mse': tensor(0.2044, device='cuda:0'), 'mae': tensor(0.2822, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results_timer_xl/512_96/weather/final_metrics/
+=== Running lam=0.1, num_closest_samples=9, weight=0.0 ===
+Loaded pred cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/weather/timerxl/pred_cache.pt
+Loaded gt cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/weather/timerxl/gt_cache.pt
+Caches ready.
+NaN encountered at step 143, total NaNs: 1
+NaN encountered at step 144, total NaNs: 2
+NaN encountered at step 145, total NaNs: 3
+NaN encountered at step 146, total NaNs: 4
+NaN encountered at step 147, total NaNs: 5
+NaN encountered at step 148, total NaNs: 6
+NaN encountered at step 149, total NaNs: 7
+NaN encountered at step 150, total NaNs: 8
+NaN encountered at step 151, total NaNs: 9
+NaN encountered at step 152, total NaNs: 10
+NaN encountered at step 155, total NaNs: 11
+NaN encountered at step 156, total NaNs: 12
+NaN encountered at step 158, total NaNs: 13
+NaN encountered at step 159, total NaNs: 14
+NaN encountered at step 161, total NaNs: 15
+19578528
+0 - {'mse': tensor(0.2179, device='cuda:0'), 'mae': tensor(0.2843, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results_timer_xl/512_96/weather/final_metrics/
+=== Running lam=0.1, num_closest_samples=10, weight=0.0 ===
+Loaded pred cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/weather/timerxl/pred_cache.pt
+Loaded gt cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/weather/timerxl/gt_cache.pt
+Caches ready.
+NaN encountered at step 144, total NaNs: 1
+NaN encountered at step 145, total NaNs: 2
+NaN encountered at step 146, total NaNs: 3
+NaN encountered at step 147, total NaNs: 4
+NaN encountered at step 148, total NaNs: 5
+NaN encountered at step 149, total NaNs: 6
+NaN encountered at step 150, total NaNs: 7
+NaN encountered at step 151, total NaNs: 8
+NaN encountered at step 152, total NaNs: 9
+NaN encountered at step 155, total NaNs: 10
+NaN encountered at step 156, total NaNs: 11
+NaN encountered at step 158, total NaNs: 12
+NaN encountered at step 159, total NaNs: 13
+NaN encountered at step 161, total NaNs: 14
+19676832
+0 - {'mse': tensor(0.2170, device='cuda:0'), 'mae': tensor(0.2819, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results_timer_xl/512_96/weather/final_metrics/
+=== Running lam=0.1, num_closest_samples=11, weight=0.0 ===
+Loaded pred cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/weather/timerxl/pred_cache.pt
+Loaded gt cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/weather/timerxl/gt_cache.pt
+Caches ready.
+NaN encountered at step 143, total NaNs: 1
+NaN encountered at step 144, total NaNs: 2
+NaN encountered at step 145, total NaNs: 3
+NaN encountered at step 146, total NaNs: 4
+NaN encountered at step 147, total NaNs: 5
+NaN encountered at step 148, total NaNs: 6
+NaN encountered at step 149, total NaNs: 7
+NaN encountered at step 150, total NaNs: 8
+NaN encountered at step 151, total NaNs: 9
+NaN encountered at step 152, total NaNs: 10
+NaN encountered at step 155, total NaNs: 11
+NaN encountered at step 156, total NaNs: 12
+NaN encountered at step 158, total NaNs: 13
+NaN encountered at step 159, total NaNs: 14
+NaN encountered at step 161, total NaNs: 15
+NaN encountered at step 163, total NaNs: 16
+19480224
+0 - {'mse': tensor(0.2194, device='cuda:0'), 'mae': tensor(0.2848, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results_timer_xl/512_96/weather/final_metrics/
+=== Running lam=0.1, num_closest_samples=12, weight=0.0 ===
+Loaded pred cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/weather/timerxl/pred_cache.pt
+Loaded gt cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/weather/timerxl/gt_cache.pt
+Caches ready.
+NaN encountered at step 144, total NaNs: 1
+NaN encountered at step 145, total NaNs: 2
+NaN encountered at step 146, total NaNs: 3
+NaN encountered at step 147, total NaNs: 4
+NaN encountered at step 148, total NaNs: 5
+NaN encountered at step 149, total NaNs: 6
+NaN encountered at step 150, total NaNs: 7
+NaN encountered at step 151, total NaNs: 8
+NaN encountered at step 152, total NaNs: 9
+NaN encountered at step 155, total NaNs: 10
+NaN encountered at step 156, total NaNs: 11
+NaN encountered at step 158, total NaNs: 12
+NaN encountered at step 159, total NaNs: 13
+NaN encountered at step 161, total NaNs: 14
+19676832
+0 - {'mse': tensor(0.2214, device='cuda:0'), 'mae': tensor(0.2865, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results_timer_xl/512_96/weather/final_metrics/
+=== Running lam=0.1, num_closest_samples=13, weight=0.0 ===
+Loaded pred cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/weather/timerxl/pred_cache.pt
+Loaded gt cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/weather/timerxl/gt_cache.pt
+Caches ready.
+NaN encountered at step 144, total NaNs: 1
+NaN encountered at step 145, total NaNs: 2
+NaN encountered at step 146, total NaNs: 3
+NaN encountered at step 147, total NaNs: 4
+NaN encountered at step 148, total NaNs: 5
+NaN encountered at step 149, total NaNs: 6
+NaN encountered at step 150, total NaNs: 7
+NaN encountered at step 151, total NaNs: 8
+NaN encountered at step 152, total NaNs: 9
+NaN encountered at step 155, total NaNs: 10
+NaN encountered at step 156, total NaNs: 11
+NaN encountered at step 158, total NaNs: 12
+NaN encountered at step 159, total NaNs: 13
+NaN encountered at step 161, total NaNs: 14
+NaN encountered at step 163, total NaNs: 15
+19578528
+0 - {'mse': tensor(0.2156, device='cuda:0'), 'mae': tensor(0.2820, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results_timer_xl/512_96/weather/final_metrics/
+=== Running lam=0.1, num_closest_samples=14, weight=0.0 ===
+Loaded pred cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/weather/timerxl/pred_cache.pt
+Loaded gt cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/weather/timerxl/gt_cache.pt
+Caches ready.
+NaN encountered at step 144, total NaNs: 1
+NaN encountered at step 145, total NaNs: 2
+NaN encountered at step 146, total NaNs: 3
+NaN encountered at step 147, total NaNs: 4
+NaN encountered at step 148, total NaNs: 5
+NaN encountered at step 149, total NaNs: 6
+NaN encountered at step 150, total NaNs: 7
+NaN encountered at step 151, total NaNs: 8
+NaN encountered at step 152, total NaNs: 9
+NaN encountered at step 155, total NaNs: 10
+NaN encountered at step 156, total NaNs: 11
+NaN encountered at step 158, total NaNs: 12
+NaN encountered at step 159, total NaNs: 13
+NaN encountered at step 161, total NaNs: 14
+19676832
+0 - {'mse': tensor(0.2212, device='cuda:0'), 'mae': tensor(0.2862, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results_timer_xl/512_96/weather/final_metrics/
+=== Running lam=0.1, num_closest_samples=15, weight=0.0 ===
+Loaded pred cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/weather/timerxl/pred_cache.pt
+Loaded gt cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/weather/timerxl/gt_cache.pt
+Caches ready.
+NaN encountered at step 144, total NaNs: 1
+NaN encountered at step 145, total NaNs: 2
+NaN encountered at step 146, total NaNs: 3
+NaN encountered at step 147, total NaNs: 4
+NaN encountered at step 148, total NaNs: 5
+NaN encountered at step 149, total NaNs: 6
+NaN encountered at step 150, total NaNs: 7
+NaN encountered at step 151, total NaNs: 8
+NaN encountered at step 152, total NaNs: 9
+NaN encountered at step 155, total NaNs: 10
+NaN encountered at step 156, total NaNs: 11
+NaN encountered at step 158, total NaNs: 12
+NaN encountered at step 159, total NaNs: 13
+NaN encountered at step 160, total NaNs: 14
+NaN encountered at step 161, total NaNs: 15
+19578528
+0 - {'mse': tensor(0.2090, device='cuda:0'), 'mae': tensor(0.2832, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results_timer_xl/512_96/weather/final_metrics/
+=== Running lam=0.1, num_closest_samples=16, weight=0.0 ===
+Loaded pred cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/weather/timerxl/pred_cache.pt
+Loaded gt cache: /scratch/s223540177/Time-Moe/timerxl/cache_data_finetuned_fixed_timerxl/weather/timerxl/gt_cache.pt
+Caches ready.
+NaN encountered at step 144, total NaNs: 1
+NaN encountered at step 145, total NaNs: 2
+NaN encountered at step 146, total NaNs: 3
+NaN encountered at step 147, total NaNs: 4
+NaN encountered at step 148, total NaNs: 5
+NaN encountered at step 149, total NaNs: 6
+NaN encountered at step 150, total NaNs: 7
+NaN encountered at step 151, total NaNs: 8
+NaN encountered at step 152, total NaNs: 9
+NaN encountered at step 155, total NaNs: 10
+NaN encountered at step 156, total NaNs: 11
+NaN encountered at step 158, total NaNs: 12
+NaN encountered at step 159, total NaNs: 13
+NaN encountered at step 161, total NaNs: 14
+19676832
+0 - {'mse': tensor(0.2201, device='cuda:0'), 'mae': tensor(0.2866, device='cuda:0')}
+Saved final metrics to /home/s223540177/Time-MoE/metric_results_timer_xl/512_96/weather/final_metrics/

@@ -1,0 +1,10 @@
+>>> Model dtype: torch.float32; Attention:eager
+Saved Pred to /scratch/s223540177/Time-Moe/cache_data_100/ETTh1/pred_cache.pt
+Saved gt to /scratch/s223540177/Time-Moe/cache_data_100/ETTh1/gt_cache.pt
+SORTED DONE
+2025-10-28 21:04:01,984 - log_util.py[pid:3724654;line:52:log_in_local_rank_0] - INFO: >>> Split test data from 2017-10-02 16:00:00 to 2018-02-20 23:00:00, and evaluation start date is: 2017-10-24 00:00:00
+1870848
+0 - {'mse': tensor(0.3635, device='cuda:0'), 'mae': tensor(0.3875, device='cuda:0')}
+[1;34mwandb[0m: 
+[1;34mwandb[0m: 🚀 View run [33mautumn-leaf-519[0m at: [34m[0m
+[1;34mwandb[0m: Find logs at: [1;35mwandb/run-20251028_210359-6mih7tou/logs[0m

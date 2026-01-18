@@ -1,0 +1,7 @@
+  0%|          | 0/19488 [00:00<?, ?it/s]  0%|          | 0/19488 [00:01<?, ?it/s]
+Traceback (most recent call last):
+  File "/home/s223540177/Time-MoE/run_eval_steering_finetuned.py", line 601, in <module>
+    evaluate(args)
+  File "/home/s223540177/Time-MoE/run_eval_steering_finetuned.py", line 466, in evaluate
+    raise ValueError("Only euclidean retrieval is supported for now.")
+ValueError: Only euclidean retrieval is supported for now.

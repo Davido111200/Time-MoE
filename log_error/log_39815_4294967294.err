@@ -1,0 +1,8 @@
+wandb: Currently logged in as: daidv to https://api.wandb.ai. Use `wandb login --relogin` to force relogin
+wandb: Tracking run with wandb version 0.21.4
+wandb: Run data is saved locally in /home/s223540177/Time-MoE/wandb/run-20251021_222508-ixow54bw
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run treasured-microwave-66
+wandb: ⭐️ View project at https://wandb.ai/daidv/Time-MoE-Eval
+wandb: 🚀 View run at https://wandb.ai/daidv/Time-MoE-Eval/runs/ixow54bw
+  0%|          | 0/19488 [00:00<?, ?it/s]  0%|          | 1/19488 [00:01<8:38:07,  1.60s/it]  0%|          | 2/19488 [00:01<4:27:32,  1.21it/s]  0%|          | 3/19488 [00:02<3:07:11,  1.73it/s]  0%|          | 4/19488 [00:02<2:29:34,  2.17it/s]  0%|          | 5/19488 [00:02<2:09:35,  2.51it/s]  0%|          | 6/19488 [00:03<1:56:32,  2.79it/s]  0%|          | 7/19488 [00:03<1:48:14,  3.00it/s]  0%|          | 8/19488 [00:03<1:42:29,  3.17it/s]  0%|          | 9/19488 [00:03<1:40:03,  3.24it/s]  0%|          | 10/19488 [00:04<1:39:00,  3.28it/s]  0%|          | 10/19488 [00:04<2:27:04,  2.21it/s]

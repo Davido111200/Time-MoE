@@ -1,0 +1,10 @@
+Traceback (most recent call last):
+  File "/home/s223540177/Time-MoE/run_eval_steering.py", line 391, in <module>
+    evaluate(args)
+  File "/home/s223540177/Time-MoE/run_eval_steering.py", line 197, in evaluate
+    train_data, train_loader = get_data(args, flag='train')
+  File "/home/s223540177/Time-MoE/run_eval_steering.py", line 27, in get_data
+    data_set, data_loader = data_provider(args, flag)
+  File "/home/s223540177/Time-MoE/data_provider/data_factory.py", line 23, in data_provider
+    Data = data_dict[args.data]
+KeyError: 'weather'

@@ -1,0 +1,13 @@
+DATA: weather
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+LOADDEDEDED
+SORTED DONE
+2025-10-24 01:11:15,783 - log_util.py[pid:461734;line:52:log_in_local_rank_0] - INFO: >>> Split test data from 2020-10-16 06:20:00 to 2021-01-01 00:00:00, and evaluation start date is: 2020-10-19 19:40:00
+Test dl: <torch.utils.data.dataloader.DataLoader object at 0x7fb9daf0bd00>
+Len test dl: 219303
+21053088
+0 - {'mse': tensor(0.1384, device='cuda:0'), 'mae': tensor(0.1877, device='cuda:0')}
+[1;34mwandb[0m: 
+[1;34mwandb[0m: 🚀 View run [33mvocal-microwave-351[0m at: [34m[0m
+[1;34mwandb[0m: Find logs at: [1;35mwandb/run-20251024_010933-ejwrouhu/logs[0m

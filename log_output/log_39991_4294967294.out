@@ -1,0 +1,11 @@
+DATA: exchange_rate
+>>> Model dtype: torch.float32; Attention:eager
+Saved Pred to /scratch/s223540177/Time-Moe/cache_data_finetuned_fixed/exchange_rate/pred_cache.pt
+Saved gt to /scratch/s223540177/Time-Moe/cache_data_finetuned_fixed/exchange_rate/gt_cache.pt
+SORTED DONE
+2025-10-22 20:36:20,296 - log_util.py[pid:545533;line:52:log_in_local_rank_0] - INFO: >>> Split test data from 2005/3/22 0:00 to 2010/10/10 0:00, and evaluation start date is: 2006/8/16 0:00
+1091328
+0 - {'mse': tensor(0.1130, device='cuda:0'), 'mae': tensor(0.2410, device='cuda:0')}
+[1;34mwandb[0m: 
+[1;34mwandb[0m: 🚀 View run [33msweet-microwave-136[0m at: [34m[0m
+[1;34mwandb[0m: Find logs at: [1;35mwandb/run-20251022_192541-wltdo89k/logs[0m

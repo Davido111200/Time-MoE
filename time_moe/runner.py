@@ -14,6 +14,7 @@ from time_moe.utils.dist_util import get_world_size
 from time_moe.utils.log_util import logger, log_in_local_rank_0
 
 
+
 class TimeMoeRunner:
     def __init__(
             self,
@@ -178,6 +179,7 @@ class TimeMoeRunner:
         log_in_local_rank_0(model.config)
         log_in_local_rank_0(f'Number of the model parameters: {length_to_str(num_total_params)}')
 
+        
         if train_steps > 0:
             total_train_tokens = train_steps * global_batch_size * train_config['max_length']
             log_in_local_rank_0(f'Tokens will consume: {length_to_str(total_train_tokens)}')
@@ -189,6 +191,7 @@ class TimeMoeRunner:
             stride=train_config["stride"],
             normalization_method=train_config["normalization_method"],
         )
+
         trainer = TimeMoeTrainer(
             model=model,
             args=training_args,

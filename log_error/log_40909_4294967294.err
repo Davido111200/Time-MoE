@@ -1,0 +1,14 @@
+wandb: Currently logged in as: daidv to https://api.wandb.ai. Use `wandb login --relogin` to force relogin
+wandb: creating run
+wandb: Tracking run with wandb version 0.21.4
+wandb: Run data is saved locally in /home/s223540177/Time-MoE/wandb/run-20251028_224308-oe9dqvcr
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run chocolate-forest-548
+wandb: ⭐️ View project at https://wandb.ai/daidv/Time-MoE-Eval
+wandb: 🚀 View run at https://wandb.ai/daidv/Time-MoE-Eval/runs/oe9dqvcr
+Traceback (most recent call last):
+  File "/home/s223540177/Time-MoE/run_eval_steering_finetuned_dtf_fullsteer_unified_interpolate.py", line 573, in <module>
+    evaluate(args)
+  File "/home/s223540177/Time-MoE/run_eval_steering_finetuned_dtf_fullsteer_unified_interpolate.py", line 255, in evaluate
+    max_train_samples=max_train_samples
+NameError: name 'max_train_samples' is not defined

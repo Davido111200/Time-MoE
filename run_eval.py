@@ -9,10 +9,15 @@ import torch
 import torch.distributed as dist
 from torch.utils.data import DistributedSampler, DataLoader
 from tqdm import tqdm
+import wandb
 
 from transformers import AutoModelForCausalLM
 
 from time_moe.datasets.benchmark_dataset import BenchmarkEvalDataset, GeneralEvalDataset
+
+
+wandb.init(project='Time-MoE-Eval')
+logging.basicConfig(level=logging.INFO)
 
 
 def setup_nccl(rank, world_size, master_addr='127.0.0.1', master_port=9899):
@@ -51,7 +56,7 @@ class MAEMetric(SumEvalMetric):
 
 
 class TimeMoE:
-    def __init__(self, model_path, device, context_length, prediction_length, **kwargs):
+    def __init__(self, model_path, device, seq_len, pred_len, **kwargs):
         try:
             from time_moe.models.modeling_time_moe import TimeMoeForPrediction
             model = TimeMoeForPrediction.from_pretrained(
@@ -73,19 +78,19 @@ class TimeMoE:
 
         self.model = model
         self.device = device
-        self.prediction_length = prediction_length
+        self.pred_len = pred_len
         self.model.eval()
 
     def predict(self, batch):
         model = self.model
         device = self.device
-        prediction_length = self.prediction_length
-
+        pred_len = self.pred_len
+        
         outputs = model.generate(
             inputs=batch['inputs'].to(device).to(model.dtype),
-            max_new_tokens=prediction_length,
+            max_new_tokens=pred_len,
         )
-        preds = outputs[:, -prediction_length:]
+        preds = outputs[:, -pred_len:]
         labels = batch['labels'].to(device)
         if len(preds.shape) > len(labels.shape):
             labels = labels[..., None]
@@ -94,8 +99,10 @@ class TimeMoE:
 
 def evaluate(args):
     batch_size = args.batch_size
-    context_length = args.context_length
-    prediction_length = args.prediction_length
+    seq_len = args.seq_len
+    pred_len = args.pred_len
+
+    output_log = f"/home/s223540177/Time-MoE/results/{args.data}.txt"
 
     master_addr = os.getenv('MASTER_ADDR', '127.0.0.1')
     master_port = os.getenv('MASTER_PORT', 9899)
@@ -124,20 +131,20 @@ def evaluate(args):
     model = TimeMoE(
         args.model,
         device,
-        context_length=context_length,
-        prediction_length=prediction_length
+        seq_len=seq_len,
+        pred_len=pred_len
     )
-    if args.data.endswith('.csv'):
+    if args.data_path.endswith('.csv'):
         dataset = BenchmarkEvalDataset(
-            args.data,
-            context_length=context_length,
-            prediction_length=prediction_length,
+            args.data_path,
+            seq_len=seq_len,
+            pred_len=pred_len,
         )
     else:
         dataset = GeneralEvalDataset(
-            args.data,
-            context_length=context_length,
-            prediction_length=prediction_length,
+            args.data_path,
+            seq_len=seq_len,
+            pred_len=pred_len,
         )
 
     if torch.cuda.is_available() and dist.is_initialized():
@@ -153,16 +160,33 @@ def evaluate(args):
         prefetch_factor=2,
         drop_last=False,
     )
-
     acc_count = 0
     with torch.no_grad():
         for idx, batch in enumerate(tqdm(test_dl)):
             preds, labels = model.predict(batch)
+            mse_base_step = torch.mean((preds - labels) ** 2).item()
 
             for metric in metric_list:
                 metric.push(preds, labels)
 
             acc_count += count_num_tensor_elements(preds)
+            
+            ret_metric = {}
+            for metric in metric_list:
+                ret_metric[metric.name] = metric.value / acc_count
+
+            # write intermediate results to output_log
+            with open(output_log, 'a') as f:
+                f.write(json.dumps({'step': idx, 'mse': mse_base_step}) + '\n')
+
+            # print(f'{rank} - {idx} - {ret_metric}')
+
+            # log ret_metric to wandb
+            wandb.log({f'eval/{metric.name}': ret_metric[metric.name] for metric in metric_list}, step=idx)
+
+            # if idx == 2:
+            #     quit()
+
 
     ret_metric = {}
     for metric in metric_list:
@@ -182,8 +206,8 @@ def evaluate(args):
         item = {
             'model': args.model,
             'data': args.data,
-            'context_length': args.context_length,
-            'prediction_length': args.prediction_length,
+            'seq_len': args.seq_len,
+            'pred_len': args.pred_len,
         }
 
         count = all_stat[-1]
@@ -202,38 +226,57 @@ if __name__ == '__main__':
         help='Model path'
     )
     parser.add_argument(
-        '--data', '-d',
+        '--data_path', '-d',
         type=str,
         help='Benchmark data path'
+    )
+    parser.add_argument(
+        '--data',
+        type=str,
+        required=True
     )
 
     parser.add_argument(
         '--batch_size', '-b',
         type=int,
-        default=32,
+        default=1,
         help='Batch size of evaluation'
     )
     parser.add_argument(
-        '--context_length', '-c',
+        '--seq_len', '-c',
         type=int,
         help='Context length'
     )
     parser.add_argument(
-        '--prediction_length', '-p',
+        '--pred_len', '-p',
         type=int,
         default=96,
         help='Prediction length'
     )
     args = parser.parse_args()
-    if args.context_length is None:
-        if args.prediction_length == 96:
-            args.context_length = 512
-        elif args.prediction_length == 192:
-            args.context_length = 1024
-        elif args.prediction_length == 336:
-            args.context_length = 2048
-        elif args.prediction_length == 720:
-            args.context_length = 3072
+    # if args.seq_len is None:
+    #     if args.pred_len == 96:
+    #         args.seq_len = 512
+    #     elif args.pred_len == 192:
+    #         args.seq_len = 512
+    #     elif args.pred_len == 336:
+    #         args.seq_len = 512
+    #     elif args.pred_len == 720:
+    #         args.seq_len = 3072
+    #     else:
+    #         args.seq_len = args.pred_len * 4
+
+    if args.seq_len is None:
+        if args.pred_len == 96:
+            args.seq_len = 512
+        elif args.pred_len == 192:
+            args.seq_len = 512
+        elif args.pred_len == 336:
+            args.seq_len = 512
+        elif args.pred_len == 720:
+            args.seq_len = 512
         else:
-            args.context_length = args.prediction_length * 4
+            # args.seq_len = args.pred_len * 4
+            args.seq_len = 96
+
     evaluate(args)

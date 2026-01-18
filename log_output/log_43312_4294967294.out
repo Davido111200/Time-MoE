@@ -1,0 +1,5 @@
+2025-11-16 03:44:03,413 - log_util.py[pid:3509751;line:52:log_in_local_rank_0] - INFO: >>> Split test data from 2017-10-02 16:00:00 to 2018-02-20 23:00:00, and evaluation start date is: 2017-10-24 00:00:00
+0 - {'mse': tensor(0.3526, device='cuda:0'), 'mae': tensor(0.3793, device='cuda:0')}
+[1;34mwandb[0m: 
+[1;34mwandb[0m: 🚀 View run [33mfaithful-vortex-796[0m at: [34m[0m
+[1;34mwandb[0m: Find logs at: [1;35mwandb/run-20251116_034359-m3fp8zb1/logs[0m

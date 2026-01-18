@@ -1,0 +1,14 @@
+wandb: Currently logged in as: daidv to https://api.wandb.ai. Use `wandb login --relogin` to force relogin
+wandb: creating run
+wandb: Tracking run with wandb version 0.21.4
+wandb: Run data is saved locally in /home/s223540177/Time-MoE/wandb/run-20251125_140150-grn0xfvv
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run jolly-bird-3791
+wandb: ⭐️ View project at https://wandb.ai/daidv/Time-MoE-Eval
+wandb: 🚀 View run at https://wandb.ai/daidv/Time-MoE-Eval/runs/grn0xfvv
+INFO:root:>>> Model dtype: torch.float32; Attention:eager
+/scratch/s223540177/.conda/envs/timemoe/lib/python3.10/site-packages/torch/utils/data/dataloader.py:627: UserWarning: This DataLoader will create 2 worker processes in total. Our suggested max number of worker in current system is 1, which is smaller than what this DataLoader is going to create. Please be aware that excessive worker creation might get DataLoader running slow or even freeze, lower the worker number to avoid potential slowness/freeze if necessary.
+  warnings.warn(
+  0%|          | 0/5 [00:00<?, ?it/s] 20%|██        | 1/5 [00:14<00:57, 14.35s/it] 40%|████      | 2/5 [00:27<00:40, 13.51s/it] 60%|██████    | 3/5 [00:40<00:26, 13.24s/it] 80%|████████  | 4/5 [00:53<00:13, 13.11s/it]100%|██████████| 5/5 [01:00<00:00, 10.97s/it]100%|██████████| 5/5 [01:00<00:00, 12.07s/it]
+INFO:root:{'model': '/scratch/s223540177/Time-MoE/checkpoints/50M_saugeenday', 'data': 'saugeenday', 'seq_len': 512, 'pred_len': 96, 'mse': 0.9739076495170593, 'mae': 0.5673383474349976}
+[rank0]:[W1125 14:03:06.502752033 ProcessGroupNCCL.cpp:1538] Warning: WARNING: destroy_process_group() was not called before program exit, which can leak resources. For more info, please see https://pytorch.org/docs/stable/distributed.html#shutdown (function operator())

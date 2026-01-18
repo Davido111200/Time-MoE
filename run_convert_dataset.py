@@ -22,9 +22,9 @@ dir_map = {
 for k, v in dir_map.items():
     dir_map[k] = os.path.join(data_dir, v)
 
-dataset = 'ETTh2'
+dataset = 'illness'
 in_path = dir_map[dataset]
-out_path = in_path[:-4] + '100.jsonl'
+out_path = in_path[:-4] + '.jsonl'
 
 if dataset == 'ETTh1' or dataset == 'ETTh2':
     border1s = [0, 12 * 30 * 24, 12 * 30 * 24 + 4 * 30 * 24]
@@ -39,7 +39,6 @@ else:
 # in_path  = "/scratch/s223540177/Time-Series-Library/data/all_datasets/illness/national_illness.csv"
 # out_path = "/scratch/s223540177/Time-Series-Library/data/all_datasets/illness/national_illness.jsonl"
 
-# if 
 
 # Read CSV
 df = pd.read_csv(in_path)
@@ -67,8 +66,6 @@ with open(out_path, "w") as f:
         # only take half of seq for training
         # half_len = len(seq) // 2
 
-        # take 100 examples only
-        seq = seq[-100:]
         rec = {"sequence": seq}
         f.write(json.dumps(rec) + "\n")
 

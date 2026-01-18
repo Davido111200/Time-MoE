@@ -9,14 +9,31 @@ data_dir = "/scratch/s223540177/Time-Series-Library/data/all_datasets/"
 # data_dir = "/scratch/s225250685/project/ICL-time-series/Time-MoE/data/all_datasets"
 dir_map = {
     'solar': 'solar_10_minutes_dataset.tsf',
+    'm4_yearly': 'm4_yearly_dataset.tsf',
+    'tourism_monthly': 'tourism_monthly_dataset.tsf',
+    'tourism_yearly': 'tourism_yearly_dataset.tsf',
+    'tourism_quarterly': 'tourism_quarterly_dataset.tsf',
+    'us_births': 'us_births_dataset.tsf',
+    'hospital': 'hospital_dataset.tsf',
+    'rideshare': 'rideshare_dataset_without_missing_values.tsf',
+    'nn5': 'nn5_daily_dataset_without_missing_values.tsf',
+    'pedestrian': 'pedestrian_counts_dataset.tsf',
+    'temperature': 'temperature_rain_dataset_without_missing_values.tsf',
+    'fredmd': 'fred_md_dataset.tsf',
+    'saugeenday': 'saugeenday_dataset.tsf',
+    'sunspots': 'sunspot_dataset_without_missing_values.tsf',
+    'bitcoin': 'bitcoin_dataset_without_missing_values.tsf',
+    'kdd': 'kdd_cup_2018_dataset_without_missing_values.tsf',
+    'vehicle': 'vehicle_trips_dataset_without_missing_values.tsf',
+    'm1_monthly': 'm1_monthly_dataset.tsf',
+
 }
 
 for k, v in dir_map.items():
     dir_map[k] = os.path.join(data_dir, v)
 
 
-
-dataset = 'solar'
+dataset = 'tourism_quarterly'  # change dataset here
 in_path = dir_map[dataset]
 out_path = in_path[:-4] + '.jsonl'
 
@@ -202,4 +219,48 @@ with open(out_path, "w") as f:
 
 print(f"Wrote {len(loaded_data)} lines to {out_path}")
 
-    
+
+value_column_name = "series_value"
+
+# Map TSF frequency string to a pandas offset alias
+freq_map = {
+    "yearly": "Y",
+    "quarterly": "Q",
+    "monthly": "M",
+    "weekly": "W",
+    "daily": "D",
+    "hourly": "H",
+}
+pd_freq = freq_map.get(str(frequency).lower(), "D")  # default to daily
+
+wide_frames = []
+
+for _, row in loaded_data.iterrows():
+    series_name = row["series_name"]          # e.g. T1, T2, or whatever is in the TSF
+    start = row["start_timestamp"]
+    series = list(row[value_column_name])
+
+    # Replace "NaN" placeholder with real NaN so CSV looks clean
+    clean_series = [float(x) if x != "NaN" else float("nan") for x in series]
+
+    # Build date index for this series
+    dates = pd.date_range(start=start, periods=len(clean_series), freq=pd_freq)
+
+    tmp = pd.DataFrame({
+        "date": dates,
+        series_name: clean_series,
+    })
+    wide_frames.append(tmp)
+
+# Merge all series on 'date'
+wide_df = wide_frames[0]
+for tmp in wide_frames[1:]:
+    wide_df = wide_df.merge(tmp, on="date", how="outer")
+
+# Sort and format date as "YYYY-MM-DD HH:MM:SS"
+wide_df = wide_df.sort_values("date").reset_index(drop=True)
+wide_df["date"] = wide_df["date"].dt.strftime("%Y-%m-%d %H:%M:%S")
+
+csv_out_path = in_path[:-4] + ".csv"
+wide_df.to_csv(csv_out_path, index=False)
+print(f"Wrote wide CSV to {csv_out_path}")

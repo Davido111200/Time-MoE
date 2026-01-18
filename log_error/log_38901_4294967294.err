@@ -1,0 +1,6 @@
+Traceback (most recent call last):
+  File "/home/s223540177/Time-MoE/run_eval_steering_finetuned_dtf.py", line 597, in <module>
+    evaluate(args)
+  File "/home/s223540177/Time-MoE/run_eval_steering_finetuned_dtf.py", line 304, in evaluate
+    if args.pool_number >= len(pred[i]):
+KeyError: 7

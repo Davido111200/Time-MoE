@@ -1,0 +1,15 @@
+wandb: Currently logged in as: daidv to https://api.wandb.ai. Use `wandb login --relogin` to force relogin
+wandb: creating run
+wandb: Tracking run with wandb version 0.21.4
+wandb: Run data is saved locally in /home/s223540177/Time-MoE/wandb/run-20251021_222611-jvcbogu2
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run spring-night-71
+wandb: ⭐️ View project at https://wandb.ai/daidv/Time-MoE-Eval
+wandb: 🚀 View run at https://wandb.ai/daidv/Time-MoE-Eval/runs/jvcbogu2
+  0%|          | 0/19488 [00:00<?, ?it/s]  0%|          | 0/19488 [00:01<?, ?it/s]
+Traceback (most recent call last):
+  File "/home/s223540177/Time-MoE/run_eval_steering_finetuned_dtf_fullsteer_unified_interpolate.py", line 540, in <module>
+    evaluate(args)
+  File "/home/s223540177/Time-MoE/run_eval_steering_finetuned_dtf_fullsteer_unified_interpolate.py", line 404, in evaluate
+    icv = obtain_icv_dtf(gt_list, pred_list, hidden_size=384)
+NameError: name 'obtain_icv_dtf' is not defined

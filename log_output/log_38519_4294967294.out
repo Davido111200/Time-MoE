@@ -1,0 +1,3 @@
+DATA: ETTh1
+>>> Model dtype: torch.float32; Attention:eager
+train 8033

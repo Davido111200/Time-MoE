@@ -1,0 +1,9 @@
+DATA: ETTh2
+>>> Model dtype: torch.float32; Attention:eager
+Saved Pred to /scratch/s223540177/Time-Moe/cache_data_finetuned/ETTh2/pred_cache.pt
+DATA: ETTh2
+>>> Model dtype: torch.float32; Attention:eager
+LOADDEDEDED
+Saved gt to /scratch/s223540177/Time-Moe/cache_data_finetuned/ETTh2/gt_cache.pt
+SORTED DONE
+2025-10-15 04:09:01,313 - log_util.py[pid:2226763;line:52:log_in_local_rank_0] - INFO: >>> Split test data from 2017-10-02 16:00:00 to 2018-02-20 23:00:00, and evaluation start date is: 2017-10-24 00:00:00

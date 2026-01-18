@@ -11,24 +11,20 @@ import torch.distributed as dist
 from torch.utils.data import DistributedSampler, DataLoader
 from tqdm import tqdm
 import random
-import wandb
 
 from transformers import AutoModelForCausalLM
 
 from data_provider.data_factory import data_provider
 from time_moe.datasets.benchmark_dataset import BenchmarkEvalDataset, BenchmarkEvalDatasetValid, BenchmarkEvalDatasetTrain, GeneralEvalDataset
 from utils.forward_tracer import ForwardTracer, ForwardTrace
-from util import obtain_icv_interpolate, obtain_icv_dtf, add_icv_layers_interpolate, add_icv_layers_confidence, add_icv_layers_new, remove_icv_layers, retrieve_examples_new, icv_tightness
+from util import obtain_icv_interpolate, obtain_icv_dtf, add_icv_layers_interpolate, add_icv_layers_new, remove_icv_layers, retrieve_examples_new
 # put this at the very top of your entry script (before creating any DataLoader)
 
 import torch.multiprocessing as mp
 mp.set_sharing_strategy("file_system")
 
-wandb.init(project='Time-MoE-Eval')
 logging.basicConfig(level=logging.INFO)
 
-
-SCRATCH_DIR = "/scratch/s223540177/Time-Moe/cache_data_finetuned"
 
 def setup_nccl(rank, world_size, master_addr='127.0.0.1', master_port=9899):
     dist.init_process_group("nccl", init_method='tcp://{}:{}'.format(master_addr, master_port), rank=rank,
@@ -76,7 +72,6 @@ def get_rep_with_hidden_states(model, series_1d_input_only, series_1d: torch.Ten
 
     x_input = series_1d_input_only.to(device=device, dtype=dtype)
 
-    # You don't need the tracer if hidden_states are returned.
     out = model(
         x,
         output_hidden_states=True,
@@ -183,13 +178,6 @@ def evaluate(args):
     seq_len = args.seq_len
     pred_len = args.pred_len
 
-    # min_len = seq_len + pred_len
-    # if args.pool_number < min_len:
-    #     print(f'Adjusting pool_number from {args.pool_number} to {min_len} to fit seq_len + pred_len')
-    #     max_train_samples = min_len
-    # else:
-    #     max_train_samples = args.pool_number
-
     max_train_samples = args.pool_number
 
     output_log = f"/home/s223540177/Time-MoE/results_steering/{args.data}.txt"
@@ -206,20 +194,7 @@ def evaluate(args):
     world_size = int(os.getenv('WORLD_SIZE') or 1)
     rank = int(os.getenv('RANK') or 0)
     local_rank = int(os.getenv('LOCAL_RANK') or 0)
-    # if torch.cuda.is_available():
-    #     try:
-    #         setup_nccl(rank=rank, world_size=world_size, master_addr=master_addr, master_port=master_port)
-    #         device = f"cuda:{local_rank}"
-    #         is_dist = True
-    #     except Exception as e:
-    #         print('Error: ', f'Setup nccl fail, so set device to cpu: {e}')
-    #         device = 'cpu'
-    #         is_dist = False
-    # else:
-    #     device = 'cpu'
-    #     is_dist = False
     device = f"cuda:{local_rank}"
-    is_dist = True
     
     # evaluation
     metric_list = [
@@ -234,12 +209,31 @@ def evaluate(args):
         pred_len=pred_len
     )
 
+
     ### Training gathering
     gt = {i: [] for i in range(args.dec_in)}
-    gt_path = os.path.join(SCRATCH_DIR, f'{args.data}/gt_cache.pt')
+    if args.pred_len in [96, 192, 336, 720]:
+        gt_path = os.path.join(SCRATCH_DIR, f'{args.data}/512_96/gt_cache.pt')
+    else:
+        gt_path = os.path.join(SCRATCH_DIR, f'{args.data}/96_24/gt_cache.pt')
+    # gt_path = os.path.join(SCRATCH_DIR, f'{args.data}/gt_cache.pt')
 
     pred = {i: [] for i in range(args.dec_in)}
-    pred_path = os.path.join(SCRATCH_DIR, f'{args.data}/pred_cache.pt')
+    if args.pred_len in [96, 192, 336, 720]:
+        pred_path = os.path.join(SCRATCH_DIR, f'{args.data}/512_96/pred_cache.pt')
+    else:
+        pred_path = os.path.join(SCRATCH_DIR, f'{args.data}/96_24/pred_cache.pt')
+    # pred_path = os.path.join(SCRATCH_DIR, f'{args.data}/{args.seq_len}_{args.pred_len}/pred_cache.pt')
+    # pred_path = os.path.join(SCRATCH_DIR, f'{args.data}/pred_cache.pt')
+
+    # if args.seq_len != 512:
+    #     if args.pred_len in [96, 192, 336, 720]:
+    #         gt_path = os.path.join(SCRATCH_DIR, f'{args.data}/{args.seq_len}_96/gt_cache_seq.pt')
+    #         pred_path = os.path.join(SCRATCH_DIR, f'{args.data}/{args.seq_len}_96/pred_cache_seq.pt')
+    #     else:
+    #         gt_path = os.path.join(SCRATCH_DIR, f'{args.data}/{args.seq_len}_24/gt_cache_seq.pt')
+    #         pred_path = os.path.join(SCRATCH_DIR, f'{args.data}/{args.seq_len}_24/pred_cache_seq.pt')
+
 
     if os.path.exists(pred_path):
         print("LOADDEDEDED")
@@ -295,8 +289,22 @@ def evaluate(args):
                 hs_cpu = hs.detach().cpu().to(torch.float16).contiguous()
                 inp    = batch['inputs'].detach().cpu().to(torch.float16).contiguous().clone()
 
-                pred[channel_id].append((idx, r_cpu, hs_cpu, inp))
+                B = r_cpu.shape[0]  # batch size
+                base_idx = idx * B  # base index for this batch
 
+                for b in range(B):
+                    global_idx = base_idx + b
+                    channel_id = global_idx // num_each
+                    # Clamp in case the last batch is incomplete
+                    channel_id = min(channel_id, args.dec_in - 1)
+                    pred[channel_id].append(
+                        (
+                            global_idx,
+                            r_cpu[b],      # per‑example representation
+                            hs_cpu[b],     # per‑example hidden state
+                            inp[b].clone(),  # per‑example input
+                        )
+                    )
                 del r, hs, inp, batch
 
                 pbar.update(1)
@@ -307,7 +315,6 @@ def evaluate(args):
         # save pred to pred_path
         torch.save(pred, pred_path)
         print(f'Saved Pred to {pred_path}')
-
 
 
     if os.path.exists(gt_path):
@@ -334,18 +341,39 @@ def evaluate(args):
                 # assert batch['inputs] exactly matches x
                 channel_id = idx // num_each
 
-                x = x.transpose(1, 2).squeeze(0)  # [D, T]
-                y = y.transpose(1, 2).squeeze(0)  # [D, T]
+                x = x.transpose(1, 2)  # [D, T]
+                y = y.transpose(1, 2)  # [D, T]
+                
+                if x.dim() == 3:
+                    x = x.squeeze(1)  # [D, T]
+                if y.dim() == 3:
+                    y = y.squeeze(1)  # [D, T]
 
                 # concatenate x and y along time dimension
-                ip_and_gt = torch.cat([x, y], dim=1)  # [D, T1+T2]
+                ip_and_gt = torch.cat([x, y], dim=-1)  # [D, T1+T2]
                 r, hs = get_rep_with_hidden_states(model.model, x, ip_and_gt)
 
                 # gt[channel_id].append((idx, r, hs, x))
                 r_cpu  = r.detach().cpu().to(torch.float16).contiguous()
                 hs_cpu = hs.detach().cpu().to(torch.float16).contiguous()
                 x_cpu = x.detach().cpu().to(torch.float16).contiguous().clone()
-                gt[channel_id].append((idx, r_cpu, hs_cpu, x_cpu))
+
+
+                B = r_cpu.shape[0]
+                base_idx = idx * B
+
+                for b in range(B):
+                    global_idx = base_idx + b
+                    channel_id = global_idx // num_each
+                    channel_id = min(channel_id, args.dec_in - 1)
+                    gt[channel_id].append(
+                        (
+                            global_idx,
+                            r_cpu[b],
+                            hs_cpu[b],
+                            x_cpu[b].clone(),  # per‑example input sequence
+                        )
+                    )
 
                 del r, hs, x
 
@@ -381,25 +409,6 @@ def evaluate(args):
     else:
         sampler = None
 
-    valid_dataset = BenchmarkEvalDatasetValid(
-        args.data_path,
-        seq_len=seq_len,
-        pred_len=pred_len,
-    )
-
-    valid_sampler = DistributedSampler(dataset=valid_dataset, shuffle=False) if torch.cuda.is_available() and dist.is_initialized() else None
-
-    valid_dl = DataLoader(
-        dataset=valid_dataset,
-        batch_size=batch_size,
-        sampler=valid_sampler,
-        shuffle=False,
-        num_workers=2,
-        prefetch_factor=2,
-        drop_last=False,
-        persistent_workers=False, # be explicit
-        pin_memory=False,         # no need here
-    )
 
     test_dl = DataLoader(
         dataset=dataset,
@@ -413,78 +422,6 @@ def evaluate(args):
         pin_memory=False,         # no need here
     )
 
-
-    collapse_weight_list = [0.0, 0.3, 0.6, 0.9, 1.0]
-    neighbor_list = [4, 6, 8, 10, 12, 14, 16]
-    lam_list = [0.01, 0.02, 0.03]
-
-
-    # # find best hyperparameters on validation set
-    # for collapse_weight in collapse_weight_list:
-    #     for neighbor in neighbor_list:
-    #         for lam in lam_list:
-    #             # reset metric
-    #             for metric in metric_list:
-    #                 metric.value = 0.0
-    #             acc_count = 0
-
-    #             with torch.no_grad():
-    #                 for idx, batch in enumerate(tqdm(valid_dl)):
-    #                     channel_id = batch['channel_id'].numpy()[0]
-    #                     gt_correspond = gt[channel_id]
-    #                     pred_correspond = pred[channel_id]
-
-    #                     rep = get_rep(model.model, batch['inputs'])
-
-    #                     dists, samples = retrieve_examples_new(
-    #                         args, rep, gt_correspond,
-    #                         pool_number=args.pool_number,
-    #                         topk=neighbor,
-    #                         query_series=batch['inputs'].cpu().numpy()
-    #                     )
-
-    #                     gt_list = [gt_correspond[k] for k in samples]
-    #                     pred_list = [pred_correspond[k] for k in samples]
-                                    
-    #                     icv = obtain_icv_interpolate(args, gt_list, pred_list, hidden_size=384,
-    #                                                 beta=collapse_weight, whiten=True)
-    #                     icv = icv[1:].to(device=device, dtype=model.dtype)
-    #                     add_icv_layers_interpolate(
-    #                         model.model,
-    #                         torch.stack([icv], dim=1).cuda() if device == 'cuda' else torch.stack([icv], dim=1),
-    #                         lam=[lam],
-    #                         beta=collapse_weight,
-    #                         max_frac=1.0
-    #                     )
-    #                     preds, labels = model.predict(batch)
-    #                     remove_icv_layers(model.model)
-    #                     mse_base_step = torch.mean((preds - labels) ** 2).item()
-
-    #                     for metric in metric_list:
-    #                         metric.push(preds, labels)
-
-    #                     acc_count += count_num_tensor_elements(preds)
-
-    #             ret_metric = {}
-    #             for metric in metric_list:
-    #                 ret_metric[metric.name] = metric.value / acc_count
-
-    #             print(f'Val - cw: {collapse_weight}, neighbor: {neighbor}, lam: {lam}, mse: {ret_metric["mse"]}')
-
-    #             if rank == 0:
-    #                 if collapse_weight == 0.0 and neighbor == 4 and lam == 0.01:
-    #                     best_mse = ret_metric['mse']
-    #                     best_weight = 0.0
-    #                     best_neighbor = 4
-    #                     best_lam = 0.01
-    #                 else:
-    #                     if ret_metric['mse'] < best_mse:
-    #                         best_mse = ret_metric['mse']
-    #                         best_weight = collapse_weight
-    #                         best_neighbor = neighbor
-    #                         best_lam = lam
-
-    # print(f'Best val - cw: {best_weight}, neighbor: {best_neighbor}, lam: {best_lam}, mse: {best_mse}')
 
     acc_count = 0
     with torch.no_grad():
@@ -502,14 +439,16 @@ def evaluate(args):
                 query_series=batch['inputs'].cpu().numpy()
             )
 
-            selected_dists = dists[samples]            # fancy indexing -> NumPy array
+            selected_dists = dists[samples]            
 
             gt_list = [gt_correspond[k] for k in samples]
             pred_list = [pred_correspond[k] for k in samples]
                         
             icv = obtain_icv_interpolate(args, gt_list, pred_list, hidden_size=384,
                                         beta=args.collapse_weight, whiten=True)
+            
             icv = icv[1:].to(device=device, dtype=model.dtype)
+            
             add_icv_layers_interpolate(
                 model.model,
                 torch.stack([icv], dim=1).cuda() if device == 'cuda' else torch.stack([icv], dim=1),
@@ -517,6 +456,7 @@ def evaluate(args):
                 beta=args.collapse_weight,
                 max_frac=1.0
             )
+
             preds, labels = model.predict(batch)
             remove_icv_layers(model.model)
             mse_base_step = torch.mean((preds - labels) ** 2).item()
@@ -529,7 +469,6 @@ def evaluate(args):
             ret_metric = {}
             for metric in metric_list:
                 ret_metric[metric.name] = metric.value / acc_count
-            wandb.log({f'eval/{metric.name}': ret_metric[metric.name] for metric in metric_list}, step=idx)
 
             with open(output_log, 'a') as f:
                 f.write(json.dumps({'step': idx, 'mse': mse_base_step, "dists": selected_dists.tolist()}) + '\n')
@@ -542,27 +481,16 @@ def evaluate(args):
     print(f'{rank} - {ret_metric}')
 
     metric_tensors = [metric.value for metric in metric_list] + [acc_count]
-    if is_dist:
-        stat_tensor = torch.tensor(metric_tensors).to(model.device)
-        gathered_results = [torch.zeros_like(stat_tensor) for _ in range(world_size)]
-        dist.all_gather(gathered_results, stat_tensor)
-        all_stat = torch.stack(gathered_results, dim=0).sum(dim=0)
-    else:
-        all_stat = metric_tensors
 
+    out_path = os.path.join("/home/s223540177/Time-MoE/metric_results", f'{args.seq_len}_{args.pred_len}/{args.data}/final_metrics/')
+    os.makedirs(os.path.dirname(out_path), exist_ok=True)
+
+    # save the results
     if rank == 0:
-        item = {
-            'model': args.model,
-            'data': args.data_path,
-            'seq_len': args.seq_len,
-            'pred_len': args.pred_len,
-        }
-
-        count = all_stat[-1]
-        for i, metric in enumerate(metric_list):
-            val = all_stat[i] / count
-            item[metric.name] = float(val.cpu().numpy())
-        logging.info(item)
+        with open(os.path.join(out_path, f'weight{args.collapse_weight}_lamb{args.lam}_neighbor{args.num_closest_samples}.txt'), 'w') as f:
+            for metric in metric_list:
+                f.write(f'{metric.name}: {ret_metric[metric.name]}\n')
+        print(f'Saved final metrics to {out_path}')
 
 
 if __name__ == '__main__':
@@ -632,15 +560,31 @@ if __name__ == '__main__':
     parser.add_argument('--collapse_weight', type=float, default=0.0)
 
     args = parser.parse_args()
+    # if args.seq_len is None:
+    #     if args.pred_len == 96:
+    #         args.seq_len = 512
+    #     elif args.pred_len == 192:
+    #         args.seq_len = 1024
+    #     elif args.pred_len == 336:
+    #         args.seq_len = 2048
+    #     elif args.pred_len == 720:
+    #         args.seq_len = 3072
+    #     else:
+    #         args.seq_len = args.pred_len * 4
+
+    print("ARGS SEQ LEN:", args.seq_len)
+    print("ARGS PRED LEN:", args.pred_len)
     if args.seq_len is None:
         if args.pred_len == 96:
             args.seq_len = 512
         elif args.pred_len == 192:
-            args.seq_len = 1024
+            args.seq_len = 512
         elif args.pred_len == 336:
-            args.seq_len = 2048
+            args.seq_len = 512
         elif args.pred_len == 720:
-            args.seq_len = 3072
+            args.seq_len = 512
         else:
-            args.seq_len = args.pred_len * 4
+            args.seq_len = 96
+    print("ARGS SEQ LEN:", args.seq_len)
+    print("ARGS PRED LEN:", args.pred_len)
     evaluate(args)

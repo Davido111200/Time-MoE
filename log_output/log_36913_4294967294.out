@@ -1,0 +1,6 @@
+DATA: weather
+>>> Model dtype: torch.bfloat16; Attention:eager
+train 36280
+Extracting representations and saving to /scratch/s223540177/Time-Moe/cache_data/weather/cache.pt
+Saved items to /scratch/s223540177/Time-Moe/cache_data/weather/cache.pt
+2025-10-01 17:03:26,652 - log_util.py[pid:2320083;line:52:log_in_local_rank_0] - INFO: >>> Split test data from 2020-10-16 06:20:00 to 2021-01-01 00:00:00, and evaluation start date is: 2020-10-19 19:40:00
