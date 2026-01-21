@@ -125,6 +125,45 @@ class MSEMetric(SumEvalMetric):
 class MAEMetric(SumEvalMetric):
     def _calculate(self, preds, labels, **kwargs):
         return torch.sum(torch.abs(preds - labels))
+    
+
+import torch
+import torch.nn.functional as F
+
+def fill_nans(x: torch.Tensor, window: int = 2) -> torch.Tensor:
+    if not torch.isnan(x).any():
+        return x
+
+    B, T = x.shape
+    device = x.device
+    dtype = x.dtype
+
+    valid = torch.isfinite(x)
+
+    x0 = torch.where(valid, x, torch.zeros_like(x))
+
+    k = 2 * window + 1
+    kernel = torch.ones(1, 1, k, device=device, dtype=dtype)
+
+    # [B, 1, T]
+    x0 = x0.unsqueeze(1)
+    valid = valid.unsqueeze(1).to(dtype)
+
+    sum_vals = F.conv1d(x0, kernel, padding=window)
+    count    = F.conv1d(valid, kernel, padding=window)
+
+    mean = sum_vals / count.clamp_min(1.0)
+
+    out = x.clone()
+    nan_mask = torch.isnan(out)
+
+    out[nan_mask] = mean.squeeze(1)[nan_mask]
+
+    # fallback if *all* neighbors are NaN
+    out[torch.isnan(out)] = 0.0
+
+    return out
+
 
 
 class TimerXL(nn.Module):
@@ -134,7 +173,7 @@ class TimerXL(nn.Module):
         self.model = AutoModelForCausalLM.from_pretrained(
             model_path,
             trust_remote_code=True,
-            torch_dtype="auto",
+            torch_dtype=torch.float32,
         )
         self.model.to(device)
 
@@ -145,20 +184,26 @@ class TimerXL(nn.Module):
         self.pred_len = pred_len
         self.dtype = self.model.dtype
         # self.model#\.eval()
+        self.model.config._attn_implementation = "eager"
+
 
     def predict(self, batch):
         pred_len = self.pred_len
 
         
-        print('batch: ', torch.sum(batch))
-        print("input shape: ", batch.shape)
+        # print('batch: ', torch.sum(batch))
+        # print("input shape: ", batch.shape)
+        # print(batch.dtype, batch.min().item(), batch.max().item(), torch.isfinite(batch).all().item())
+
         outputs = self.model.generate(
             batch.to(self.device).to(self.dtype),
             max_new_tokens=pred_len,
         )
         
         preds = outputs[:, -pred_len:]
-        print('preds: ', torch.sum(preds))
+
+        preds = fill_nans(preds, window=2)
+        # print('preds: ', torch.sum(preds))
         # labels = batch['labels'].to(device)
         # if len(preds.shape) > len(labels.shape):d
             # labels = labels[..., None]
